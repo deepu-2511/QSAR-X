@@ -1,0 +1,78 @@
+{
+  "curator_version": "2.3.0",
+  "summary": {
+    "curator_version": "2.3.0",
+    "total_rows": 19317,
+    "valid_smiles": 19283,
+    "invalid_smiles": 1,
+    "missing_smiles": 33,
+    "endpoint_rejected": 1,
+    "relation_rejected": 2,
+    "missing_activity": 5137,
+    "invalid_activity": 1,
+    "salt_standardized": 65,
+    "duplicate_measurement_rows": 4071,
+    "unique_compounds_before_aggregation": 10071,
+    "clean_compounds": 10071,
+    "activity_valid": 14142,
+    "rejected_records": 5175,
+    "quality_flags": 2
+  },
+  "quality": {
+    "pIC50_statistics": {
+      "count": 10071,
+      "mean": 7.221510277033065,
+      "median": 7.25,
+      "std": 1.2067840645366903,
+      "min": 0.5,
+      "max": 13.0,
+      "q01": 4.5969999999999995,
+      "q05": 5.27,
+      "q25": 6.35,
+      "q75": 7.96,
+      "q95": 9.29,
+      "q99": 10.26
+    },
+    "molecular_weight_statistics": {
+      "count": 10071,
+      "mean": 439.5416633429324,
+      "median": 433.49100000000016,
+      "std": 83.69897160722007,
+      "min": 16.043,
+      "max": 1518.8190000000004,
+      "q01": 258.28380000000004,
+      "q05": 313.3905000000001,
+      "q25": 384.8460000000002,
+      "q75": 487.46100000000024,
+      "q95": 588.6650000000002,
+      "q99": 650.6869999999998
+    },
+    "activity_mode": "pCHEMBL",
+    "activity_column": "pChEMBL Value",
+    "smiles_column": "Smiles",
+    "unit_column": "units",
+    "endpoint_column": "endpoint",
+    "relation_column": "relation",
+    "curator_version": "2.3.0",
+    "strict_endpoint": true,
+    "strict_relation": true,
+    "remove_salt": true,
+    "aggregate_duplicates": true,
+    "status_counts": {
+      "VALID": 14142,
+      "MISSING_ACTIVITY": 5137,
+      "MISSING": 33,
+      "RELATION_REJECTED": 2,
+      "INVALID": 1,
+      "ENDPOINT_REJECTED": 1,
+      "INVALID_ACTIVITY": 1
+    }
+  },
+  "detected_columns": {
+    "smiles": "Smiles",
+    "activity": "pChEMBL Value",
+    "units": "units",
+    "endpoint": "endpoint",
+    "relation": "relation"
+  }
+}

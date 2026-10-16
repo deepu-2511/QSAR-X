@@ -1,0 +1,71 @@
+{
+  "source": "PubChem BioAssay PUG-REST",
+  "selection": "Non-ChEMBL source, explicit IC50, explicit unit, exact relation, SMILES, PMID",
+  "files": [
+    {
+      "target_id": "CHEMBL2971",
+      "file": "CHEMBL2971_pubchem_independent_ic50.csv",
+      "raw_records": 105,
+      "unique_smiles_before_canonicalization": 105
+    }
+  ],
+  "audit": [
+    {
+      "target_id": "CHEMBL203",
+      "aid": 1742,
+      "status": "rejected",
+      "reason": "requires exactly one IC50 result column",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1742"
+    },
+    {
+      "target_id": "CHEMBL260",
+      "aid": 1395,
+      "status": "rejected",
+      "reason": "requires exactly one IC50 result column",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1395"
+    },
+    {
+      "target_id": "CHEMBL260",
+      "aid": 1811,
+      "status": "rejected",
+      "reason": "relation/qualifier absent from PubChem assay export",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1811"
+    },
+    {
+      "target_id": "CHEMBL2971",
+      "aid": 1446,
+      "status": "rejected",
+      "reason": "assay export exceeds PubChem record limit",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1446"
+    },
+    {
+      "target_id": "CHEMBL2971",
+      "aid": 1521,
+      "status": "rejected",
+      "reason": "requires exactly one IC50 result column",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1521"
+    },
+    {
+      "target_id": "CHEMBL2971",
+      "status": "extracted",
+      "aid": 1699,
+      "rows_accepted": 105,
+      "unit": "um",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1699"
+    },
+    {
+      "target_id": "CHEMBL2971",
+      "aid": 2165,
+      "status": "rejected",
+      "reason": "IC50 unit absent from PubChem field description",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/2165"
+    },
+    {
+      "target_id": "CHEMBL301",
+      "aid": 1811,
+      "status": "rejected",
+      "reason": "relation/qualifier absent from PubChem assay export",
+      "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1811"
+    }
+  ]
+}

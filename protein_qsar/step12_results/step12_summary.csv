@@ -1,0 +1,2 @@
+validation_R2,validation_RMSE,validation_MAE,test_R2,test_RMSE,test_MAE,calibrated_AD_threshold,uncertainty_threshold,uncertainty_error_correlation,similarity_error_correlation,test_high_confidence_count,test_caution_count,test_out_of_domain_count
+0.6306125118150526,0.8983082891808388,0.6697046136027995,0.6241295397931776,0.8359309375059175,0.6485637708982442,0.5999999999999999,0.8987829845691943,0.3816629749794561,-0.26671549148280266,296,43,186

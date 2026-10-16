@@ -1,0 +1,30 @@
+{
+  "model_version": "baseline_v2",
+  "model_path": "models_deploy/multitarget/baseline_v2/candidate_model.joblib",
+  "evaluation_report": "models/multitarget/baseline_v2/evaluation_report.json",
+  "target_ids": [
+    "CHEMBL1824",
+    "CHEMBL1862",
+    "CHEMBL203",
+    "CHEMBL260",
+    "CHEMBL267",
+    "CHEMBL279",
+    "CHEMBL2971",
+    "CHEMBL301",
+    "CHEMBL3587",
+    "CHEMBL3717",
+    "CHEMBL4282",
+    "CHEMBL5145"
+  ],
+  "research_prediction_enabled": true,
+  "quality_gates": {
+    "at_least_10_targets": true,
+    "leave_target_out_available": true,
+    "leave_target_out_rmse_le_1": false,
+    "leave_target_out_spearman_ge_0_5": false
+  },
+  "quality_gates_passed": false,
+  "status": "research_candidate_gates_failed",
+  "created_utc": "2026-10-15T01:51:23.581490+00:00",
+  "warning": "Sequence-conditioned multi-target prediction is research-only and is not a replacement for a target-specific validated model."
+}

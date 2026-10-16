@@ -1,0 +1,1 @@
+ChEMBL ID,Smiles,pChEMBL Value,endpoint,relation,units,test_case,data_source,canonical_smiles,pIC50,measurement_count,pIC50_mean,pIC50_std,pIC50_min,pIC50_max,molecular_weight,logp,tpsa,hbd,hba,rotatable_bonds,rings,curation_status,curation_message,quality_flag,salt_standardized,activity_mode,audit_smiles_valid,pIC50_numeric,audit_flags

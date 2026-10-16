@@ -1,0 +1,29 @@
+{
+  "target_chembl_id": "CHEMBL3717",
+  "target_uniprot_accession": "P08581",
+  "model_version": "baseline_v1",
+  "model_sha256": "a15e75b06d1877d95d3eda365289af214c214a50517828599503494d629589c1",
+  "source_database": "BindingDB REST",
+  "source_url": "https://bindingdb.org/rest/getLigandsByUniprot?uniprot=P08581;100000&response=application/json",
+  "retrieved_utc": "2026-10-15T04:41:51.549021+00:00",
+  "exact_structure_overlaps_removed": 576,
+  "metrics_on_external_source_nonoverlap": {
+    "n_compounds": 83,
+    "R2": 0.5958890581031744,
+    "RMSE_pIC50": 0.8129110288890623,
+    "MAE_pIC50": 0.4942155915664353,
+    "Spearman": 0.8199705132679179
+  },
+  "quality_gates": {
+    "accession_matches": true,
+    "exact_structure_overlap_removed": true,
+    "minimum_30_external_compounds": true,
+    "relation_and_assay_context_documented": false
+  },
+  "quality_gates_passed": false,
+  "status": "external_source_exploratory_only",
+  "limitations": [
+    "BindingDB REST omits relation operators, detailed assay context and auditable publication provenance.",
+    "This report cannot promote the model to commercial/validated status."
+  ]
+}

@@ -1,0 +1,23 @@
+EGFR ASSAY CONTEXT AUDIT - REVIEW ONLY
+================================================
+Assay metadata rows: 457
+Unique assay IDs: 457
+Measurement rows: 4992
+Flagged mutant assays: 19
+Manual review queue rows: 362
+Missing assay descriptions: 0
+
+ASSAY COUNTS BY CONTEXT
+assay_context_group
+OTHER_OR_REVIEW_REQUIRED             276
+CELL_BASED_OR_CELL_ASSOCIATED         95
+BIOCHEMICAL_OR_RECOMBINANT_REVIEW     61
+MUTANT_SPECIFIC_REVIEW                19
+IN_VITRO_CONTEXT_UNCLEAR               6
+
+TARGET COUNTS
+target_chembl_id
+CHEMBL203    457
+
+IMPORTANT: Flags are for manual review, not automatic exclusion.
+No training data or model was changed by this script.

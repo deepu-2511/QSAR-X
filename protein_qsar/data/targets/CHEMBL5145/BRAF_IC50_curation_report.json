@@ -1,0 +1,44 @@
+{
+  "target_chembl_id": "CHEMBL5145",
+  "endpoint": "IC50",
+  "source_file": "data\\targets\\CHEMBL5145\\BRAF_IC50_raw.csv",
+  "source_file_sha256": "ab602d3df8c1e8923a53247cc1b324bda8d66ca8b7d96574527c9f2547cb0ae3",
+  "clean_file": "data\\targets\\CHEMBL5145\\BRAF_IC50_clean.csv",
+  "activity_transform": "pIC50 = 9 - log10(IC50_nM)",
+  "aggregation_policy": "median pIC50 per isomeric canonical SMILES; retain measurement spread and source IDs",
+  "raw_rows": 10831,
+  "raw_unique_molecule_ids": 6596,
+  "filter_exclusions_nonexclusive": {
+    "wrong_target": 0,
+    "wrong_endpoint": 0,
+    "non_exact_relation": 1726,
+    "wrong_or_missing_units": 0,
+    "invalid_or_nonpositive_value": 0
+  },
+  "eligible_exact_positive_nM_rows": 9105,
+  "invalid_smiles_after_endpoint_filter": 1,
+  "retained_measurements": 9104,
+  "unique_canonical_compounds": 5384,
+  "repeated_measurements_collapsed": 3720,
+  "unique_assays": 521,
+  "unique_documents": 286,
+  "assay_type_measurement_counts": {
+    "B": 9036,
+    "F": 61,
+    "A": 7
+  },
+  "compounds_with_repeated_measurements": 2334,
+  "repeated_measurement_spread": {
+    "compounds_with_pIC50_range_ge_1": 449,
+    "compounds_with_pIC50_range_ge_2": 157,
+    "maximum_pIC50_range": 4.909823369650912
+  },
+  "pIC50_summary": {
+    "min": 1.6020540849631715,
+    "median": 7.619788758288394,
+    "mean": 7.425419182657997,
+    "max": 10.698970004336019
+  },
+  "caveat": "Curation does not establish assay comparability or model validity; inspect assay/source heterogeneity before training.",
+  "clean_file_sha256": "7da12879a165db0ca86ea9ec51a9b29f87f29492a095758d882e190bd72345d2"
+}

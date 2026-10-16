@@ -1,0 +1,25 @@
+protein_qsar/venv/
+protein_qsar/backend/.venv/
+protein_qsar/frontend/node_modules/
+protein_qsar/frontend/dist/
+protein_qsar/.runtime/
+protein_qsar/tmp/
+protein_qsar/**/__pycache__/
+protein_qsar/**/.env
+protein_qsar/**/.env.*
+!protein_qsar/**/.env.example
+protein_qsar/model_backups/
+protein_qsar/backend/retraining_artifacts/
+protein_qsar/**/*.pkl
+protein_qsar/**/*.joblib
+protein_qsar/**/*.h5
+protein_qsar/**/*.pt
+protein_qsar/**/*.pth
+protein_qsar/**/*.onnx
+protein_qsar.7z
+qsar_file_list.csv
+
+# Deployment copies are compressed below GitHub's per-file limit and are needed
+# for the hosted FastAPI service.
+!protein_qsar/models_deploy/
+!protein_qsar/models_deploy/**

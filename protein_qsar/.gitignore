@@ -1,0 +1,41 @@
+venv/
+.venv/
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Python environment
+venv/
+.venv/
+__pycache__/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Generated training artifacts and backups
+backend/retraining_artifacts/
+model_backups/
+
+# Large trained models: store separately
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Runtime model copies used by Docker deployment
+!models_deploy/
+!models_deploy/**/
+!models_deploy/**/*.joblib
+
+# Frontend dependencies and build
+node_modules/
+dist/
+build/

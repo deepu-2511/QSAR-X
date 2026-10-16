@@ -1,0 +1,7 @@
+smiles,ic50,units
+CCOc1ccc2nc(S(N)(=O)=O)sc2c1,5819,nM
+CCO,10000,nM
+CCN,5000,nM
+c1ccccc1,25000,nM
+invalid_smiles,1000,nM
+,500,nM

@@ -1,0 +1,23 @@
+BRAF (CHEMBL5145) IC50 CURATION REPORT
+================================================
+Raw activity rows: 10831
+Exact positive IC50 nM measurements: 9105
+Invalid SMILES among eligible measurements: 1
+Retained measurements: 9104
+Unique canonical compounds: 5384
+Repeated measurements collapsed: 3720
+Unique assays / documents: 521 / 286
+Repeated compounds with pIC50 range >= 1 / >= 2: 449 / 157
+pIC50 range: 1.602–10.699
+
+Non-exclusive exclusion counts:
+  wrong_target: 0
+  wrong_endpoint: 0
+  non_exact_relation: 1726
+  wrong_or_missing_units: 0
+  invalid_or_nonpositive_value: 0
+
+Curation does not establish assay comparability or model validity; inspect assay/source heterogeneity before training.
+
+Clean data: BRAF_IC50_clean.csv
+Machine-readable report: BRAF_IC50_curation_report.json

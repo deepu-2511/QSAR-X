@@ -1,0 +1,142 @@
+[
+  {
+    "target_id": "CHEMBL1824",
+    "uniprot_accession": "P04626",
+    "target_name": "Receptor tyrosine-protein kinase erbB-2",
+    "template": "data/external_validation/CHEMBL1824_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL1862",
+    "uniprot_accession": "P00519",
+    "target_name": "Tyrosine-protein kinase ABL1",
+    "template": "data/external_validation/CHEMBL1862_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL1936",
+    "uniprot_accession": "P10721",
+    "target_name": "Mast/stem cell growth factor receptor Kit",
+    "template": "data/external_validation/CHEMBL1936_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL1957",
+    "uniprot_accession": "P08069",
+    "target_name": "Insulin-like growth factor 1 receptor",
+    "template": "data/external_validation/CHEMBL1957_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL1974",
+    "uniprot_accession": "P36888",
+    "target_name": "Receptor-type tyrosine-protein kinase FLT3",
+    "template": "data/external_validation/CHEMBL1974_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL2007",
+    "uniprot_accession": "P16234",
+    "target_name": "Platelet-derived growth factor receptor alpha",
+    "template": "data/external_validation/CHEMBL2007_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL203",
+    "uniprot_accession": "P00533",
+    "target_name": "Epidermal growth factor receptor",
+    "template": "data/external_validation/CHEMBL203_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL2041",
+    "uniprot_accession": "P07949",
+    "target_name": "Proto-oncogene tyrosine-protein kinase receptor Ret",
+    "template": "data/external_validation/CHEMBL2041_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL260",
+    "uniprot_accession": "Q16539",
+    "target_name": "Mitogen-activated protein kinase 14",
+    "template": "data/external_validation/CHEMBL260_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL267",
+    "uniprot_accession": "P12931",
+    "target_name": "Proto-oncogene tyrosine-protein kinase Src",
+    "template": "data/external_validation/CHEMBL267_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL279",
+    "uniprot_accession": "P35968",
+    "target_name": "Vascular endothelial growth factor receptor 2",
+    "template": "data/external_validation/CHEMBL279_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL2842",
+    "uniprot_accession": "P42345",
+    "target_name": "Serine/threonine-protein kinase mTOR",
+    "template": "data/external_validation/CHEMBL2842_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL2971",
+    "uniprot_accession": "O60674",
+    "target_name": "Tyrosine-protein kinase JAK2",
+    "template": "data/external_validation/CHEMBL2971_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL301",
+    "uniprot_accession": "P24941",
+    "target_name": "Cyclin-dependent kinase 2",
+    "template": "data/external_validation/CHEMBL301_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL3587",
+    "uniprot_accession": "Q02750",
+    "target_name": "Dual specificity mitogen-activated protein kinase kinase 1",
+    "template": "data/external_validation/CHEMBL3587_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL3650",
+    "uniprot_accession": "P11362",
+    "target_name": "Fibroblast growth factor receptor 1",
+    "template": "data/external_validation/CHEMBL3650_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL3717",
+    "uniprot_accession": "P08581",
+    "target_name": "Hepatocyte growth factor receptor",
+    "template": "data/external_validation/CHEMBL3717_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL4005",
+    "uniprot_accession": "P42336",
+    "target_name": "Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",
+    "template": "data/external_validation/CHEMBL4005_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL4282",
+    "uniprot_accession": "P31749",
+    "target_name": "RAC-alpha serine/threonine-protein kinase",
+    "template": "data/external_validation/CHEMBL4282_external_ic50.csv",
+    "minimum_records": 30
+  },
+  {
+    "target_id": "CHEMBL5145",
+    "uniprot_accession": "P15056",
+    "target_name": "Serine/threonine-protein kinase B-raf",
+    "template": "data/external_validation/CHEMBL5145_external_ic50.csv",
+    "minimum_records": 30
+  }
+]

@@ -1,0 +1,227 @@
+{
+  "created_utc": "2026-10-15T04:09:25.429065+00:00",
+  "minimum_compounds": 500,
+  "trained": [
+    {
+      "target_id": "CHEMBL1824",
+      "n_compounds": 2522,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.6294974525031672,
+        "RMSE": 0.7407420613834921,
+        "MAE": 0.5710346220293145
+      }
+    },
+    {
+      "target_id": "CHEMBL1862",
+      "n_compounds": 2151,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.7982637508275037,
+        "RMSE": 0.6826552334266776,
+        "MAE": 0.5117429720636057
+      }
+    },
+    {
+      "target_id": "CHEMBL1936",
+      "n_compounds": 1946,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.4203053412555863,
+        "RMSE": 0.7497172230454614,
+        "MAE": 0.570326929416326
+      }
+    },
+    {
+      "target_id": "CHEMBL1957",
+      "n_compounds": 2324,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.7686317282428513,
+        "RMSE": 0.5933696852167438,
+        "MAE": 0.40964896762112746
+      }
+    },
+    {
+      "target_id": "CHEMBL1974",
+      "n_compounds": 3766,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.6082374549961351,
+        "RMSE": 0.782484068753329,
+        "MAE": 0.6055981058876909
+      }
+    },
+    {
+      "target_id": "CHEMBL2007",
+      "n_compounds": 632,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.40923336569847035,
+        "RMSE": 0.7983772605754014,
+        "MAE": 0.6154971158868083
+      }
+    },
+    {
+      "target_id": "CHEMBL203",
+      "n_compounds": 10834,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.552391647478667,
+        "RMSE": 0.8504126195823366,
+        "MAE": 0.6350314401442798
+      }
+    },
+    {
+      "target_id": "CHEMBL2041",
+      "n_compounds": 3980,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.6159771027182637,
+        "RMSE": 0.6120553272542402,
+        "MAE": 0.4431912259879467
+      }
+    },
+    {
+      "target_id": "CHEMBL260",
+      "n_compounds": 4744,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.5460632816436641,
+        "RMSE": 0.7199625726197366,
+        "MAE": 0.5501079289433689
+      }
+    },
+    {
+      "target_id": "CHEMBL267",
+      "n_compounds": 3601,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.7326265601980071,
+        "RMSE": 0.8410909617977707,
+        "MAE": 0.6099386001396041
+      }
+    },
+    {
+      "target_id": "CHEMBL279",
+      "n_compounds": 9762,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.5414823843166352,
+        "RMSE": 0.7589358593587202,
+        "MAE": 0.5795481286403122
+      }
+    },
+    {
+      "target_id": "CHEMBL2842",
+      "n_compounds": 4354,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.7468040103341423,
+        "RMSE": 0.6029292993241138,
+        "MAE": 0.456900119878726
+      }
+    },
+    {
+      "target_id": "CHEMBL2971",
+      "n_compounds": 10405,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.715814220790044,
+        "RMSE": 0.6959981697354197,
+        "MAE": 0.5126982399182182
+      }
+    },
+    {
+      "target_id": "CHEMBL301",
+      "n_compounds": 2115,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.5687863103732611,
+        "RMSE": 0.8429947211428641,
+        "MAE": 0.6378421338992835
+      }
+    },
+    {
+      "target_id": "CHEMBL3587",
+      "n_compounds": 866,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.41905746016172996,
+        "RMSE": 0.7668409752643093,
+        "MAE": 0.6133933828459542
+      }
+    },
+    {
+      "target_id": "CHEMBL3650",
+      "n_compounds": 3596,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.6945719129400211,
+        "RMSE": 0.6573465521389373,
+        "MAE": 0.5048229586520833
+      }
+    },
+    {
+      "target_id": "CHEMBL3717",
+      "n_compounds": 4193,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.629423912826363,
+        "RMSE": 0.6469037150912564,
+        "MAE": 0.48961154998275114
+      }
+    },
+    {
+      "target_id": "CHEMBL4005",
+      "n_compounds": 6465,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.7138438416065294,
+        "RMSE": 0.6162897963074786,
+        "MAE": 0.46674187782502513
+      }
+    },
+    {
+      "target_id": "CHEMBL4282",
+      "n_compounds": 3455,
+      "return_code": 0,
+      "model_version": "baseline_v1",
+      "scaffold_test_metrics": {
+        "R2": 0.6675685430883935,
+        "RMSE": 0.7312791290762765,
+        "MAE": 0.5663219817344535
+      }
+    },
+    {
+      "target_id": "CHEMBL5145",
+      "n_compounds": 5384,
+      "return_code": 0,
+      "model_version": "baseline_v2",
+      "scaffold_test_metrics": {
+        "R2": 0.719837552116283,
+        "RMSE": 0.6563564570185723,
+        "MAE": 0.4825940185119612
+      }
+    }
+  ],
+  "note": "Each candidate is internal scaffold-validated only. External assay-source validation is required before prediction promotion."
+}

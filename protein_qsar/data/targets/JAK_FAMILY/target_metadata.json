@@ -1,0 +1,30 @@
+{
+  "target_id": "JAK_FAMILY",
+  "gene": "JAK",
+  "name": "Janus kinase family (JAK1/JAK2/JAK3, user-supplied pooled dataset)",
+  "organism": "Homo sapiens",
+  "target_type": "family / pooled endpoint",
+  "endpoint": "pChEMBL value",
+  "source_file": "C:\\Users\\MANEESTHILAGAR\\OneDrive\\Desktop\\QSAR12\\Data\\compound.csv",
+  "source_sha256": "47a8831fbb658ca47de932edf559e1d196a8353459ce2ccb0d32f4a16bf283dc",
+  "source_rows": 19301,
+  "source_columns": [
+    "ChEMBL ID",
+    "Smiles",
+    "pChEMBL Value"
+  ],
+  "valid_measurements": 14132,
+  "unique_structures": 10070,
+  "duplicate_measurements_aggregated": 4062,
+  "pchembl_range": [
+    3.84,
+    10.97
+  ],
+  "known_overlap_with_current_JAK2_training_unique_structures": 10070,
+  "overlap_fraction_of_pan_jak_structures": 1.0,
+  "limitations": [
+    "Source file has no per-row JAK1/JAK2/JAK3 target label, assay type, relation, unit, or provenance.",
+    "The endpoint is retained as user-supplied pChEMBL value; it must not be represented as an independently validated IC50 model.",
+    "All 10,070 unique structures overlap the existing local JAK2 training dataset, so this dataset cannot be used as an independent test."
+  ]
+}

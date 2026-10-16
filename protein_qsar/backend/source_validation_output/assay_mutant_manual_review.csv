@@ -1,0 +1,20 @@
+assay_chembl_id,description,assay_type,assay_test_type,assay_category,bao_format,bao_label,assay_organism,assay_tax_id,assay_cell_type,assay_tissue,target_chembl_id,confidence_score,relationship_type,document_chembl_id,variant_id,assay_context_group
+CHEMBL1044057,Inhibition of Her1 T790M mutant by fluorescence polarization assay,B,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1154692,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1105217,Inhibition of EGFR Leu858Arg mutant by HTRF assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1156950,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1105218,Inhibition of EGFR Leu858Arg and Thr790Met mutant by HTRF assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1156950,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1108837,Inhibition of EGFR L858R mutant by time resolved fluorescence assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1156213,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1176123,Inhibition of EGFR L858R/T790M double mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1177739,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1244583,Inhibition of EGFR T790M mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1240341,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1273339,Inhibition of EGFR L858R/T790M double mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1269003,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1785574,Inhibition of human EGFR L858R mutant using poly[Glu:Tyr] by Hotspot assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1781971,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1947771,Inhibition of EGFR T790M/L858R mutant expressed using baculovirus expression system by ELISA,B,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1944545,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2015061,"Inhibition of EGFR L858R mutant using poly(Glu,Tyr) as substrate assessed as [33P-gamma]-ATP incorporation after 60 mins by microplate scintillation counting",B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2010688,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033042,Inhibition of EGFR T790M mutant autophosphorylation in human NCI-H1975 cells after 1 hr by Western blot analysis,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,NCI-H1975,,CHEMBL203,9,D,CHEMBL2029270,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033652,Inhibition of EGFR T790M mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033653,Inhibition of EGFR L858R mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033654,Inhibition of EGFR L861Q mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033655,Inhibition of EGFR L858R/T790M mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2038917,Inhibition of EGFR T790M mutant preincubated for 10 mins followed by incubation for 30 mins by fluorescence polarization assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2034880,,MUTANT_SPECIFIC_REVIEW
+CHEMBL939338,Inhibition of EGFR L858R mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1145498,,MUTANT_SPECIFIC_REVIEW
+CHEMBL939339,Inhibition of EGFR L861Q mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1145498,,MUTANT_SPECIFIC_REVIEW
+CHEMBL964130,Inhibition of EGFR L858R mutant by time resolved fluorescence assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1153290,,MUTANT_SPECIFIC_REVIEW

@@ -1,0 +1,15 @@
+metric,value
+Test_R2,0.6703507933866614
+Test_RMSE,0.7828477689006687
+Test_MAE,0.6019958302989278
+Mean_Residual,-0.12841762781543659
+Median_Residual,-0.157665662156389
+Residual_SD,0.7722431884704524
+Maximum_Absolute_Error,3.2329716021602586
+Error_<=_0.5_percent,51.23809523809524
+Error_<=_1.0_percent,82.0952380952381
+Error_<=_1.5_percent,94.66666666666667
+Error_>_1.5_percent,5.333333333333334
+SHAP_Sample_Size,200.0
+Fingerprint_Bits,2048.0
+Fingerprint_Radius,2.0

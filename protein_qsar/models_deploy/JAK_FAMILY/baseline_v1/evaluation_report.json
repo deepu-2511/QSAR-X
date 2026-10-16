@@ -1,0 +1,101 @@
+{
+  "target_chembl_id": "JAK_FAMILY",
+  "endpoint": "user-supplied pChEMBL value",
+  "target_value": "User-supplied pChEMBL value; per-row endpoint metadata unavailable",
+  "created_utc": "2026-10-15T07:23:17.521135+00:00",
+  "status": "candidate_only_not_production_approved",
+  "dataset": "data/targets/JAK_FAMILY/JAK_family_pChEMBL_clean.csv",
+  "dataset_sha256": "2b21e7e2718ebf80dfbabf522cf9c30d538113fbfdd2fcda3a8bc312fe6e654d",
+  "n_compounds": 10070,
+  "n_scaffolds": 3731,
+  "fingerprint": {
+    "type": "Morgan",
+    "radius": 2,
+    "bits": 2048
+  },
+  "split_method": "two-stage GroupShuffleSplit by chirality-aware Bemis-Murcko scaffold; intended 64/16/20 proportions are approximate because groups remain intact",
+  "split_counts": {
+    "train": 6605,
+    "validation": 1601,
+    "scaffold_test": 1864,
+    "train_scaffolds": 2387,
+    "validation_scaffolds": 597,
+    "test_scaffolds": 747
+  },
+  "cv_model_comparison": [
+    {
+      "model": "MedianBaseline",
+      "CV_R2_mean": -0.0017452281775460765,
+      "CV_R2_std": 0.002467402708635359,
+      "CV_RMSE_mean": 1.1983266943257647,
+      "CV_RMSE_std": 0.05227615800232821,
+      "CV_MAE_mean": 0.9539029434092864,
+      "CV_MAE_std": 0.03621321138103676
+    },
+    {
+      "model": "ExtraTrees",
+      "CV_R2_mean": 0.6271122497146423,
+      "CV_R2_std": 0.02610692241116077,
+      "CV_RMSE_mean": 0.7300972542387657,
+      "CV_RMSE_std": 0.0110695410227158,
+      "CV_MAE_mean": 0.5364411932112514,
+      "CV_MAE_std": 0.0015739297475269452
+    },
+    {
+      "model": "RandomForest",
+      "CV_R2_mean": 0.6204969603611353,
+      "CV_R2_std": 0.029826926860571465,
+      "CV_RMSE_mean": 0.7363373117729433,
+      "CV_RMSE_std": 0.0030862621879751235,
+      "CV_MAE_mean": 0.5474255011656889,
+      "CV_MAE_std": 0.007871200795130618
+    }
+  ],
+  "selected_model_by_train_cv_rmse": "ExtraTrees",
+  "selected_model_parameters": {
+    "bootstrap": false,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": 40,
+    "max_features": 0.3,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 2,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 160,
+    "n_jobs": -1,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "candidate_model_file": "candidate_model.joblib",
+  "candidate_model_sha256": "5cc68c571838f544b40d7e40a0c87f27c6a7c21766ebfe23aef9df55a92b515a",
+  "validation_metrics": {
+    "R2": 0.6746777985009296,
+    "RMSE": 0.691541431881624,
+    "MAE": 0.4920187560814508
+  },
+  "scaffold_test_metrics": {
+    "R2": 0.6573174819581706,
+    "RMSE": 0.7033641866677015,
+    "MAE": 0.5227966431182278
+  },
+  "limitations": [
+    "Scaffold-held-out test is internal validation, not independent external validation.",
+    "User source lacks per-row JAK1/JAK2/JAK3 labels, assay type, relation, units, and provenance.",
+    "All unique source structures overlap the current local JAK2 training set; no independent test claim is possible.",
+    "Do not claim performance for other targets, endpoints, or out-of-domain chemistry.",
+    "Model is a research candidate and is not registered for production prediction."
+  ],
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scikit_learn": "1.9.1",
+    "rdkit": "2026.09.1"
+  }
+}

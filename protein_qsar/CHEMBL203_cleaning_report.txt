@@ -1,0 +1,22 @@
+QSAR DATA CURATION REPORT
+============================================================
+Input file: CHEMBL203_IC50_raw.csv
+Initial records: 4992
+Final unique molecules: 3497
+
+Filtering summary:
+Endpoint filtering removed: 0
+Invalid/non-positive activity removed: 0
+Invalid SMILES removed: 0
+Unique canonical molecules: 3497
+Repeated measurements aggregated: 1495
+
+pIC50 statistics:
+Minimum: 1.602
+Maximum: 11.523
+Mean: 6.345
+Median: 6.215
+Standard deviation: 1.433
+
+Clean dataset: CHEMBL203_IC50_clean.csv
+Cleaning report: CHEMBL203_cleaning_report.txt

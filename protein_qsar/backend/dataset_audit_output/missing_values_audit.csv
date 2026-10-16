@@ -1,0 +1,28 @@
+column,missing_count,missing_percent,unique_values
+ChEMBL ID,0,0.0,10071
+Smiles,0,0.0,10071
+pChEMBL Value,0,0.0,633
+endpoint,0,0.0,2
+relation,0,0.0,1
+units,1,0.0099,4
+test_case,0,0.0,9
+data_source,0,0.0,2
+canonical_smiles,0,0.0,10071
+pIC50,0,0.0,933
+measurement_count,0,0.0,24
+pIC50_mean,0,0.0,1183
+pIC50_std,0,0.0,675
+pIC50_min,0,0.0,634
+pIC50_max,0,0.0,629
+molecular_weight,0,0.0,6768
+logp,0,0.0,7872
+tpsa,0,0.0,2721
+hbd,0,0.0,10
+hba,0,0.0,15
+rotatable_bonds,0,0.0,22
+rings,0,0.0,10
+curation_status,0,0.0,1
+curation_message,0,0.0,1
+quality_flag,10069,99.9801,2
+salt_standardized,0,0.0,2
+activity_mode,0,0.0,1

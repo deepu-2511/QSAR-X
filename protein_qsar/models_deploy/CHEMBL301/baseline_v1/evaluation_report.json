@@ -1,0 +1,102 @@
+{
+  "target_chembl_id": "CHEMBL301",
+  "endpoint": "IC50",
+  "target_value": "pIC50 = 9 - log10(IC50_nM)",
+  "created_utc": "2026-10-15T03:46:05.253739+00:00",
+  "status": "candidate_only_not_production_approved",
+  "dataset": "data/targets/CHEMBL301/IC50_clean.csv",
+  "dataset_sha256": "996d689ef4fd0d97979e106eca67f13afa5ba7456c0f9af9105963d1e8f9dc16",
+  "n_compounds": 2115,
+  "n_scaffolds": 921,
+  "fingerprint": {
+    "type": "Morgan",
+    "radius": 2,
+    "bits": 2048
+  },
+  "split_method": "two-stage GroupShuffleSplit by chirality-aware Bemis-Murcko scaffold; intended 64/16/20 proportions are approximate because groups remain intact",
+  "split_counts": {
+    "train": 1182,
+    "validation": 318,
+    "scaffold_test": 615,
+    "train_scaffolds": 588,
+    "validation_scaffolds": 148,
+    "test_scaffolds": 185
+  },
+  "cv_model_comparison": [
+    {
+      "model": "MedianBaseline",
+      "CV_R2_mean": -0.0781549666597204,
+      "CV_R2_std": 0.07970635320489515,
+      "CV_RMSE_mean": 1.2988756439182856,
+      "CV_RMSE_std": 0.1235369941399026,
+      "CV_MAE_mean": 1.0599485314418766,
+      "CV_MAE_std": 0.07158747332508957
+    },
+    {
+      "model": "ExtraTrees",
+      "CV_R2_mean": 0.3763374438328991,
+      "CV_R2_std": 0.01662545330278913,
+      "CV_RMSE_mean": 0.9869715420899435,
+      "CV_RMSE_std": 0.06073823449758511,
+      "CV_MAE_mean": 0.7462758290177214,
+      "CV_MAE_std": 0.03021094174375414
+    },
+    {
+      "model": "RandomForest",
+      "CV_R2_mean": 0.36444140401324693,
+      "CV_R2_std": 0.04851103141305638,
+      "CV_RMSE_mean": 0.9971699766091536,
+      "CV_RMSE_std": 0.09438691798677286,
+      "CV_MAE_mean": 0.7749061471629046,
+      "CV_MAE_std": 0.05886682158342291
+    },
+    {
+      "model": "SVR",
+      "CV_R2_mean": 0.43313564652034486,
+      "CV_R2_std": 0.036377091241266764,
+      "CV_RMSE_mean": 0.9412926360837842,
+      "CV_RMSE_std": 0.07741351320000556,
+      "CV_MAE_mean": 0.7308193458750578,
+      "CV_MAE_std": 0.05010730729254962
+    }
+  ],
+  "selected_model_by_train_cv_rmse": "SVR",
+  "selected_model_parameters": {
+    "C": 10.0,
+    "cache_size": 200,
+    "coef0": 0.0,
+    "degree": 3,
+    "epsilon": 0.2,
+    "gamma": "scale",
+    "kernel": "rbf",
+    "max_iter": -1,
+    "shrinking": true,
+    "tol": 0.001,
+    "verbose": false
+  },
+  "candidate_model_file": "candidate_model.joblib",
+  "candidate_model_sha256": "fe4bd91b06ca88966bd1c57de38f041b5ac058b782ad0f21743c4f191a3d8110",
+  "validation_metrics": {
+    "R2": 0.6702707955965953,
+    "RMSE": 0.7559342358059796,
+    "MAE": 0.5937654979482268
+  },
+  "scaffold_test_metrics": {
+    "R2": 0.5687863103732611,
+    "RMSE": 0.8429947211428641,
+    "MAE": 0.6378421338992835
+  },
+  "limitations": [
+    "Scaffold-held-out test is internal validation, not independent external validation.",
+    "No assay-context harmonization beyond endpoint, relation, units, and exact positive-value filters.",
+    "Do not claim performance for other targets, endpoints, or out-of-domain chemistry.",
+    "Model is a research candidate and is not registered for production prediction."
+  ],
+  "software": {
+    "python": "3.12.14",
+    "numpy": "2.5.4",
+    "pandas": "3.0.1",
+    "scikit_learn": "1.9.1",
+    "rdkit": "2026.09.1"
+  }
+}

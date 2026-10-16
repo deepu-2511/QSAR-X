@@ -1,0 +1,6 @@
+target_chembl_id,canonical_smiles,standard_type,standard_value,standard_units,relation,source,assay_id
+CHEMBL203,CCO,IC50,100,nM,=,Lab_A,ASSAY_001
+CHEMBL203,CCN,IC50,250,nM,=,Lab_A,ASSAY_002
+CHEMBL203,CCC,IC50,500,nM,=,Lab_B,ASSAY_003
+CHEMBL203,COC,IC50,750,nM,=,Lab_B,ASSAY_004
+CHEMBL203,CN,IC50,1000,nM,=,Lab_C,ASSAY_005

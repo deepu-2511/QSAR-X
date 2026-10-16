@@ -1,0 +1,151 @@
+{
+  "created_utc": "2026-10-15T02:15:35.342193+00:00",
+  "panel_requested": {
+    "EGFR": "CHEMBL203",
+    "BRAF": "CHEMBL5145",
+    "ABL1": "CHEMBL1862",
+    "JAK2": "CHEMBL2971",
+    "CDK2": "CHEMBL301",
+    "MAP2K1": "CHEMBL3587",
+    "MAPK14": "CHEMBL260",
+    "AKT1": "CHEMBL4282",
+    "KDR": "CHEMBL279",
+    "ERBB2": "CHEMBL1824",
+    "SRC": "CHEMBL267",
+    "MTOR": "CHEMBL2842",
+    "PIK3CA": "CHEMBL4005",
+    "FGFR1": "CHEMBL3650",
+    "MET": "CHEMBL3717",
+    "RET": "CHEMBL2041",
+    "KIT": "CHEMBL1936",
+    "PDGFRA": "CHEMBL2007",
+    "IGF1R": "CHEMBL1957",
+    "FLT3": "CHEMBL1974"
+  },
+  "minimum_compounds": 500,
+  "completed": [
+    {
+      "gene": "EGFR",
+      "target_id": "CHEMBL203",
+      "n_compounds": 10834,
+      "uniprot": "P00533"
+    },
+    {
+      "gene": "BRAF",
+      "target_id": "CHEMBL5145",
+      "n_compounds": 5384,
+      "uniprot": "P15056"
+    },
+    {
+      "gene": "ABL1",
+      "target_id": "CHEMBL1862",
+      "n_compounds": 2151,
+      "uniprot": "P00519"
+    },
+    {
+      "gene": "JAK2",
+      "target_id": "CHEMBL2971",
+      "n_compounds": 10405,
+      "uniprot": "O60674"
+    },
+    {
+      "gene": "CDK2",
+      "target_id": "CHEMBL301",
+      "n_compounds": 2115,
+      "uniprot": "P24941"
+    },
+    {
+      "gene": "MAP2K1",
+      "target_id": "CHEMBL3587",
+      "n_compounds": 866,
+      "uniprot": "Q02750"
+    },
+    {
+      "gene": "MAPK14",
+      "target_id": "CHEMBL260",
+      "n_compounds": 4744,
+      "uniprot": "Q16539"
+    },
+    {
+      "gene": "AKT1",
+      "target_id": "CHEMBL4282",
+      "n_compounds": 3455,
+      "uniprot": "P31749"
+    },
+    {
+      "gene": "KDR",
+      "target_id": "CHEMBL279",
+      "n_compounds": 9762,
+      "uniprot": "P35968"
+    },
+    {
+      "gene": "ERBB2",
+      "target_id": "CHEMBL1824",
+      "n_compounds": 2522,
+      "uniprot": "P04626"
+    },
+    {
+      "gene": "SRC",
+      "target_id": "CHEMBL267",
+      "n_compounds": 3601,
+      "uniprot": "P12931"
+    },
+    {
+      "gene": "MTOR",
+      "target_id": "CHEMBL2842",
+      "n_compounds": 4354,
+      "uniprot": "P42345"
+    },
+    {
+      "gene": "PIK3CA",
+      "target_id": "CHEMBL4005",
+      "n_compounds": 6465,
+      "uniprot": "P42336"
+    },
+    {
+      "gene": "FGFR1",
+      "target_id": "CHEMBL3650",
+      "n_compounds": 3596,
+      "uniprot": "P11362"
+    },
+    {
+      "gene": "MET",
+      "target_id": "CHEMBL3717",
+      "n_compounds": 4193,
+      "uniprot": "P08581"
+    },
+    {
+      "gene": "RET",
+      "target_id": "CHEMBL2041",
+      "n_compounds": 3980,
+      "uniprot": "P07949"
+    },
+    {
+      "gene": "KIT",
+      "target_id": "CHEMBL1936",
+      "n_compounds": 1946,
+      "uniprot": "P10721"
+    },
+    {
+      "gene": "PDGFRA",
+      "target_id": "CHEMBL2007",
+      "n_compounds": 632,
+      "uniprot": "P16234"
+    },
+    {
+      "gene": "IGF1R",
+      "target_id": "CHEMBL1957",
+      "n_compounds": 2324,
+      "uniprot": "P08069"
+    },
+    {
+      "gene": "FLT3",
+      "target_id": "CHEMBL1974",
+      "n_compounds": 3766,
+      "uniprot": "P36888"
+    }
+  ],
+  "skipped": [],
+  "failed": [],
+  "common_dataset": "data\\common\\kinase_panel_ic50.csv"
+}

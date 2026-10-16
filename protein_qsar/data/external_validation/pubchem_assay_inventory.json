@@ -1,0 +1,1396 @@
+{
+  "retrieved_utc": "2026-10-15T05:00:31.693765+00:00",
+  "source": "PubChem BioAssay PUG-REST",
+  "targets": [
+    {
+      "target_id": "CHEMBL1824",
+      "uniprot_accession": "P04626",
+      "assays_checked": 20,
+      "ic50_candidates": []
+    },
+    {
+      "target_id": "CHEMBL1862",
+      "uniprot_accession": "P00519",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 161254,
+          "name": "Binding affinity against abl SH2 domain of Platelet-derived growth factor receptor beta in Sf9 insect cells",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL768940",
+          "publication_ids": [
+            9784108
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Design of peptidomimetics that inhibit the association of phosphatidylinositol 3-kinase with platelet-derived growth factor-beta receptor and possess cellular activity.  Abstract: Phosphorylated tyrosine residues of growth factor receptors that associate with intracellular proteins containing src-homology 2 (SH2) domains are integral components in several signal transduction pathways related to proliferative diseases such as cancer, atherosclerosis, and restenosis. In particular, a phosphorylated pentapeptide [pTyr751-Val-Pro-Met754-Leu (pTyr = phosphotyrosine)] derived from the primary sequence of platelet-derived growth factor-beta (PDGF-beta) receptor blocks the association of the C-terminal SH2 domain of the p85 subunit of phosphatidylinositol 3-kinase (PI 3-kinase) to PDGF-beta receptor with an IC50 of 0.445 +/- 0.047 microM. Further evaluation of the structure-activity relationships for pTyr751-Val-Pro-Met-Leu resulted in the design of smaller peptidomimetics with enhanced affinity including Ac-pTyr-Val-Ala-N(C6H13)2 (IC50 = 0.076 +/- 0.010 microM). In addition, the phosphotyrosine residue was replaced with a difluorophosphonate derivative [4-phosphono(difluoromethyl)phenylalanine (CF2Pmp)] which has been shown to be stable to cellular phosphatases. The extracellular administration of either CF2Pmp-Val-Pro-Met-Leu or Ac-CF2Pmp-Val-Pro-Met-NH2 in a whole cell assay resulted in specific inhibition of the PDGF-stimulated association from the C-terminal SH2 domain of the p85 subunit of PI 3-kinase to the PDGF-beta receptor in a dose-dependent manner. These compounds were also effective in inhibiting GLUT4 translocation, c-fos expression, and cell membrane ruffling in single-cell microinjection assay. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1998 Volume: 41 Issue: 22 First Page: 4329 Last Page: 4342 DOI: 10.1021/jm9802766  Target ChEMBL ID: CHEMBL1862 ChEMBL Target Name: Tyrosine-protein kinase ABL ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/161254"
+        },
+        {
+          "aid": 161255,
+          "name": "Affinity for SH2 domain of abl expressed in Sf9 insect cells (Not determined)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL768941",
+          "publication_ids": [
+            9784108
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Units",
+            "Activity Comment"
+          ],
+          "assay_context": "Title: Design of peptidomimetics that inhibit the association of phosphatidylinositol 3-kinase with platelet-derived growth factor-beta receptor and possess cellular activity.  Abstract: Phosphorylated tyrosine residues of growth factor receptors that associate with intracellular proteins containing src-homology 2 (SH2) domains are integral components in several signal transduction pathways related to proliferative diseases such as cancer, atherosclerosis, and restenosis. In particular, a phosphorylated pentapeptide [pTyr751-Val-Pro-Met754-Leu (pTyr = phosphotyrosine)] derived from the primary sequence of platelet-derived growth factor-beta (PDGF-beta) receptor blocks the association of the C-terminal SH2 domain of the p85 subunit of phosphatidylinositol 3-kinase (PI 3-kinase) to PDGF-beta receptor with an IC50 of 0.445 +/- 0.047 microM. Further evaluation of the structure-activity relationships for pTyr751-Val-Pro-Met-Leu resulted in the design of smaller peptidomimetics with enhanced affinity including Ac-pTyr-Val-Ala-N(C6H13)2 (IC50 = 0.076 +/- 0.010 microM). In addition, the phosphotyrosine residue was replaced with a difluorophosphonate derivative [4-phosphono(difluoromethyl)phenylalanine (CF2Pmp)] which has been shown to be stable to cellular phosphatases. The extracellular administration of either CF2Pmp-Val-Pro-Met-Leu or Ac-CF2Pmp-Val-Pro-Met-NH2 in a whole cell assay resulted in specific inhibition of the PDGF-stimulated association from the C-terminal SH2 domain of the p85 subunit of PI 3-kinase to the PDGF-beta receptor in a dose-dependent manner. These compounds were also effective in inhibiting GLUT4 translocation, c-fos expression, and cell membrane ruffling in single-cell microinjection assay. Journal: J Med Chem Year: 1998 Volume: 41 Issue: 22 First Page: 4329 Last Page: 4342 DOI: 10.1021/jm9802766  Target ChEMBL ID: CHEMBL1862 ChEMBL Target Name: Tyrosine-protein kinase ABL ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/161255"
+        },
+        {
+          "aid": 161258,
+          "name": "Affinity for SH2 domain of abl expressed in Sf9 insect cells",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL768944",
+          "publication_ids": [
+            9784108
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Design of peptidomimetics that inhibit the association of phosphatidylinositol 3-kinase with platelet-derived growth factor-beta receptor and possess cellular activity.  Abstract: Phosphorylated tyrosine residues of growth factor receptors that associate with intracellular proteins containing src-homology 2 (SH2) domains are integral components in several signal transduction pathways related to proliferative diseases such as cancer, atherosclerosis, and restenosis. In particular, a phosphorylated pentapeptide [pTyr751-Val-Pro-Met754-Leu (pTyr = phosphotyrosine)] derived from the primary sequence of platelet-derived growth factor-beta (PDGF-beta) receptor blocks the association of the C-terminal SH2 domain of the p85 subunit of phosphatidylinositol 3-kinase (PI 3-kinase) to PDGF-beta receptor with an IC50 of 0.445 +/- 0.047 microM. Further evaluation of the structure-activity relationships for pTyr751-Val-Pro-Met-Leu resulted in the design of smaller peptidomimetics with enhanced affinity including Ac-pTyr-Val-Ala-N(C6H13)2 (IC50 = 0.076 +/- 0.010 microM). In addition, the phosphotyrosine residue was replaced with a difluorophosphonate derivative [4-phosphono(difluoromethyl)phenylalanine (CF2Pmp)] which has been shown to be stable to cellular phosphatases. The extracellular administration of either CF2Pmp-Val-Pro-Met-Leu or Ac-CF2Pmp-Val-Pro-Met-NH2 in a whole cell assay resulted in specific inhibition of the PDGF-stimulated association from the C-terminal SH2 domain of the p85 subunit of PI 3-kinase to the PDGF-beta receptor in a dose-dependent manner. These compounds were also effective in inhibiting GLUT4 translocation, c-fos expression, and cell membrane ruffling in single-cell microinjection assay. Journal: J Med Chem Year: 1998 Volume: 41 Issue: 22 First Page: 4329 Last Page: 4342 DOI: 10.1021/jm9802766  Target ChEMBL ID: CHEMBL1862 ChEMBL Target Name: Tyrosine-protein kinase ABL ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/161258"
+        },
+        {
+          "aid": 213629,
+          "name": "Inhibition of V-abl tyrosine kinase (ABL)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL813072",
+          "publication_ids": [
+            15189033
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Aminopyrazole inhibitors of CDK2/cyclin A as antitumor agents. 1. Lead finding.  Abstract: Abnormal proliferation mediated by disruption of the normal cell cycle mechanisms is a hallmark of virtually all cancer cells. Compounds targeting complexes between cyclin-dependent kinases (CDK) and cyclins, such as CDK2/cyclin A and CDK2/cyclin E, and inhibiting their kinase activity are regarded as promising antitumor agents to complement the existing therapies. From a high-throughput screening effort, we identified a new class of CDK2/cyclin A/E inhibitors. The hit-to-lead expansion of this class is described. X-ray crystallographic data of early compounds in this series, as well as in vitro testing funneled for rapidly achieving in vivo efficacy, led to a nanomolar inhibitor of CDK2/cyclin A (N-(5-cyclopropyl-1H-pyrazol-3-yl)-2-(2-naphthyl)acetamide (41), PNU-292137, IC50 = 37 nM) with in vivo antitumor activity (TGI > 50%) in a mouse xenograft model at a dose devoid of toxic effects. Journal: J Med Chem Year: 2004 Volume: 47 Issue: 13 First Page: 3367 Last Page: 3380 DOI: 10.1021/jm031145u  Target ChEMBL ID: CHEMBL2111414 ChEMBL Target Name: Tyrosine-protein kinase ABL ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/213629"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL1936",
+      "uniprot_accession": "P10721",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 52211,
+          "name": "Inhibition of human c-Kit kinase",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL664302",
+          "publication_ids": [
+            15177483
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units",
+            "Data Validity Comment"
+          ],
+          "assay_context": "Title: SAR of benzoylpyridines and benzophenones as p38alpha MAP kinase inhibitors with oral activity.  Abstract: Benzoylpyridines and benzophenones were synthesized and evaluated in vitro as p38alpha inhibitors and in vivo in several models of rheumatoid arthritis. Oral activity was found to depend upon substitution: 1,1-dimethylpropynylamine substituted benzophenone 10b (IC50: 14 nM) and pyridinoyl substituted benzimidazole 17b (IC50: 21 nM) showed highest efficacy and selectivity with ED50s of 9.5 and 8.6 mg/kg p.o. in CIA. Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 13 First Page: 3601 Last Page: 3605 DOI: 10.1016/j.bmcl.2004.03.111  Target ChEMBL ID: CHEMBL1936 ChEMBL Target Name: Stem cell growth factor receptor ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/52211"
+        },
+        {
+          "aid": 94671,
+          "name": "Inhibition of KIT kinase activity",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL702237",
+          "publication_ids": [
+            15189033
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Aminopyrazole inhibitors of CDK2/cyclin A as antitumor agents. 1. Lead finding.  Abstract: Abnormal proliferation mediated by disruption of the normal cell cycle mechanisms is a hallmark of virtually all cancer cells. Compounds targeting complexes between cyclin-dependent kinases (CDK) and cyclins, such as CDK2/cyclin A and CDK2/cyclin E, and inhibiting their kinase activity are regarded as promising antitumor agents to complement the existing therapies. From a high-throughput screening effort, we identified a new class of CDK2/cyclin A/E inhibitors. The hit-to-lead expansion of this class is described. X-ray crystallographic data of early compounds in this series, as well as in vitro testing funneled for rapidly achieving in vivo efficacy, led to a nanomolar inhibitor of CDK2/cyclin A (N-(5-cyclopropyl-1H-pyrazol-3-yl)-2-(2-naphthyl)acetamide (41), PNU-292137, IC50 = 37 nM) with in vivo antitumor activity (TGI > 50%) in a mouse xenograft model at a dose devoid of toxic effects. Journal: J Med Chem Year: 2004 Volume: 47 Issue: 13 First Page: 3367 Last Page: 3380 DOI: 10.1021/jm031145u  Target ChEMBL ID: CHEMBL1936 ChEMBL Target Name: Stem cell growth factor receptor ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/94671"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL1957",
+      "uniprot_accession": "P08069",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 93093,
+          "name": "Inhibition of human insulin-like growth factor I receptor at 10 uM",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL697348",
+          "publication_ids": [
+            15177483
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: SAR of benzoylpyridines and benzophenones as p38alpha MAP kinase inhibitors with oral activity.  Abstract: Benzoylpyridines and benzophenones were synthesized and evaluated in vitro as p38alpha inhibitors and in vivo in several models of rheumatoid arthritis. Oral activity was found to depend upon substitution: 1,1-dimethylpropynylamine substituted benzophenone 10b (IC50: 14 nM) and pyridinoyl substituted benzimidazole 17b (IC50: 21 nM) showed highest efficacy and selectivity with ED50s of 9.5 and 8.6 mg/kg p.o. in CIA. Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 13 First Page: 3601 Last Page: 3605 DOI: 10.1016/j.bmcl.2004.03.111  Target ChEMBL ID: CHEMBL1957 ChEMBL Target Name: Insulin-like growth factor I receptor ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/93093"
+        },
+        {
+          "aid": 93205,
+          "name": "Inhibition of Insulin-like growth factor I receptor",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL698198",
+          "publication_ids": [
+            15189033
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Aminopyrazole inhibitors of CDK2/cyclin A as antitumor agents. 1. Lead finding.  Abstract: Abnormal proliferation mediated by disruption of the normal cell cycle mechanisms is a hallmark of virtually all cancer cells. Compounds targeting complexes between cyclin-dependent kinases (CDK) and cyclins, such as CDK2/cyclin A and CDK2/cyclin E, and inhibiting their kinase activity are regarded as promising antitumor agents to complement the existing therapies. From a high-throughput screening effort, we identified a new class of CDK2/cyclin A/E inhibitors. The hit-to-lead expansion of this class is described. X-ray crystallographic data of early compounds in this series, as well as in vitro testing funneled for rapidly achieving in vivo efficacy, led to a nanomolar inhibitor of CDK2/cyclin A (N-(5-cyclopropyl-1H-pyrazol-3-yl)-2-(2-naphthyl)acetamide (41), PNU-292137, IC50 = 37 nM) with in vivo antitumor activity (TGI > 50%) in a mouse xenograft model at a dose devoid of toxic effects. Journal: J Med Chem Year: 2004 Volume: 47 Issue: 13 First Page: 3367 Last Page: 3380 DOI: 10.1021/jm031145u  Target ChEMBL ID: CHEMBL1957 ChEMBL Target Name: Insulin-like growth factor I receptor ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/93205"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL1974",
+      "uniprot_accession": "P36888",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 71192,
+          "name": "Inhibition of human Flt-3 (not tested)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL679501",
+          "publication_ids": [
+            15177483
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Units",
+            "Activity Comment"
+          ],
+          "assay_context": "Title: SAR of benzoylpyridines and benzophenones as p38alpha MAP kinase inhibitors with oral activity.  Abstract: Benzoylpyridines and benzophenones were synthesized and evaluated in vitro as p38alpha inhibitors and in vivo in several models of rheumatoid arthritis. Oral activity was found to depend upon substitution: 1,1-dimethylpropynylamine substituted benzophenone 10b (IC50: 14 nM) and pyridinoyl substituted benzimidazole 17b (IC50: 21 nM) showed highest efficacy and selectivity with ED50s of 9.5 and 8.6 mg/kg p.o. in CIA. Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 13 First Page: 3601 Last Page: 3605 DOI: 10.1016/j.bmcl.2004.03.111  Target ChEMBL ID: CHEMBL1974 ChEMBL Target Name: Tyrosine-protein kinase receptor FLT3 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/71192"
+        },
+        {
+          "aid": 71193,
+          "name": "Inhibition of human Flt-3 at 10 uM",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL679502",
+          "publication_ids": [
+            15177483
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units",
+            "Data Validity Comment"
+          ],
+          "assay_context": "Title: SAR of benzoylpyridines and benzophenones as p38alpha MAP kinase inhibitors with oral activity.  Abstract: Benzoylpyridines and benzophenones were synthesized and evaluated in vitro as p38alpha inhibitors and in vivo in several models of rheumatoid arthritis. Oral activity was found to depend upon substitution: 1,1-dimethylpropynylamine substituted benzophenone 10b (IC50: 14 nM) and pyridinoyl substituted benzimidazole 17b (IC50: 21 nM) showed highest efficacy and selectivity with ED50s of 9.5 and 8.6 mg/kg p.o. in CIA. Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 13 First Page: 3601 Last Page: 3605 DOI: 10.1016/j.bmcl.2004.03.111  Target ChEMBL ID: CHEMBL1974 ChEMBL Target Name: Tyrosine-protein kinase receptor FLT3 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/71193"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL2007",
+      "uniprot_accession": "P16234",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 41213,
+          "name": "Inhibition of PDGF stimulated tyrosine phosphorylation in BALB/c3t3 cells.",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL651278",
+          "publication_ids": [
+            9357527
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Use of a pharmacophore model for the design of EGF-R tyrosine kinase inhibitors: 4-(phenylamino)pyrazolo[3,4-d]pyrimidines.  Abstract: In the course of the random screening of a pool of CIBA chemicals, the two pyrazolopyrimidines 1 and 2 have been identified as fairly potent inhibitors of the EGF-R tyrosine kinase. Using a pharmacophore model for ATP-competitive inhibitors interacting with the active site of the EGF-R protein tyrosine kinase (PTK), the class of the pyrazolo[3,4-d]pyrimidines was then optimized in an interactive process leading to a series of 4-(phenylamino)-1H-pyrazolo[3,4-d]-pyrimidines as highly potent inhibitors of the EGF-R tyrosine kinase. The most potent compounds 13, 14, 15, 17, 19, 22, 26, 28, and 30 of this series inhibited the EGF-R PTK with IC50 values below 10 nM. High selectivity toward a panel of nonreceptor tyrosine kinases (c-Src, v-Abl and serine/threonine kinases (PKC alpha, CDK1) was observed. In cells, EGF-stimulated cellular tyrosine phosphorylation was inhibited by compounds 13, 15, 19, 22, and 23 at IC50 values below 50 nM, whereas PDGF-induced tyrosine phosphorylation was not affected by concentrations up to 10 microM, thus indicating high selectivity for the inhibition of the ligand-activated EGF-R signal transduction pathway. Compounds 15 and 19 inhibited proliferation of the EGF-dependent MK cell line with IC50 values below 0.5 microM. In addition, two compounds, 9 and 11, showing satisfactory oral bioavailability in mice after oral administration, exhibited good in vivo efficacy at doses of 12.5 and 50 mg/kg in a nude mouse tumor model using xenografts of the EGF-R overexpressing A431 cell line. From SAR studies, a binding mode for 4-(phenylamino)-1H-pyrazolo[3,4-d]pyrimidines, especially for compound 15, at the ATP-binding site of the EGF-R tyrosine kinase is proposed. 4-(Phenylamino)-1H-pyrazolo[3,4-d]pyrimidines represent a new class of highly potent tyrosine kinase inhibitors which preferentially inhibit the EGF-mediated signal transduction pathway and have the potential for further evaluation as anticancer agents. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1997 Volume: 40 Issue: 22 First Page: 3601 Last Page: 3616 DOI: 10.1021/jm970124v  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: H - Homologous protein target assigned Confidence: Homologous protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/41213"
+        },
+        {
+          "aid": 155174,
+          "name": "Concentration required to inhibit phosphorylation of isolated human PDGF receptor by 50%; 0.3-1",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763775",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155174"
+        },
+        {
+          "aid": 155175,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 0.5-2",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763776",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155175"
+        },
+        {
+          "aid": 155176,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 0.5-3",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763777",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155176"
+        },
+        {
+          "aid": 155177,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 0.7-5",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763778",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155177"
+        },
+        {
+          "aid": 155178,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 1-2",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763779",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155178"
+        },
+        {
+          "aid": 155179,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 1-7",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763780",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155179"
+        },
+        {
+          "aid": 155180,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 2-10",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763781",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155180"
+        },
+        {
+          "aid": 155181,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 2-4",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763782",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155181"
+        },
+        {
+          "aid": 155182,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 2-8",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL763783",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155182"
+        },
+        {
+          "aid": 155183,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 20-30",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL760631",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155183"
+        },
+        {
+          "aid": 155184,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 6-10",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL761263",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155184"
+        },
+        {
+          "aid": 155185,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 0.01-0.02",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL761264",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155185"
+        },
+        {
+          "aid": 155186,
+          "name": "Inhibition of human PDGF receptor phosphorylation; 0.1-0.6",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL761265",
+          "publication_ids": [
+            8035419
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: A new series of PDGF receptor tyrosine kinase inhibitors: 3-substituted quinoline derivatives.  Abstract: A series of 63 3-substituted quinoline derivatives has been prepared and tested for inhibition of cell-free platelet derived growth factor receptor tyrosine kinase (PDGF-RTK) activity. The compounds were generally prepared either by a Friedlander condensation between an aryl-acetaldehyde and an o-aminobenzaldehyde or by a palladium-catalyzed coupling between an aryl bromide or triflate and an organostannane or organozinc chloride. The presence of 6,7-dimethoxy groups on the quinoline ring was found to be advantageous although not essential for potent inhibition of PDGF-RTK. A lipophilic group attached to the quinoline 3-position contributed substantially to activity. The lipophilic groups generally consisted of monocyclic aromatics or small alkynyl, alkenyl, and alkyl groups. Optimum activity of ca. < or = 20 nM (IC50) was observed when 6,7-dimethoxyquinoline was substituted in the 3-position with 4-methoxyphenyl (15d), 3-fluoro-4-methoxyphenyl (17m), 3-fluorophenyl (17b), 4-hydroxyphenyl (24), 6-methoxypyridin-3-yl (15o), 5-pyridin-2(1H)-one (23), trans-beta-styryl (15e), thiophene-3-yl (2e), 5-chlorothiophene-2-yl (15f), or cyclopentenyl (17n) groups. Most of the compounds in the series were tested for inhibition of cell-free epidermal growth factor receptor tyrosine kinase activity and found to be inactive. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1994 Volume: 37 Issue: 14 First Page: 2129 Last Page: 2137 DOI: 10.1021/jm00040a003  Target ChEMBL ID: CHEMBL2095189 ChEMBL Target Name: Platelet-derived growth factor receptor ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: D - Direct protein target assigned Confidence: Direct protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/155186"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL203",
+      "uniprot_accession": "P00533",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 1742,
+          "name": "Quantitative High-Throughput Screen for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening Assay: Summary",
+          "source": "NCGC",
+          "source_id": "ERKS590",
+          "publication_ids": [
+            15573115,
+            11242034,
+            8388132
+          ],
+          "result_names": [
+            "Activity Summary",
+            "ERK Phosphorylation IC50; Vasopressin Stimulated",
+            "ERK Phosphorylation IC50; EGF Stimulated",
+            "AlphaScreen Platform Counterscreen IC50",
+            "MEK IC50",
+            "c-Raf IC50",
+            "EGFR IC50",
+            "EGFR L858R IC50",
+            "EGFR T790M IC50",
+            "EGFR T790M/L858R IC50"
+          ],
+          "assay_context": "qHTS Assay for Inhibitors of the ERK Signaling Pathway using a Homogeneous Screening Assay  NIH Chemical Genomics Center [NCGC] NIH Molecular Libraries Screening Centers Network [MLSCN]  MLSCN Grant: 1X01MH082406-01 Assay Submitter (PI): Dr. Wei Zheng, NCGC/NIH  NCGC Assay Overview:  The Ras/extracellular-signal-regulated kinase (ERK) mitogen activated protein (MAP) kinase signaling pathway (ERK1/2 cascade) plays is a key role in transmitting signals from the cell surface to the nucleus (Nishida and Gotoh 1993; Chang and Karin, 2001). The cascade is initiated by the small G-protein Ras, which recruits Raf from the cytosol, where activation occurs. Alternatively, this pathway can be activated by elevating intracellular cAMP.  Activation of the ERK pathway is essential in increased cell division and cell survival. Sustained and constitutive activation of the ERK pathway, however, has been linked to uncontrolled cell proliferation, increased cell survival, and tumor progression. Thus, the ERK has been as an attractive target for cancer chemotherapy in the past few years (Sebolt-Leopold and Herrera, 2004). Given its physiological and pathological importance, assessment of ERK phosphorylation has been broadly performed in both basic research and drug discovery. Most assays for the measurement of ERK phosphorylation use the antibody-based detection methods, such as western blot and ELISA. These assays require multiple reagent additions with cell wash steps and are not suitable for high-throughput screening.  The current cell-based ERK phosphorylation assay was performed using AlphaScreen platform. AlphaScreen is a two bead-based proximity-dependent chemical energy transfer luminescent assay platform. The assay reagents (ERK SureFire(TM) kit) were supplied from TGR BioSciences (Australia). In the presence of specific antibodies, phosphorylated ERK will bring \"donor\" and \"acceptor\" beads to a proximity range (<200 nm), and subsequently lead a chemical luminescent reaction upon exciting donor beads with 680 nm laser. To exclude the assay-related false positives, we used a biotinylated rabbit IgG to perform counter-screen. The biotinylated antibody mimics the phosphorylated ERK1/2 for bringing streptavidin coated beads and protein-A coated beads to a proximity range for the AlphaScreen detection. Please refer to other AIDs (995, 1454, 1724, 1725, 1726, 1727, 1728, 1729, 1730, 1731, 1732) for detailed assay protocols. This summary is written for the purposes of summarizing the probe activities from the project. MLSCN probes are given a score of 100. Molecules in the prior art are given a score of 80. Other, less active molecules in the same chemical series as the probe molecules are given a score of 50. Molecules pending validation are given a score of 10. Inactive analogues from these series are given a score of 0. The present results summarize results for select compounds chosen for validation in secondary assays. ML102 (CID 2303746) was declared a probe from this project.",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1742"
+        },
+        {
+          "aid": 7884,
+          "name": "In vivo efficacy following oral administration in nude mouse tumor model, xenograft A431 cells expressing EGF-R",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL621018",
+          "publication_ids": [
+            8691423
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 4-(Phenylamino)pyrrolopyrimidines: potent and selective, ATP site directed inhibitors of the EGF-receptor protein tyrosine kinase.  Abstract: Using a pharmacophore model for ATP-competitive inhibitors interacting with the active site of the EGF-R protein tyrosine kinase (PTK), 4-(phenylamino)-7H-pyrrolo[2,3-d]pyrimidines have been identified as a novel class of potent EGF-R protein tyrosine kinase inhibitors. In an interactive process, this class of compounds was then optimized. 13, 14, 28, 36, 37, and 44, the most potent compounds of this series, inhibited the EGF-R PTK with IC50 values in the low nanomolar range. High selectivity toward a panel of nonreceptor tyrosine kinases (c-Src, v-Abl) and serine/threonine kinases (PKC alpha, PKA) was observed. Kinetic analysis revealed competitive type kinetics relative to ATP. In cells, EGF-stimulated cellular tyrosine phosphorylation was inhibited by compounds 13, 36, 37, and 44 at IC50 values between 0.1 and 0.4 microM, whereas PDGF-induced tyrosine phosphorylation was not affected by concentrations up to 10 microM. In addition, these compounds were able to selectively inhibit c-fos mRNA expression in EGF-dependent cell lines with IC50 values between 0.1 and 2 microM, but did not affect c-fos mRNA induction in response to PDGF or PMA (IC50 >100 microM). Proliferation of the EGF-dependent MK cell line was inhibited with similar IC50 values. From SAR studies, a binding mode for 4-(phenylamino)-7H-pyrrolo[2,3-d]pyrimidines as well as for the structurally related 4-(phenylamino)quinazolines at the ATP-binding site of the EGF-R tyrosine kinase is proposed. 4-(Phenylamino)7H-pyrrolo[2,3-d]pyrimidines therefore represent a new class of highly potent tyrosine kinase inhibitors which preferentially inhibit the EGF-mediated signal transduction pathway and have the potential for further evaluation as anticancer agents. Journal: J Med Chem Year: 1996 Volume: 39 Issue: 12 First Page: 2285 Last Page: 2292 DOI: 10.1021/jm960118j  Target ChEMBL ID: CHEMBL203 ChEMBL Target Name: Epidermal growth factor receptor erbB1 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/7884"
+        },
+        {
+          "aid": 7888,
+          "name": "Inhibition of EGF-stimulated tyrosine phosphorylation in A431 cells.",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL621022",
+          "publication_ids": [
+            9357527
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Use of a pharmacophore model for the design of EGF-R tyrosine kinase inhibitors: 4-(phenylamino)pyrazolo[3,4-d]pyrimidines.  Abstract: In the course of the random screening of a pool of CIBA chemicals, the two pyrazolopyrimidines 1 and 2 have been identified as fairly potent inhibitors of the EGF-R tyrosine kinase. Using a pharmacophore model for ATP-competitive inhibitors interacting with the active site of the EGF-R protein tyrosine kinase (PTK), the class of the pyrazolo[3,4-d]pyrimidines was then optimized in an interactive process leading to a series of 4-(phenylamino)-1H-pyrazolo[3,4-d]-pyrimidines as highly potent inhibitors of the EGF-R tyrosine kinase. The most potent compounds 13, 14, 15, 17, 19, 22, 26, 28, and 30 of this series inhibited the EGF-R PTK with IC50 values below 10 nM. High selectivity toward a panel of nonreceptor tyrosine kinases (c-Src, v-Abl and serine/threonine kinases (PKC alpha, CDK1) was observed. In cells, EGF-stimulated cellular tyrosine phosphorylation was inhibited by compounds 13, 15, 19, 22, and 23 at IC50 values below 50 nM, whereas PDGF-induced tyrosine phosphorylation was not affected by concentrations up to 10 microM, thus indicating high selectivity for the inhibition of the ligand-activated EGF-R signal transduction pathway. Compounds 15 and 19 inhibited proliferation of the EGF-dependent MK cell line with IC50 values below 0.5 microM. In addition, two compounds, 9 and 11, showing satisfactory oral bioavailability in mice after oral administration, exhibited good in vivo efficacy at doses of 12.5 and 50 mg/kg in a nude mouse tumor model using xenografts of the EGF-R overexpressing A431 cell line. From SAR studies, a binding mode for 4-(phenylamino)-1H-pyrazolo[3,4-d]pyrimidines, especially for compound 15, at the ATP-binding site of the EGF-R tyrosine kinase is proposed. 4-(Phenylamino)-1H-pyrazolo[3,4-d]pyrimidines represent a new class of highly potent tyrosine kinase inhibitors which preferentially inhibit the EGF-mediated signal transduction pathway and have the potential for further evaluation as anticancer agents. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1997 Volume: 40 Issue: 22 First Page: 3601 Last Page: 3616 DOI: 10.1021/jm970124v  Target ChEMBL ID: CHEMBL203 ChEMBL Target Name: Epidermal growth factor receptor erbB1 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/7888"
+        },
+        {
+          "aid": 7899,
+          "name": "Inhibition of EGF-stimulated tyrosine phosphorylation in A431 cells expressing EGF-R",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL621147",
+          "publication_ids": [
+            8691423
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 4-(Phenylamino)pyrrolopyrimidines: potent and selective, ATP site directed inhibitors of the EGF-receptor protein tyrosine kinase.  Abstract: Using a pharmacophore model for ATP-competitive inhibitors interacting with the active site of the EGF-R protein tyrosine kinase (PTK), 4-(phenylamino)-7H-pyrrolo[2,3-d]pyrimidines have been identified as a novel class of potent EGF-R protein tyrosine kinase inhibitors. In an interactive process, this class of compounds was then optimized. 13, 14, 28, 36, 37, and 44, the most potent compounds of this series, inhibited the EGF-R PTK with IC50 values in the low nanomolar range. High selectivity toward a panel of nonreceptor tyrosine kinases (c-Src, v-Abl) and serine/threonine kinases (PKC alpha, PKA) was observed. Kinetic analysis revealed competitive type kinetics relative to ATP. In cells, EGF-stimulated cellular tyrosine phosphorylation was inhibited by compounds 13, 36, 37, and 44 at IC50 values between 0.1 and 0.4 microM, whereas PDGF-induced tyrosine phosphorylation was not affected by concentrations up to 10 microM. In addition, these compounds were able to selectively inhibit c-fos mRNA expression in EGF-dependent cell lines with IC50 values between 0.1 and 2 microM, but did not affect c-fos mRNA induction in response to PDGF or PMA (IC50 >100 microM). Proliferation of the EGF-dependent MK cell line was inhibited with similar IC50 values. From SAR studies, a binding mode for 4-(phenylamino)-7H-pyrrolo[2,3-d]pyrimidines as well as for the structurally related 4-(phenylamino)quinazolines at the ATP-binding site of the EGF-R tyrosine kinase is proposed. 4-(Phenylamino)7H-pyrrolo[2,3-d]pyrimidines therefore represent a new class of highly potent tyrosine kinase inhibitors which preferentially inhibit the EGF-mediated signal transduction pathway and have the potential for further evaluation as anticancer agents. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1996 Volume: 39 Issue: 12 First Page: 2285 Last Page: 2292 DOI: 10.1021/jm960118j  Target ChEMBL ID: CHEMBL203 ChEMBL Target Name: Epidermal growth factor receptor erbB1 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/7899"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL2041",
+      "uniprot_accession": "P07949",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 166684,
+          "name": "Inhibition of RET kinase activity",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL770568",
+          "publication_ids": [
+            15189033
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Aminopyrazole inhibitors of CDK2/cyclin A as antitumor agents. 1. Lead finding.  Abstract: Abnormal proliferation mediated by disruption of the normal cell cycle mechanisms is a hallmark of virtually all cancer cells. Compounds targeting complexes between cyclin-dependent kinases (CDK) and cyclins, such as CDK2/cyclin A and CDK2/cyclin E, and inhibiting their kinase activity are regarded as promising antitumor agents to complement the existing therapies. From a high-throughput screening effort, we identified a new class of CDK2/cyclin A/E inhibitors. The hit-to-lead expansion of this class is described. X-ray crystallographic data of early compounds in this series, as well as in vitro testing funneled for rapidly achieving in vivo efficacy, led to a nanomolar inhibitor of CDK2/cyclin A (N-(5-cyclopropyl-1H-pyrazol-3-yl)-2-(2-naphthyl)acetamide (41), PNU-292137, IC50 = 37 nM) with in vivo antitumor activity (TGI > 50%) in a mouse xenograft model at a dose devoid of toxic effects. Journal: J Med Chem Year: 2004 Volume: 47 Issue: 13 First Page: 3367 Last Page: 3380 DOI: 10.1021/jm031145u  Target ChEMBL ID: CHEMBL2041 ChEMBL Target Name: Tyrosine-protein kinase receptor RET ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/166684"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL260",
+      "uniprot_accession": "Q16539",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 1395,
+          "name": "Chemical Inhibitors of ER Stress",
+          "source": "Burnham Center for Chemical Genomics",
+          "source_id": "SDCCG-Summary03-ER Stress",
+          "publication_ids": [
+            15603751,
+            15363493,
+            14765132,
+            14634622,
+            12838338,
+            15363491,
+            14722345,
+            16397582,
+            10754564,
+            12909082,
+            17288551,
+            16397584,
+            16200199,
+            15705855
+          ],
+          "result_names": [
+            "Probe Molecule_Outcome"
+          ],
+          "assay_context": "Data Source: Sanford-Burnham Center for Chemical Genomics (SBCCG) Source Affiliation: Sanford-Burnham Medical Research Institute (SBMRI, San Diego, CA) Network: NIH Molecular Libraries Screening Centers Network (MLSCN) Grant Number: 1R03 DA024887-01 Assay Provider: Dr. John C. Reed, Sanford-Burnham Medical Research Institute  The endoplasmic reticulum (ER) fulfills multiple cellular functions (reviewed in [1-7]). Myriad types of disturbances cause accumulation of unfolded proteins in the ER, triggering a cell signaling response, termed the unfolded protein response (UPR). Some changes of cell's environment such as (a) glucose deprivation [6], (b) aberrations of Ca2+ regulation in the ER [3], (c) viral infection [8], (d) disturbances in cellular redox regulation [9], and (e) situations that impair proteasome activity [10] can induce UPR. The initial intent of the UPR is to adapt to the changing environment, and reestablish homeostasis and normal ER function. But excessive and prolonged ER stress induces cell death with a form of apoptosis, and this cell death is related with various pathogenic pathways of disease like neurodegeneration, diabetes, vesicular disease etc. (reviewed in [11-13]).   To identify chemical compounds which inhibit cell death induced by ER stress, a cell-based survival HTS assay was developed. A series of benzodiazepine hits was identified in the HTS assay as inhibitors of ER stress-induced Cell Death (AID 1010) and confirmed in dose-response assay (AID 1247). Using secondary assays, selectivity of these compounds for the ER stress pathway was defined, and the principal signaling events that are inhibited were dissected. To this end, a probe molecule, SID-17485018 (CID-2891837) was discovered. This AID summarizes the biological properties of the probe molecule, characterized by a battery of secondary and counter assays performed in the laboratory of Dr. John C. Reed.  The compound is active with IC50 ~10 uM as an inhibitor of thapsigargin-induced cell death of undifferentiated CSM 14.1 cells as measured by ATP content (AID 1247) and as an inhibitor of tunicamycin-induced cell death of undifferentiated CSM14.1 cells as measured by the ATP content assay (AID 1343). The compound's activity against ER stress-induced cell death was confirmed by flow cytometric analysis, measuring annexin V staining of CSM14.1 cells treated with either thapsigargin (AID 1344) or tunicamycin (AID 1349). When tested at 25 uM against undifferentiated CSM14.1 cells by the ATP content assay, the Probe compound at 25 uM was not active against cell death induced by TNF-alpha plus cycloheximide (AID 1350), VP-16 (AID 1345), and staurosporine (AID 1348). The compound's activity in neuronal cells was confirmed at 25 uM using differentiated rat neuronal CSM 14.1 cells treated with 10 uM thapsigargin using the ATP content assay (AID 1347), differentiated mouse neuronal C17.2 cells treated with thapsigargin using the ATP content assay (AID 1353), but not in differentiated rat pheochromocytoma PC12 cells treated with thapsigargin using the ATP content assay (AID 1352). The compound showed paradoxical cell death-promoting activity against thapsigargin-treated undifferentiated PC12 cells (AID 1341). Finally, the Probe compound inhibits thapsigargin-induced cell death of rat primary cortical neurons (identified by staining with NeuN), as determined by counting apoptotic neurofilament (NeuN)-positive cells stained with the DNA-binding fluorochrome Hoechst dye to identify cells with condensed nuclear morphology indicative of apoptosis and evidence of neurite retraction (AID 1386). Cytoprotective activity of the Probe compound was also demonstrated in several types of non-neuronal human tumor cell lines treated with thapsigargin using the ATP content assay, including cervical carcinoma HeLa (AID 1356), human prostate cancer PPC-1 (AID 1351), and human melanoma SW1 (AID 1355) cells. The compound, however, was inactive against thapsigargin-treated J",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1395"
+        },
+        {
+          "aid": 1811,
+          "name": "Experimentally measured binding affinity data derived from PDB",
+          "source": "Shanghai Institute of Organic Chemistry",
+          "source_id": "PDBBind Data 1",
+          "publication_ids": [
+            15943484,
+            15163179
+          ],
+          "result_names": [
+            "Affinity_Quilifier",
+            "Ki",
+            "Kd",
+            "IC50",
+            "pKipKdpIC50",
+            "PubMed",
+            "Protein Target",
+            "Protein Name",
+            "MMDB",
+            "PDB"
+          ],
+          "assay_context": "This data entry provides a collection of experimentally measured binding affinity data (Kd, Ki, and IC50), which are exclusively for the protein-ligand complexes available in the Protein Data Bank (PDB).  All of the binding affinity data compiled in this data entry are cited from original references. This work is contributed by the PDBbind database.  ",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1811"
+        },
+        {
+          "aid": 92862,
+          "name": "Inhibition of LPS-induced release of Tumor necrosis factor-alpha (TNF-alpha) from human whole blood",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL701923",
+          "publication_ids": [
+            10377223
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Design and synthesis of potent, selective, and orally bioavailable tetrasubstituted imidazole inhibitors of p38 mitogen-activated protein kinase.  Abstract: Novel potent and selective diarylimidazole inhibitors of p38 MAP (mitogen-activated protein) kinase are described which have activity in both cell-based assays of tumor necrosis factor-alpha (TNF-alpha) release and an animal model of rheumatoid arthritis. The SAR leading to the development of selectivity against c-Raf and JNK2alpha1 kinases is presented, with key features being substitution of the 4-aryl ring with m-trifluoromethyl and substitution of the 5-heteroaryl ring with a 2-amino substituent. Cell-based activity was significantly enhanced by incorporation of a 4-piperidinyl moiety at the 2-position of the imidazole which also enhanced aqueous solubility. In general, oral bioavailability of this class of compounds was found to be poor unless the imidazole was methylated on nitrogen. This work led to identification of 48, a potent (p38 MAP kinase inhibition IC50 0.24 nM) and selective p38 MAP kinase inhibitor which inhibits lipopolysaccharide-stimulated release of TNF-alpha from human blood with an IC50 2.2 nM, shows good oral bioavailability in rat and rhesus monkey, and demonstrates significant improvement in measures of disease progression in a rat adjuvant-induced arthritis model. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1999 Volume: 42 Issue: 12 First Page: 2180 Last Page: 2190 DOI: 10.1021/jm9805236  Target ChEMBL ID: CHEMBL2094115 ChEMBL Target Name: MAP kinase p38 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/92862"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL267",
+      "uniprot_accession": "P12931",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 161256,
+          "name": "Affinity for SH2 domain of src in Sf9 insect cells",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL768942",
+          "publication_ids": [
+            9784108
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Design of peptidomimetics that inhibit the association of phosphatidylinositol 3-kinase with platelet-derived growth factor-beta receptor and possess cellular activity.  Abstract: Phosphorylated tyrosine residues of growth factor receptors that associate with intracellular proteins containing src-homology 2 (SH2) domains are integral components in several signal transduction pathways related to proliferative diseases such as cancer, atherosclerosis, and restenosis. In particular, a phosphorylated pentapeptide [pTyr751-Val-Pro-Met754-Leu (pTyr = phosphotyrosine)] derived from the primary sequence of platelet-derived growth factor-beta (PDGF-beta) receptor blocks the association of the C-terminal SH2 domain of the p85 subunit of phosphatidylinositol 3-kinase (PI 3-kinase) to PDGF-beta receptor with an IC50 of 0.445 +/- 0.047 microM. Further evaluation of the structure-activity relationships for pTyr751-Val-Pro-Met-Leu resulted in the design of smaller peptidomimetics with enhanced affinity including Ac-pTyr-Val-Ala-N(C6H13)2 (IC50 = 0.076 +/- 0.010 microM). In addition, the phosphotyrosine residue was replaced with a difluorophosphonate derivative [4-phosphono(difluoromethyl)phenylalanine (CF2Pmp)] which has been shown to be stable to cellular phosphatases. The extracellular administration of either CF2Pmp-Val-Pro-Met-Leu or Ac-CF2Pmp-Val-Pro-Met-NH2 in a whole cell assay resulted in specific inhibition of the PDGF-stimulated association from the C-terminal SH2 domain of the p85 subunit of PI 3-kinase to the PDGF-beta receptor in a dose-dependent manner. These compounds were also effective in inhibiting GLUT4 translocation, c-fos expression, and cell membrane ruffling in single-cell microinjection assay. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1998 Volume: 41 Issue: 22 First Page: 4329 Last Page: 4342 DOI: 10.1021/jm9802766  Target ChEMBL ID: CHEMBL267 ChEMBL Target Name: Tyrosine-protein kinase SRC ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/161256"
+        },
+        {
+          "aid": 161257,
+          "name": "Affinity for SH2 domain of src in Sf9 insect cells (Not determined)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL768943",
+          "publication_ids": [
+            9784108
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Units",
+            "Activity Comment"
+          ],
+          "assay_context": "Title: Design of peptidomimetics that inhibit the association of phosphatidylinositol 3-kinase with platelet-derived growth factor-beta receptor and possess cellular activity.  Abstract: Phosphorylated tyrosine residues of growth factor receptors that associate with intracellular proteins containing src-homology 2 (SH2) domains are integral components in several signal transduction pathways related to proliferative diseases such as cancer, atherosclerosis, and restenosis. In particular, a phosphorylated pentapeptide [pTyr751-Val-Pro-Met754-Leu (pTyr = phosphotyrosine)] derived from the primary sequence of platelet-derived growth factor-beta (PDGF-beta) receptor blocks the association of the C-terminal SH2 domain of the p85 subunit of phosphatidylinositol 3-kinase (PI 3-kinase) to PDGF-beta receptor with an IC50 of 0.445 +/- 0.047 microM. Further evaluation of the structure-activity relationships for pTyr751-Val-Pro-Met-Leu resulted in the design of smaller peptidomimetics with enhanced affinity including Ac-pTyr-Val-Ala-N(C6H13)2 (IC50 = 0.076 +/- 0.010 microM). In addition, the phosphotyrosine residue was replaced with a difluorophosphonate derivative [4-phosphono(difluoromethyl)phenylalanine (CF2Pmp)] which has been shown to be stable to cellular phosphatases. The extracellular administration of either CF2Pmp-Val-Pro-Met-Leu or Ac-CF2Pmp-Val-Pro-Met-NH2 in a whole cell assay resulted in specific inhibition of the PDGF-stimulated association from the C-terminal SH2 domain of the p85 subunit of PI 3-kinase to the PDGF-beta receptor in a dose-dependent manner. These compounds were also effective in inhibiting GLUT4 translocation, c-fos expression, and cell membrane ruffling in single-cell microinjection assay. Journal: J Med Chem Year: 1998 Volume: 41 Issue: 22 First Page: 4329 Last Page: 4342 DOI: 10.1021/jm9802766  Target ChEMBL ID: CHEMBL267 ChEMBL Target Name: Tyrosine-protein kinase SRC ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/161257"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL279",
+      "uniprot_accession": "P35968",
+      "assays_checked": 20,
+      "ic50_candidates": []
+    },
+    {
+      "target_id": "CHEMBL2842",
+      "uniprot_accession": "P42345",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 241385,
+          "name": "Inhibition of Mammalian target of Rapamycin mTOR",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL830270",
+          "publication_ids": [
+            15546735
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Identification of a highly potent and selective DNA-dependent protein kinase (DNA-PK) inhibitor (NU7441) by screening of chromenone libraries.  Abstract: A solution-phase multiple-parallel synthesis approach was employed for the preparation of 6-, 7- and 8-aryl-substituted chromenone libraries, which were screened as inhibitors of the DNA repair enzyme DNA-dependent protein kinase (DNA-PK). These studies resulted in the identification of 8-dibenzothiophen-4-yl-2-morpholin-4-yl-chromen-4-one (NU7441) as a highly potent and selective DNA-PK inhibitor (IC50=14 nM), exhibiting ATP-competitive inhibition kinetics. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 24 First Page: 6083 Last Page: 6087 DOI: 10.1016/j.bmcl.2004.09.060  Target ChEMBL ID: CHEMBL2842 ChEMBL Target Name: Serine/threonine-protein kinase mTOR ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/241385"
+        },
+        {
+          "aid": 257405,
+          "name": "Inhibitory activity against mTOR",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL858721",
+          "publication_ids": [
+            16302822
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units",
+            "Activity Comment"
+          ],
+          "assay_context": "Title: Discovery of potent chromen-4-one inhibitors of the DNA-dependent protein kinase (DNA-PK) using a small-molecule library approach.  Abstract: Structure-activity relationships for inhibition of DNA-dependent protein kinase (DNA-PK) have been defined for substituted chromen-4-ones. For the 2-amino-substituted benzo[h]chromen-4-ones, a morpholine substituent at this position was essential for activity. Small libraries of 6- and 7-alkoxy-substituted chromen-4-ones showed that a number of 7-alkoxy-substituted chromenones displayed improved activity. Focused libraries incorporating 6-, 7-, and 8-aryl and heteroaryl substituents were prepared. In these cases, 6- and 7-substitution was disfavored, whereas 8-substitution was largely tolerated. Surprisingly, two compounds, 2-N-morpholino-8-dibenzofuranyl-chromen-4-one (NU7427, 32{38}) and the 2-N-morpholino-8-dibenzothiophenyl-chromen-4-one (NU7441, 32{26}) were excellent inhibitors (IC50 vs DNA-PK = 40 and 13 nM, respectively). The ring-saturated analogue 2-N-morpholino-8-(6',7',8',9'-tetrahydrodibenzothiophene)chromen-4-one, 36, retained potent activity (IC50 vs DNA-PK = 23 nM). The dibenzothiophene 32{38} sensitized HeLa cells to ionizing radiation in vitro, with dose modification factors of 2.5 at 10% survival being observed at 0.5 microM. The cytotoxicity of the topoisomerase II inhibitor etoposide was also potentiated. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 2005 Volume: 48 Issue: 24 First Page: 7829 Last Page: 7846 DOI: 10.1021/jm050444b  Target ChEMBL ID: CHEMBL2842 ChEMBL Target Name: Serine/threonine-protein kinase mTOR ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/257405"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL2971",
+      "uniprot_accession": "O60674",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 1446,
+          "name": "Primary cell-based high throughput assay for inhibitors of the Janus kinase 2 mutant JAK2V617F",
+          "source": "The Scripps Research Institute Molecular Screening Center",
+          "source_id": "JAK2V617F_INH_LUMI_1536_%INH",
+          "publication_ids": [
+            18400190,
+            7566171,
+            15575979,
+            18497672,
+            17208301,
+            9590173,
+            15837627,
+            15781101,
+            15858187,
+            15793561,
+            18779404,
+            18682296
+          ],
+          "result_names": [
+            "Inhibition"
+          ],
+          "assay_context": "Source (MLPCN Center Name): The Scripps Research Institute Molecular Screening Center (SRIMSC) Center Affiliation: The Scripps Research Institute (TSRI) Assay Provider: Ross Levine, Memorial Sloan Kettering Cancer Center (MSKCC) Network: Molecular Libraries Probe Production Centers Network (MLPCN) Grant Proposal Number: 1 R03 MH084174-01 Grant Proposal PI: Ross Levine, MSKCC External Assay ID: JAK2V617F_INH_LUMI_1536_%INH  Name: Primary cell-based high throughput assay for inhibitors of the Janus kinase 2 mutant JAK2V617F  Description: Regulation of the differentiation and activity of inflammatory cells through cytokine signaling is essential for proper immune function and to prevent auto-immune disease and leukemias (1, 2). The protein tyrosine kinase Janus kinase 2 (JAK2) is critical for this process (3-6). Following activation of cytokine receptors, particularly erythropoietin and interferon receptors, JAK2 phosphorylates transcription factors of the signal transducers and activators of transcription (STAT) family, leading to expression of target genes involved in immune cell homeostasis (2, 3). The discovery of acquired genetic mutations in the JAK2 gene in hematopoetic cells from patients with Myeloid Proliferative Disorders (MPDs) characterized by excess proliferation of differentiated bone marrow myeloid cells (7-10), provided insights into the role of JAK2 in hematopoiesis. The identified JAK2 mutation (JAK2V617F) replaces guanine with thymine, resulting in a valine to phenylalanine amino acid substitution at codon 617 within the pseudokinase JH2 autoinhibitory domain (7-10). The resulting JAK2V617F variant is constitutively active, mediating JAK-STAT signaling efficiently even in the absence of ligand. Thus, the discovery of small molecules that can differentially inhibit JAK2V617F and not wildtype JAK2 may provide insights into JAK2 signaling in hematopoiesis and MPD pathogenesis (11, 12).  References:  1. O'Shea JJ, Murray PJ. Cytokine signaling modules in inflammatory responses. Immunity. 2008 Apr;28(4):477-87. 2. Ihle, JN. Cytokine receptor signalling. Nature. 1995 Oct 19;377(6550):591-4. 3. Yamaoka K, Saharinen P, Pesu M, Holt VE 3rd, Silvennoinen O, O'Shea JJ. The Janus kinases (Jaks). Genome Biol. 2004;5(12):253. 4. Stepkowski SM, Chen W, Ross JA, Nagy ZS, Kirken RA. STAT3: an important regulator of multiple cytokine functions. Transplantation. 2008 May 27;85(10):1372-7. 5. O'Sullivan LA, Liongue C, Lewis RS, Stephenson SE, Ward AC. Cytokine receptor signaling through the Jak-Stat-Socs pathway in disease. Mol Immunol. 2007 Apr;44(10):2497-506. 6. Parganas, E., Wang, D., Stravopodis, D., Topham, D.J., Marine, J., Teglund, S., Vanin, E.F., Bodner, S., Colamonici, O.R., van Deursen, J.M., Grosveld, G., and Ihle, J.N., Jak2 is essential for signaling through a variety of cytokine receptors. Cell, 1998. 93: p. 385-395. 7. Levine, R.L., Wadleigh, M., Cools, J., Ebert, B.L., Wernig, G., Huntly, B.J., Boggon, T.J., Wlodarska, I., Clark, J.J., Moore, S., Adelsperger, J., Koo, S., Lee, J.C., Gabriel, S., Mercher, T., D'Andrea, A., Frohling, S., Dohner, K., Marynen, P., Vandenberghe, P., Mesa, R.A., Tefferi, A., Griffin, J.D., Eck, M.J., Sellers, W.R., Meyerson, M., Golub, T.R., Lee, S.J., and Gilliland, D.G., Activating mutation in the tyrosine kinase JAK2 in polycythemia vera, essential thrombocythemia, and myeloid metaplasia with myelofibrosis. Cancer Cell, 2005. 7(4): p. 387-397. 8. Baxter, E.J., Scott, L.M., Campbell, P.J., East, C., Fourouclas, N., Swanton, S., Vassiliou, G.S., Bench, A.J., Boyd, E.M., Curtin, N., Scott, M.A., Erber, W.N., and Green, A.R., Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet, 2005. 365(9464): p. 1054-61. 9. Kralovics, R., Passamonti, F., Buser, A.S., Teo, S., Tiedt, R., Passweg, J.R., Tichelli, A., Cazzola, M., and Skoda, R., A gain-of-function mutation of JAK2 in myeloproliferative disorders. New England Journal of Medicine, 2005. 352: p. 1779",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1446"
+        },
+        {
+          "aid": 1521,
+          "name": "Confirmation cell-based high throughput screening assay for inhibitors of the Janus kinase 2 mutant JAK2V617F",
+          "source": "The Scripps Research Institute Molecular Screening Center",
+          "source_id": "JAK2V617F_INH_LUMI_1536_3X%INH",
+          "publication_ids": [
+            18400190,
+            7566171,
+            15575979,
+            18497672,
+            17208301,
+            9590173,
+            15837627,
+            15781101,
+            15858187,
+            15793561,
+            18779404,
+            18682296
+          ],
+          "result_names": [
+            "Inhibition",
+            "Standard Deviation"
+          ],
+          "assay_context": "Source (MLPCN Center Name): The Scripps Research Institute Molecular Screening Center (SRIMSC) Center Affiliation: The Scripps Research Institute (TSRI) Assay Provider: Ross Levine, Memorial Sloan Kettering Cancer Center (MSKCC) Network: Molecular Libraries Probe Production Centers Network (MLPCN) Grant Proposal Number: 1 R03 MH084174-01 Grant Proposal PI: Ross Levine, MSKCC External Assay ID: JAK2V617F_INH_LUMI_1536_3X%INH  Name: Confirmation cell-based high throughput screening assay for inhibitors of the Janus kinase 2 mutant JAK2V617F  Description:  Regulation of the differentiation and activity of inflammatory cells through cytokine signaling is essential for proper immune function and to prevent auto-immune disease and leukemias (1, 2). The protein tyrosine kinase Janus kinase 2 (JAK2) is critical for this process (3-6). Following activation of cytokine receptors, particularly erythropoietin and interferon receptors, JAK2 phosphorylates transcription factors of the signal transducers and activators of transcription (STAT) family, leading to expression of target genes involved in immune cell homeostasis (2, 3). The discovery of acquired genetic mutations in the JAK2 gene in hematopoetic cells from patients with Myeloid Proliferative Disorders (MPDs) characterized by excess proliferation of differentiated bone marrow myeloid cells (7-10), provided insights into the role of JAK2 in hematopoiesis. The identified JAK2 mutation (JAK2V617F) replaces guanine with thymine, resulting in a valine to phenylalanine amino acid substitution at codon 617 within the pseudokinase JH2 autoinhibitory domain (7-10). The resulting JAK2V617F variant is constitutively active, mediating JAK-STAT signaling efficiently even in the absence of ligand. Thus, the discovery of small molecules that can differentially inhibit JAK2V617F and not wildtype JAK2 may provide insights into JAK2 signaling in hematopoiesis and MPD pathogenesis (11, 12).  References:  1. O'Shea JJ, Murray PJ. Cytokine signaling modules in inflammatory responses. Immunity. 2008 Apr;28(4):477-87. 2. Ihle, JN. Cytokine receptor signalling. Nature. 1995 Oct 19;377(6550):591-4. 3. Yamaoka K, Saharinen P, Pesu M, Holt VE 3rd, Silvennoinen O, O'Shea JJ. The Janus kinases (Jaks). Genome Biol. 2004;5(12):253. 4. Stepkowski SM, Chen W, Ross JA, Nagy ZS, Kirken RA. STAT3: an important regulator of multiple cytokine functions. Transplantation. 2008 May 27;85(10):1372-7. 5. O'Sullivan LA, Liongue C, Lewis RS, Stephenson SE, Ward AC. Cytokine receptor signaling through the Jak-Stat-Socs pathway in disease. Mol Immunol. 2007 Apr;44(10):2497-506. 6. Parganas, E., Wang, D., Stravopodis, D., Topham, D.J., Marine, J., Teglund, S., Vanin, E.F., Bodner, S., Colamonici, O.R., van Deursen, J.M., Grosveld, G., and Ihle, J.N., Jak2 is essential for signaling through a variety of cytokine receptors. Cell, 1998. 93: p. 385-395. 7. Levine, R.L., Wadleigh, M., Cools, J., Ebert, B.L., Wernig, G., Huntly, B.J., Boggon, T.J., Wlodarska, I., Clark, J.J., Moore, S., Adelsperger, J., Koo, S., Lee, J.C., Gabriel, S., Mercher, T., D'Andrea, A., Frohling, S., Dohner, K., Marynen, P., Vandenberghe, P., Mesa, R.A., Tefferi, A., Griffin, J.D., Eck, M.J., Sellers, W.R., Meyerson, M., Golub, T.R., Lee, S.J., and Gilliland, D.G., Activating mutation in the tyrosine kinase JAK2 in polycythemia vera, essential thrombocythemia, and myeloid metaplasia with myelofibrosis. Cancer Cell, 2005. 7(4): p. 387-397. 8. Baxter, E.J., Scott, L.M., Campbell, P.J., East, C., Fourouclas, N., Swanton, S., Vassiliou, G.S., Bench, A.J., Boyd, E.M., Curtin, N., Scott, M.A., Erber, W.N., and Green, A.R., Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet, 2005. 365(9464): p. 1054-61. 9. Kralovics, R., Passamonti, F., Buser, A.S., Teo, S., Tiedt, R., Passweg, J.R., Tichelli, A., Cazzola, M., and Skoda, R., A gain-of-function mutation of JAK2 in myeloproliferative disorders. New England Journal of Medicine, ",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1521"
+        },
+        {
+          "aid": 1699,
+          "name": "Luminescent counterscreen for inhibitors of the Janus kinase 2 mutant JAK2V617F: dose response cell-based high throughput screening assay for inhibitors of parental Ba/F3 cell viability.",
+          "source": "The Scripps Research Institute Molecular Screening Center",
+          "source_id": "BaF3CYTOX_INH_LUMI_384_3XIC50",
+          "publication_ids": [
+            18400190,
+            7566171,
+            15575979,
+            18497672,
+            17208301,
+            9590173,
+            15837627,
+            15781101,
+            15858187,
+            15793561,
+            18779404,
+            18682296
+          ],
+          "result_names": [
+            "Qualifier",
+            "IC50",
+            "LogIC50",
+            "Hill Slope",
+            "Hill S0",
+            "Hill Sinf",
+            "Hill dS",
+            "Chi Square",
+            "Rsquare",
+            "Number of DataPoints",
+            "Inhibition at 2.0 nM",
+            "Inhibition at 6.0 nM",
+            "Inhibition at 20.0 nM",
+            "Inhibition at 50.0 nM",
+            "Inhibition at 200.0 nM",
+            "Inhibition at 0.5 uM",
+            "Inhibition at 1.0 uM",
+            "Inhibition at 4.0 uM",
+            "Inhibition at 10.0 uM",
+            "Inhibition at 40.0 uM"
+          ],
+          "assay_context": "Source (MLPCN Center Name): The Scripps Research Institute Molecular Screening Center (SRIMSC) Center Affiliation: The Scripps Research Institute (TSRI) Assay Provider: Ross Levine, Memorial Sloan Kettering Cancer Center (MSKCC) Network: Molecular Libraries Probe Production Centers Network (MLPCN) Grant Proposal Number: 1 R03 MH084174-01 Grant Proposal PI: Ross Levine, MSKCC  External Assay ID: BaF3CYTOX_INH_LUMI_384_3XIC50  Name: Luminescent counterscreen for inhibitors of the Janus kinase 2 mutant JAK2V617F: dose response cell-based high throughput screening assay for inhibitors of parental Ba/F3 cell viability.  Description:   Regulation of the differentiation and activity of inflammatory cells through cytokine signaling is essential for proper immune function and to prevent auto-immune disease and leukemias (1, 2). The protein tyrosine kinase Janus kinase 2 (JAK2) is critical for this process (3-6). Following activation of cytokine receptors, particularly erythropoietin and interferon receptors, JAK2 phosphorylates transcription factors of the signal transducers and activators of transcription (STAT) family, leading to expression of target genes involved in immune cell homeostasis (2, 3). The discovery of acquired genetic mutations in the JAK2 gene in hematopoetic cells from patients with Myeloid Proliferative Disorders (MPDs) characterized by excess proliferation of differentiated bone marrow myeloid cells (7-10), provided insights into the role of JAK2 in hematopoiesis. The identified JAK2 mutation (JAK2V617F) replaces guanine with thymine, resulting in a valine to phenylalanine amino acid substitution at codon 617 within the pseudokinase JH2 autoinhibitory domain (7-10). The resulting JAK2V617F variant is constitutively active, mediating JAK-STAT signaling efficiently even in the absence of ligand. Thus, the discovery of small molecules that can differentially inhibit JAK2V617F and not wildtype JAK2 may provide insights into JAK2 signaling in hematopoiesis and MPD pathogenesis (11, 12).  References:  1. O'Shea JJ, Murray PJ. Cytokine signaling modules in inflammatory responses. Immunity. 2008 Apr;28(4):477-87. 2. Ihle, JN. Cytokine receptor signalling. Nature. 1995 Oct 19;377(6550):591-4. 3. Yamaoka K, Saharinen P, Pesu M, Holt VE 3rd, Silvennoinen O, O'Shea JJ. The Janus kinases (Jaks). Genome Biol. 2004;5(12):253. 4. Stepkowski SM, Chen W, Ross JA, Nagy ZS, Kirken RA. STAT3: an important regulator of multiple cytokine functions. Transplantation. 2008 May 27;85(10):1372-7. 5. O'Sullivan LA, Liongue C, Lewis RS, Stephenson SE, Ward AC. Cytokine receptor signaling through the Jak-Stat-Socs pathway in disease. Mol Immunol. 2007 Apr;44(10):2497-506. 6. Parganas, E., Wang, D., Stravopodis, D., Topham, D.J., Marine, J., Teglund, S., Vanin, E.F., Bodner, S., Colamonici, O.R., van Deursen, J.M., Grosveld, G., and Ihle, J.N., Jak2 is essential for signaling through a variety of cytokine receptors. Cell, 1998. 93: p. 385-395. 7. Levine, R.L., Wadleigh, M., Cools, J., Ebert, B.L., Wernig, G., Huntly, B.J., Boggon, T.J., Wlodarska, I., Clark, J.J., Moore, S., Adelsperger, J., Koo, S., Lee, J.C., Gabriel, S., Mercher, T., D'Andrea, A., Frohling, S., Dohner, K., Marynen, P., Vandenberghe, P., Mesa, R.A., Tefferi, A., Griffin, J.D., Eck, M.J., Sellers, W.R., Meyerson, M., Golub, T.R., Lee, S.J., and Gilliland, D.G., Activating mutation in the tyrosine kinase JAK2 in polycythemia vera, essential thrombocythemia, and myeloid metaplasia with myelofibrosis. Cancer Cell, 2005. 7(4): p. 387-397. 8. Baxter, E.J., Scott, L.M., Campbell, P.J., East, C., Fourouclas, N., Swanton, S., Vassiliou, G.S., Bench, A.J., Boyd, E.M., Curtin, N., Scott, M.A., Erber, W.N., and Green, A.R., Acquired mutation of the tyrosine kinase JAK2 in human myeloproliferative disorders. Lancet, 2005. 365(9464): p. 1054-61. 9. Kralovics, R., Passamonti, F., Buser, A.S., Teo, S., Tiedt, R., Passweg, J.R., Tichelli, A., Cazzola, M., and Skoda, R., A gain-of-function mutat",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1699"
+        },
+        {
+          "aid": 2165,
+          "name": "Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F.",
+          "source": "The Scripps Research Institute Molecular Screening Center",
+          "source_id": "JAK2_INH_ LEADS_LATE_STAGE",
+          "publication_ids": [
+            18400190,
+            7566171,
+            15575979,
+            18497672,
+            17208301,
+            9590173,
+            15837627,
+            15781101,
+            15858187,
+            15793561,
+            18779404,
+            18682296
+          ],
+          "result_names": [
+            "Qualifier",
+            "IC50",
+            "%Inh at 4.0 nM",
+            "%Inh at 8.0 nM",
+            "%Inh at 20.0 nM",
+            "%Inh at 56.0 nM",
+            "%Inh at 164.0 nM",
+            "%Inh at 490.0 nM",
+            "%Inh at 1.48 uM",
+            "%Inh at 4.44 uM",
+            "%Inh at 13.33 uM",
+            "%Inh at 40.00 uM",
+            "Probe Molecule Outcome",
+            "Panel ID",
+            "Panel Name",
+            "Panel Target"
+          ],
+          "assay_context": "Data Source: The Scripps Research Institute Molecular Screening Center (SRIMSC) Center Affiliation: The Scripps Research Institute, TSRI Assay Provider: Ross Levine, Memorial Sloan Kettering Cancer Center (MSKCC) Network: Molecular Libraries Probe Production Center Network (MLPCN) Grant Proposal Number: 1 R03 MH084174-01 Grant Proposal PI: Ross Levine, MSKCC External Assay ID: JAK2_INH_LEADS_LATE_STAGE  Name: Late stage results from the probe development effort to identify inhibitors of the Janus kinase 2 mutant JAK2V617F  Description:  Regulation of the differentiation and activity of inflammatory cells through cytokine signaling is essential for proper immune function and to prevent auto-immune disease and leukemias (1, 2). The protein tyrosine kinase Janus kinase 2 (JAK2) is critical for this process (3-6). Following activation of cytokine receptors, particularly erythropoietin and interferon receptors, JAK2 phosphorylates transcription factors of the signal transducers and activators of transcription (STAT) family, leading to expression of target genes involved in immune cell homeostasis (2, 3). The discovery of acquired genetic mutations in the JAK2 gene in hematopoetic cells from patients with Myeloid Proliferative Disorders (MPDs) characterized by excess proliferation of differentiated bone marrow myeloid cells (7-10), provided insights into the role of JAK2 in hematopoiesis. The identified JAK2 mutation (JAK2V617F) replaces guanine with thymine, resulting in a valine to phenylalanine amino acid substitution at codon 617 within the pseudokinase JH2 autoinhibitory domain (7-10). The resulting JAK2V617F variant is constitutively active, mediating JAK-STAT signaling efficiently even in the absence of ligand. Thus, the discovery of small molecules that can differentially inhibit JAK2V617F and not wildtype JAK2 may provide insights into JAK2 signaling in hematopoiesis and MPD pathogenesis (11, 12).  Summary of Probe Development Effort:  Following the screening campaign (AIDs 1446, 1486, 1520, 1521, 1691, and 1699), certain compounds were identified as possible candidates for probe development. Compounds of interest were reordered as powders, and analogs were purchased or synthesized and tested in assays to determine potency (Assay 1), cytotoxicity (Assay 2), and selectivity (Assays 3-4). The probe development effort based on the hits from the HTS screening campaign resulted in no improvement over the prior art. No probes were identified and the SRIMSC probe development effort for this project has now stopped. Details of protocols, compound structures, and results from the original assays can be found in PubChem at the respective AIDs listed below.  References:  1. O'Shea JJ, Murray PJ. Cytokine signaling modules in inflammatory responses. Immunity. 2008 Apr;28(4):477-87.  2. Ihle, JN. Cytokine receptor signalling. Nature. 1995 Oct 19;377(6550):591-4.  3. Yamaoka K, Saharinen P, Pesu M, Holt VE 3rd, Silvennoinen O, O'Shea JJ. The Janus kinases (Jaks). Genome Biol. 2004;5(12):253.  4. Stepkowski SM, Chen W, Ross JA, Nagy ZS, Kirken RA. STAT3: an important regulator of multiple cytokine functions. Transplantation. 2008 May 27;85(10):1372-7.  5. O'Sullivan LA, Liongue C, Lewis RS, Stephenson SE, Ward AC. Cytokine receptor signaling through the Jak-Stat-Socs pathway in disease. Mol Immunol. 2007 Apr;44(10):2497-506.  6. Parganas, E., Wang, D., Stravopodis, D., Topham, D.J., Marine, J., Teglund, S., Vanin, E.F., Bodner, S., Colamonici, O.R., van Deursen, J.M., Grosveld, G., and Ihle, J.N., Jak2 is essential for signaling through a variety of cytokine receptors. Cell, 1998. 93: p. 385-395.  7. Levine, R.L., Wadleigh, M., Cools, J., Ebert, B.L., Wernig, G., Huntly, B.J., Boggon, T.J., Wlodarska, I., Clark, J.J., Moore, S., Adelsperger, J., Koo, S., Lee, J.C., Gabriel, S., Mercher, T., D'Andrea, A., Frohling, S., Dohner, K., Marynen, P., Vandenberghe, P., Mesa, R.A., Tefferi, A., Griffin, J.D., Eck, M.J., Sellers, W.R., Meyerson, M.,",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/2165"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL301",
+      "uniprot_accession": "P24941",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 1811,
+          "name": "Experimentally measured binding affinity data derived from PDB",
+          "source": "Shanghai Institute of Organic Chemistry",
+          "source_id": "PDBBind Data 1",
+          "publication_ids": [
+            15943484,
+            15163179
+          ],
+          "result_names": [
+            "Affinity_Quilifier",
+            "Ki",
+            "Kd",
+            "IC50",
+            "pKipKdpIC50",
+            "PubMed",
+            "Protein Target",
+            "Protein Name",
+            "MMDB",
+            "PDB"
+          ],
+          "assay_context": "This data entry provides a collection of experimentally measured binding affinity data (Kd, Ki, and IC50), which are exclusively for the protein-ligand complexes available in the Protein Data Bank (PDB).  All of the binding affinity data compiled in this data entry are cited from original references. This work is contributed by the PDBbind database.  ",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1811"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL3587",
+      "uniprot_accession": "Q02750",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 31748,
+          "name": "AP-1 suppression activity using freshly prepared DMSO stock",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL645947",
+          "publication_ids": [
+            9873633
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: MEK inhibitors: the chemistry and biological activity of U0126, its analogs, and cyclization products.  Abstract: In search of antiinflammatory drugs with a new mechanism of action, U0126 was found to functionally antagonize AP-1 transcriptional activity via noncompetitive inhibition of the dual specificity kinase MEK with an IC50 of 0.07 microM for MEK 1 and 0.06 microM for MEK 2. U0126 can undergo isomerization and cyclization reactions to form a variety of products, both chemically and in vivo, all of which exhibit less affinity for MEK and lower inhibition of AP-1 activity than parent, U0126. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 1998 Volume: 8 Issue: 20 First Page: 2839 Last Page: 2844 DOI: 10.1016/s0960-894x(98)00522-8  Target ChEMBL ID: CHEMBL2111289 ChEMBL Target Name: Dual specificity mitogen-activated protein kinase kinase; MEK1/2 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/31748"
+        },
+        {
+          "aid": 31749,
+          "name": "AP-1 suppression activity using one month old DMSO stock",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL645948",
+          "publication_ids": [
+            9873633
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: MEK inhibitors: the chemistry and biological activity of U0126, its analogs, and cyclization products.  Abstract: In search of antiinflammatory drugs with a new mechanism of action, U0126 was found to functionally antagonize AP-1 transcriptional activity via noncompetitive inhibition of the dual specificity kinase MEK with an IC50 of 0.07 microM for MEK 1 and 0.06 microM for MEK 2. U0126 can undergo isomerization and cyclization reactions to form a variety of products, both chemically and in vivo, all of which exhibit less affinity for MEK and lower inhibition of AP-1 activity than parent, U0126. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 1998 Volume: 8 Issue: 20 First Page: 2839 Last Page: 2844 DOI: 10.1016/s0960-894x(98)00522-8  Target ChEMBL ID: CHEMBL2111289 ChEMBL Target Name: Dual specificity mitogen-activated protein kinase kinase; MEK1/2 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/31749"
+        },
+        {
+          "aid": 31750,
+          "name": "AP-1 suppression activity using one week old DMSO stock",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL645949",
+          "publication_ids": [
+            9873633
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: MEK inhibitors: the chemistry and biological activity of U0126, its analogs, and cyclization products.  Abstract: In search of antiinflammatory drugs with a new mechanism of action, U0126 was found to functionally antagonize AP-1 transcriptional activity via noncompetitive inhibition of the dual specificity kinase MEK with an IC50 of 0.07 microM for MEK 1 and 0.06 microM for MEK 2. U0126 can undergo isomerization and cyclization reactions to form a variety of products, both chemically and in vivo, all of which exhibit less affinity for MEK and lower inhibition of AP-1 activity than parent, U0126. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 1998 Volume: 8 Issue: 20 First Page: 2839 Last Page: 2844 DOI: 10.1016/s0960-894x(98)00522-8  Target ChEMBL ID: CHEMBL2111289 ChEMBL Target Name: Dual specificity mitogen-activated protein kinase kinase; MEK1/2 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/31750"
+        },
+        {
+          "aid": 31751,
+          "name": "AP-1 suppression activity using six months old DMSO stock",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL645950",
+          "publication_ids": [
+            9873633
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: MEK inhibitors: the chemistry and biological activity of U0126, its analogs, and cyclization products.  Abstract: In search of antiinflammatory drugs with a new mechanism of action, U0126 was found to functionally antagonize AP-1 transcriptional activity via noncompetitive inhibition of the dual specificity kinase MEK with an IC50 of 0.07 microM for MEK 1 and 0.06 microM for MEK 2. U0126 can undergo isomerization and cyclization reactions to form a variety of products, both chemically and in vivo, all of which exhibit less affinity for MEK and lower inhibition of AP-1 activity than parent, U0126. Journal: Bioorg Med Chem Lett Year: 1998 Volume: 8 Issue: 20 First Page: 2839 Last Page: 2844 DOI: 10.1016/s0960-894x(98)00522-8  Target ChEMBL ID: CHEMBL2111289 ChEMBL Target Name: Dual specificity mitogen-activated protein kinase kinase; MEK1/2 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/31751"
+        },
+        {
+          "aid": 31752,
+          "name": "AP-1 suppression activity using two months old DMSO stock",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL645951",
+          "publication_ids": [
+            9873633
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: MEK inhibitors: the chemistry and biological activity of U0126, its analogs, and cyclization products.  Abstract: In search of antiinflammatory drugs with a new mechanism of action, U0126 was found to functionally antagonize AP-1 transcriptional activity via noncompetitive inhibition of the dual specificity kinase MEK with an IC50 of 0.07 microM for MEK 1 and 0.06 microM for MEK 2. U0126 can undergo isomerization and cyclization reactions to form a variety of products, both chemically and in vivo, all of which exhibit less affinity for MEK and lower inhibition of AP-1 activity than parent, U0126. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 1998 Volume: 8 Issue: 20 First Page: 2839 Last Page: 2844 DOI: 10.1016/s0960-894x(98)00522-8  Target ChEMBL ID: CHEMBL2111289 ChEMBL Target Name: Dual specificity mitogen-activated protein kinase kinase; MEK1/2 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/31752"
+        },
+        {
+          "aid": 31753,
+          "name": "Ability to antagonise AP-1 transcriptional activity",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL645952",
+          "publication_ids": [
+            9873633
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: MEK inhibitors: the chemistry and biological activity of U0126, its analogs, and cyclization products.  Abstract: In search of antiinflammatory drugs with a new mechanism of action, U0126 was found to functionally antagonize AP-1 transcriptional activity via noncompetitive inhibition of the dual specificity kinase MEK with an IC50 of 0.07 microM for MEK 1 and 0.06 microM for MEK 2. U0126 can undergo isomerization and cyclization reactions to form a variety of products, both chemically and in vivo, all of which exhibit less affinity for MEK and lower inhibition of AP-1 activity than parent, U0126. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 1998 Volume: 8 Issue: 20 First Page: 2839 Last Page: 2844 DOI: 10.1016/s0960-894x(98)00522-8  Target ChEMBL ID: CHEMBL2111289 ChEMBL Target Name: Dual specificity mitogen-activated protein kinase kinase; MEK1/2 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/31753"
+        },
+        {
+          "aid": 31754,
+          "name": "Ability to antagonise AP-1 transcriptional activity (inactive)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL645953",
+          "publication_ids": [
+            9873633
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Text Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: MEK inhibitors: the chemistry and biological activity of U0126, its analogs, and cyclization products.  Abstract: In search of antiinflammatory drugs with a new mechanism of action, U0126 was found to functionally antagonize AP-1 transcriptional activity via noncompetitive inhibition of the dual specificity kinase MEK with an IC50 of 0.07 microM for MEK 1 and 0.06 microM for MEK 2. U0126 can undergo isomerization and cyclization reactions to form a variety of products, both chemically and in vivo, all of which exhibit less affinity for MEK and lower inhibition of AP-1 activity than parent, U0126. Journal: Bioorg Med Chem Lett Year: 1998 Volume: 8 Issue: 20 First Page: 2839 Last Page: 2844 DOI: 10.1016/s0960-894x(98)00522-8  Target ChEMBL ID: CHEMBL2111289 ChEMBL Target Name: Dual specificity mitogen-activated protein kinase kinase; MEK1/2 ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/31754"
+        },
+        {
+          "aid": 103032,
+          "name": "Inhibition of ERK-phosphorylation by Raf-MEK-ERK in coupled ELISA",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL710955",
+          "publication_ids": [
+            11133101
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Synthesis and structure-activity relationships of 3-cyano-4-(phenoxyanilino)quinolines as MEK (MAPKK) inhibitors.  Abstract: A series of 3-cyano-4-(phenoxyanilino)cyanoquinolines has been prepared as MEK (MAP kinase kinase) inhibitors. The best activity is seen with alkoxy groups at both the 6- and 7-positions. The lead compounds show low nanomolar IC50's against MAP kinase kinase, and have potent inhibitory activity in tumor cells. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 2000 Volume: 10 Issue: 24 First Page: 2825 Last Page: 2828 DOI: 10.1016/s0960-894x(00)00580-1  Target ChEMBL ID: CHEMBL2111351 ChEMBL Target Name: Serine/threonine-protein kinase RAF and Dual specificity mitogen-activated protein kinase kinase 1 (Raf/MEK) ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: D - Direct protein target assigned Confidence: Multiple direct protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/103032"
+        },
+        {
+          "aid": 103033,
+          "name": "Inhibition of ERK phosphorylation in coupled Raf-MEK-ERK ELISA (Weakly active)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL710956",
+          "publication_ids": [
+            11133101
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Synthesis and structure-activity relationships of 3-cyano-4-(phenoxyanilino)quinolines as MEK (MAPKK) inhibitors.  Abstract: A series of 3-cyano-4-(phenoxyanilino)cyanoquinolines has been prepared as MEK (MAP kinase kinase) inhibitors. The best activity is seen with alkoxy groups at both the 6- and 7-positions. The lead compounds show low nanomolar IC50's against MAP kinase kinase, and have potent inhibitory activity in tumor cells. Journal: Bioorg Med Chem Lett Year: 2000 Volume: 10 Issue: 24 First Page: 2825 Last Page: 2828 DOI: 10.1016/s0960-894x(00)00580-1  Target ChEMBL ID: CHEMBL2111351 ChEMBL Target Name: Serine/threonine-protein kinase RAF and Dual specificity mitogen-activated protein kinase kinase 1 (Raf/MEK) ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: D - Direct protein target assigned Confidence: Multiple direct protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/103033"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL3650",
+      "uniprot_accession": "P11362",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 68957,
+          "name": "Inhibition of fibroblast growth factor receptor (FGFr)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL678594",
+          "publication_ids": [
+            9703473
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 2-Substituted aminopyrido[2,3-d]pyrimidin-7(8H)-ones. structure-activity relationships against selected tyrosine kinases and in vitro and in vivo anticancer activity.  Abstract: While engaged in therapeutic intervention against a number of proliferative diseases, we have discovered the 2-aminopyrido[2, 3-d]pyrimidin-7(8H)-ones as a novel class of potent, broadly active tyrosine kinase (TK) inhibitors. An efficient route was developed that enabled the synthesis of a wide variety of analogues with substitution on several positions of the template. From the lead structure 2, a series of analogues bearing variable substituents at the C-2 position and methyl or ethyl at N-8 was made. Compounds of this series were competitive with ATP and displayed submicromolar to low nanomolar potency against a panel of TKs, including receptor (platelet-derived growth factor, PDGFr; fibroblast growth factor, FGFr; epidermal growth factor, EGFr) and nonreceptor (c-Src) classes. One of the more thoroughly evaluated members was 63 with IC50 values of 0.079 microM (PDGFr), 0.043 microM (bFGFr), 0.044 microM (EGFr), and 0.009 microM (c-Src). In cellular studies, 63 inhibited PDGF-mediated receptor autophosphorylation in a number of cell lines at IC50 values of 0.026-0.002 microM and proliferation of two PDGF-dependent lines at 0.3 microM. It also caused inhibition of soft agar colony formation in three cell lines that overexpress the c-Src TK, with IC50 values of 0.33-1.8 microM. In in vivo studies against a panel of seven xenograft tumor models with known and/or inferred dependence on the EGFr, PDGFr, and c-Src TKs, compound 63 produced a tumor growth delay of 10.6 days against the relatively refractory SK-OV-3 ovarian xenograft and also displayed activity against the HT-29 tumor. In rat oral bioavailability studies, compound 63 plasma concentrations declined in a biexponential manner, and systemic plasma clearance was high relative to liver blood flow. Finally, in rat metabolism studies, HPLC chromatography identified two metabolites of 63, which were proved by mass spectrometry and synthesis to be the primary amine (58) and N-oxide (66). Because of the excellent potency of 63 against selected TKs, in vitro and in vivo studies are underway for this compound in additional tumor models dependent upon PDGFr, FGFr, and c-Src to assess its potential for advancement to clinical trials. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1998 Volume: 41 Issue: 17 First Page: 3276 Last Page: 3292 DOI: 10.1021/jm9802259  Target ChEMBL ID: CHEMBL3650 ChEMBL Target Name: Fibroblast growth factor receptor 1 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/68957"
+        },
+        {
+          "aid": 73300,
+          "name": "Inhibition of fibroblast growth factor receptor (FGFr) tyrosine kinase",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL676963",
+          "publication_ids": [
+            9703473
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 2-Substituted aminopyrido[2,3-d]pyrimidin-7(8H)-ones. structure-activity relationships against selected tyrosine kinases and in vitro and in vivo anticancer activity.  Abstract: While engaged in therapeutic intervention against a number of proliferative diseases, we have discovered the 2-aminopyrido[2, 3-d]pyrimidin-7(8H)-ones as a novel class of potent, broadly active tyrosine kinase (TK) inhibitors. An efficient route was developed that enabled the synthesis of a wide variety of analogues with substitution on several positions of the template. From the lead structure 2, a series of analogues bearing variable substituents at the C-2 position and methyl or ethyl at N-8 was made. Compounds of this series were competitive with ATP and displayed submicromolar to low nanomolar potency against a panel of TKs, including receptor (platelet-derived growth factor, PDGFr; fibroblast growth factor, FGFr; epidermal growth factor, EGFr) and nonreceptor (c-Src) classes. One of the more thoroughly evaluated members was 63 with IC50 values of 0.079 microM (PDGFr), 0.043 microM (bFGFr), 0.044 microM (EGFr), and 0.009 microM (c-Src). In cellular studies, 63 inhibited PDGF-mediated receptor autophosphorylation in a number of cell lines at IC50 values of 0.026-0.002 microM and proliferation of two PDGF-dependent lines at 0.3 microM. It also caused inhibition of soft agar colony formation in three cell lines that overexpress the c-Src TK, with IC50 values of 0.33-1.8 microM. In in vivo studies against a panel of seven xenograft tumor models with known and/or inferred dependence on the EGFr, PDGFr, and c-Src TKs, compound 63 produced a tumor growth delay of 10.6 days against the relatively refractory SK-OV-3 ovarian xenograft and also displayed activity against the HT-29 tumor. In rat oral bioavailability studies, compound 63 plasma concentrations declined in a biexponential manner, and systemic plasma clearance was high relative to liver blood flow. Finally, in rat metabolism studies, HPLC chromatography identified two metabolites of 63, which were proved by mass spectrometry and synthesis to be the primary amine (58) and N-oxide (66). Because of the excellent potency of 63 against selected TKs, in vitro and in vivo studies are underway for this compound in additional tumor models dependent upon PDGFr, FGFr, and c-Src to assess its potential for advancement to clinical trials. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1998 Volume: 41 Issue: 17 First Page: 3276 Last Page: 3292 DOI: 10.1021/jm9802259  Target ChEMBL ID: CHEMBL3650 ChEMBL Target Name: Fibroblast growth factor receptor 1 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/73300"
+        },
+        {
+          "aid": 73301,
+          "name": "Inhibitory activity against human FGFR at 10 uM",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL676964",
+          "publication_ids": [
+            15177483
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units",
+            "Data Validity Comment"
+          ],
+          "assay_context": "Title: SAR of benzoylpyridines and benzophenones as p38alpha MAP kinase inhibitors with oral activity.  Abstract: Benzoylpyridines and benzophenones were synthesized and evaluated in vitro as p38alpha inhibitors and in vivo in several models of rheumatoid arthritis. Oral activity was found to depend upon substitution: 1,1-dimethylpropynylamine substituted benzophenone 10b (IC50: 14 nM) and pyridinoyl substituted benzimidazole 17b (IC50: 21 nM) showed highest efficacy and selectivity with ED50s of 9.5 and 8.6 mg/kg p.o. in CIA. Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 13 First Page: 3601 Last Page: 3605 DOI: 10.1016/j.bmcl.2004.03.111  Target ChEMBL ID: CHEMBL2095217 ChEMBL Target Name: Fibroblast growth factor receptor ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/73301"
+        },
+        {
+          "aid": 73309,
+          "name": "Inhibition of fibroblast growth factor receptor (FGFr)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL676878",
+          "publication_ids": [
+            9703473
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 2-Substituted aminopyrido[2,3-d]pyrimidin-7(8H)-ones. structure-activity relationships against selected tyrosine kinases and in vitro and in vivo anticancer activity.  Abstract: While engaged in therapeutic intervention against a number of proliferative diseases, we have discovered the 2-aminopyrido[2, 3-d]pyrimidin-7(8H)-ones as a novel class of potent, broadly active tyrosine kinase (TK) inhibitors. An efficient route was developed that enabled the synthesis of a wide variety of analogues with substitution on several positions of the template. From the lead structure 2, a series of analogues bearing variable substituents at the C-2 position and methyl or ethyl at N-8 was made. Compounds of this series were competitive with ATP and displayed submicromolar to low nanomolar potency against a panel of TKs, including receptor (platelet-derived growth factor, PDGFr; fibroblast growth factor, FGFr; epidermal growth factor, EGFr) and nonreceptor (c-Src) classes. One of the more thoroughly evaluated members was 63 with IC50 values of 0.079 microM (PDGFr), 0.043 microM (bFGFr), 0.044 microM (EGFr), and 0.009 microM (c-Src). In cellular studies, 63 inhibited PDGF-mediated receptor autophosphorylation in a number of cell lines at IC50 values of 0.026-0.002 microM and proliferation of two PDGF-dependent lines at 0.3 microM. It also caused inhibition of soft agar colony formation in three cell lines that overexpress the c-Src TK, with IC50 values of 0.33-1.8 microM. In in vivo studies against a panel of seven xenograft tumor models with known and/or inferred dependence on the EGFr, PDGFr, and c-Src TKs, compound 63 produced a tumor growth delay of 10.6 days against the relatively refractory SK-OV-3 ovarian xenograft and also displayed activity against the HT-29 tumor. In rat oral bioavailability studies, compound 63 plasma concentrations declined in a biexponential manner, and systemic plasma clearance was high relative to liver blood flow. Finally, in rat metabolism studies, HPLC chromatography identified two metabolites of 63, which were proved by mass spectrometry and synthesis to be the primary amine (58) and N-oxide (66). Because of the excellent potency of 63 against selected TKs, in vitro and in vivo studies are underway for this compound in additional tumor models dependent upon PDGFr, FGFr, and c-Src to assess its potential for advancement to clinical trials. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1998 Volume: 41 Issue: 17 First Page: 3276 Last Page: 3292 DOI: 10.1021/jm9802259  Target ChEMBL ID: CHEMBL3650 ChEMBL Target Name: Fibroblast growth factor receptor 1 ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/73309"
+        },
+        {
+          "aid": 73311,
+          "name": "Inhibition of fibroblast growth factor receptor (FGFr) tyrosine kinase",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL676880",
+          "publication_ids": [
+            9240345
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Structure-activity relationships for a novel series of pyrido[2,3-d]pyrimidine tyrosine kinase inhibitors.  Abstract: Screening of a compound library for inhibitors of the fibroblast growth factor (FGFr) and platelet-derived growth factor (PDGFr) receptor tyrosine kinases led to the development of a novel series of ATP competitive pyrido[2,3-d]pyrimidine tyrosine kinase inhibitors. The initial lead, 1-[2-amino-6-(2,6-dichlorophenyl)pyrido[2,3-d]pyrimidin-7-yl]-3- tert-butylurea (4b, PD-089828), was found to be a broadly active tyrosine kinase inhibitor. Compound 4b inhibited the PDGFr, FGFr, EGFr, and c-src tyrosine kinases with IC50 values of 1.11, 0.13, 0.45, and 0.22 microM, respectively. Subsequent SAR studies led to the synthesis of new analogs with improved potency, solubility, and bioavailability relative to the initial lead. For example, the introduction of a [4-(diethylamino)butyl]amino side chain into the 2-position of 4b afforded compound 6c with enhanced potency and bioavailability. Compound 6c inhibited PDGF-stimulated vascular smooth muscle cell proliferation with an IC50 of 0.3 microM. Furthermore, replacement of the 6-(2,6-dichlorophenyl) moiety of 4b with a 6-(3',5'-dimethoxyphenyl) functionality produced a highly selective FGFr tyrosine kinase inhibitor 4e. Compound 4e inhibited the FGFr tyrosine kinase with an IC50 of 0.060 microM, whereas IC50s for the inhibition of the PDGFr, FGFr, EGFr, c-src, and InsR tyrosine kinases for this compound (4e) were all greater than 50 microM. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1997 Volume: 40 Issue: 15 First Page: 2296 Last Page: 2303 DOI: 10.1021/jm970367n  Target ChEMBL ID: CHEMBL2095217 ChEMBL Target Name: Fibroblast growth factor receptor ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/73311"
+        },
+        {
+          "aid": 73312,
+          "name": "Inhibition of Fibroblast growth factor receptor (FGFr) tyrosine kinase",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL676881",
+          "publication_ids": [
+            9240345
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Structure-activity relationships for a novel series of pyrido[2,3-d]pyrimidine tyrosine kinase inhibitors.  Abstract: Screening of a compound library for inhibitors of the fibroblast growth factor (FGFr) and platelet-derived growth factor (PDGFr) receptor tyrosine kinases led to the development of a novel series of ATP competitive pyrido[2,3-d]pyrimidine tyrosine kinase inhibitors. The initial lead, 1-[2-amino-6-(2,6-dichlorophenyl)pyrido[2,3-d]pyrimidin-7-yl]-3- tert-butylurea (4b, PD-089828), was found to be a broadly active tyrosine kinase inhibitor. Compound 4b inhibited the PDGFr, FGFr, EGFr, and c-src tyrosine kinases with IC50 values of 1.11, 0.13, 0.45, and 0.22 microM, respectively. Subsequent SAR studies led to the synthesis of new analogs with improved potency, solubility, and bioavailability relative to the initial lead. For example, the introduction of a [4-(diethylamino)butyl]amino side chain into the 2-position of 4b afforded compound 6c with enhanced potency and bioavailability. Compound 6c inhibited PDGF-stimulated vascular smooth muscle cell proliferation with an IC50 of 0.3 microM. Furthermore, replacement of the 6-(2,6-dichlorophenyl) moiety of 4b with a 6-(3',5'-dimethoxyphenyl) functionality produced a highly selective FGFr tyrosine kinase inhibitor 4e. Compound 4e inhibited the FGFr tyrosine kinase with an IC50 of 0.060 microM, whereas IC50s for the inhibition of the PDGFr, FGFr, EGFr, c-src, and InsR tyrosine kinases for this compound (4e) were all greater than 50 microM. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 1997 Volume: 40 Issue: 15 First Page: 2296 Last Page: 2303 DOI: 10.1021/jm970367n  Target ChEMBL ID: CHEMBL2095217 ChEMBL Target Name: Fibroblast growth factor receptor ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/73312"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL3717",
+      "uniprot_accession": "P08581",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 106341,
+          "name": "Inhibition of MET kinase activity",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL880758",
+          "publication_ids": [
+            15189033
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Aminopyrazole inhibitors of CDK2/cyclin A as antitumor agents. 1. Lead finding.  Abstract: Abnormal proliferation mediated by disruption of the normal cell cycle mechanisms is a hallmark of virtually all cancer cells. Compounds targeting complexes between cyclin-dependent kinases (CDK) and cyclins, such as CDK2/cyclin A and CDK2/cyclin E, and inhibiting their kinase activity are regarded as promising antitumor agents to complement the existing therapies. From a high-throughput screening effort, we identified a new class of CDK2/cyclin A/E inhibitors. The hit-to-lead expansion of this class is described. X-ray crystallographic data of early compounds in this series, as well as in vitro testing funneled for rapidly achieving in vivo efficacy, led to a nanomolar inhibitor of CDK2/cyclin A (N-(5-cyclopropyl-1H-pyrazol-3-yl)-2-(2-naphthyl)acetamide (41), PNU-292137, IC50 = 37 nM) with in vivo antitumor activity (TGI > 50%) in a mouse xenograft model at a dose devoid of toxic effects. Journal: J Med Chem Year: 2004 Volume: 47 Issue: 13 First Page: 3367 Last Page: 3380 DOI: 10.1021/jm031145u  Target ChEMBL ID: CHEMBL3717 ChEMBL Target Name: Hepatocyte growth factor receptor ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/106341"
+        },
+        {
+          "aid": 108332,
+          "name": "Inhibit of human Met proto-oncogene tyrosine kinase",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL710508",
+          "publication_ids": [
+            15177483
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: SAR of benzoylpyridines and benzophenones as p38alpha MAP kinase inhibitors with oral activity.  Abstract: Benzoylpyridines and benzophenones were synthesized and evaluated in vitro as p38alpha inhibitors and in vivo in several models of rheumatoid arthritis. Oral activity was found to depend upon substitution: 1,1-dimethylpropynylamine substituted benzophenone 10b (IC50: 14 nM) and pyridinoyl substituted benzimidazole 17b (IC50: 21 nM) showed highest efficacy and selectivity with ED50s of 9.5 and 8.6 mg/kg p.o. in CIA. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 13 First Page: 3601 Last Page: 3605 DOI: 10.1016/j.bmcl.2004.03.111  Target ChEMBL ID: CHEMBL3717 ChEMBL Target Name: Hepatocyte growth factor receptor ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/108332"
+        },
+        {
+          "aid": 108333,
+          "name": "Inhibition of human Met proto-oncogene tyrosine kinase at 10 uM",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL711148",
+          "publication_ids": [
+            15177483
+          ],
+          "result_names": [
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units",
+            "Data Validity Comment"
+          ],
+          "assay_context": "Title: SAR of benzoylpyridines and benzophenones as p38alpha MAP kinase inhibitors with oral activity.  Abstract: Benzoylpyridines and benzophenones were synthesized and evaluated in vitro as p38alpha inhibitors and in vivo in several models of rheumatoid arthritis. Oral activity was found to depend upon substitution: 1,1-dimethylpropynylamine substituted benzophenone 10b (IC50: 14 nM) and pyridinoyl substituted benzimidazole 17b (IC50: 21 nM) showed highest efficacy and selectivity with ED50s of 9.5 and 8.6 mg/kg p.o. in CIA. Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 13 First Page: 3601 Last Page: 3605 DOI: 10.1016/j.bmcl.2004.03.111  Target ChEMBL ID: CHEMBL3717 ChEMBL Target Name: Hepatocyte growth factor receptor ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/108333"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL4005",
+      "uniprot_accession": "P42336",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 225245,
+          "name": "Inhibition of p100/p85 PI3-kinase (phosphatidylinositol 3-kinase)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL846801",
+          "publication_ids": [
+            11206452
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Deoxy-3-substituted-D-myo-inositol imidazolyl ether lipid phosphates and carbonate as inhibitors of the phosphatidylinositol 3-kinase pathway and cancer cell growth.  Abstract: 3-Modified D-myo-inositol imidazolyl ether lipid phosphates and a carbonate were synthesized and evaluated as inhibitors of P13-K and Akt. These data are presented along with IC50 values for the inhibition of the growth of three cancer cell lines. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 2001 Volume: 11 Issue: 2 First Page: 173 Last Page: 176 DOI: 10.1016/s0960-894x(00)00640-5  Target ChEMBL ID: CHEMBL2111367 ChEMBL Target Name: PI3-kinase p110-alpha/p85-alpha ChEMBL Target Type: PROTEIN COMPLEX - Target is a defined protein complex, consisting of multiple subunits Relationship Type: H - Homologous protein target assigned Confidence: Homologous protein complex subunits assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/225245"
+        },
+        {
+          "aid": 241782,
+          "name": "Inhibition of Phosphatidylinositol 3-kinase p110 alpha subunit",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL831920",
+          "publication_ids": [
+            15546735
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Identification of a highly potent and selective DNA-dependent protein kinase (DNA-PK) inhibitor (NU7441) by screening of chromenone libraries.  Abstract: A solution-phase multiple-parallel synthesis approach was employed for the preparation of 6-, 7- and 8-aryl-substituted chromenone libraries, which were screened as inhibitors of the DNA repair enzyme DNA-dependent protein kinase (DNA-PK). These studies resulted in the identification of 8-dibenzothiophen-4-yl-2-morpholin-4-yl-chromen-4-one (NU7441) as a highly potent and selective DNA-PK inhibitor (IC50=14 nM), exhibiting ATP-competitive inhibition kinetics. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 2004 Volume: 14 Issue: 24 First Page: 6083 Last Page: 6087 DOI: 10.1016/j.bmcl.2004.09.060  Target ChEMBL ID: CHEMBL4005 ChEMBL Target Name: PI3-kinase p110-alpha subunit ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/241782"
+        },
+        {
+          "aid": 257406,
+          "name": "Inhibitory activity against PI 3-kinase p110alpha",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL858722",
+          "publication_ids": [
+            16302822
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units",
+            "Activity Comment"
+          ],
+          "assay_context": "Title: Discovery of potent chromen-4-one inhibitors of the DNA-dependent protein kinase (DNA-PK) using a small-molecule library approach.  Abstract: Structure-activity relationships for inhibition of DNA-dependent protein kinase (DNA-PK) have been defined for substituted chromen-4-ones. For the 2-amino-substituted benzo[h]chromen-4-ones, a morpholine substituent at this position was essential for activity. Small libraries of 6- and 7-alkoxy-substituted chromen-4-ones showed that a number of 7-alkoxy-substituted chromenones displayed improved activity. Focused libraries incorporating 6-, 7-, and 8-aryl and heteroaryl substituents were prepared. In these cases, 6- and 7-substitution was disfavored, whereas 8-substitution was largely tolerated. Surprisingly, two compounds, 2-N-morpholino-8-dibenzofuranyl-chromen-4-one (NU7427, 32{38}) and the 2-N-morpholino-8-dibenzothiophenyl-chromen-4-one (NU7441, 32{26}) were excellent inhibitors (IC50 vs DNA-PK = 40 and 13 nM, respectively). The ring-saturated analogue 2-N-morpholino-8-(6',7',8',9'-tetrahydrodibenzothiophene)chromen-4-one, 36, retained potent activity (IC50 vs DNA-PK = 23 nM). The dibenzothiophene 32{38} sensitized HeLa cells to ionizing radiation in vitro, with dose modification factors of 2.5 at 10% survival being observed at 0.5 microM. The cytotoxicity of the topoisomerase II inhibitor etoposide was also potentiated. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: J Med Chem Year: 2005 Volume: 48 Issue: 24 First Page: 7829 Last Page: 7846 DOI: 10.1021/jm050444b  Target ChEMBL ID: CHEMBL4005 ChEMBL Target Name: PI3-kinase p110-alpha subunit ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/257406"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL4282",
+      "uniprot_accession": "P31749",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 33378,
+          "name": "Inhibition of Akt (proto-oncogenic serine/threonine) kinase",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL643087",
+          "publication_ids": [
+            11206452
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Deoxy-3-substituted-D-myo-inositol imidazolyl ether lipid phosphates and carbonate as inhibitors of the phosphatidylinositol 3-kinase pathway and cancer cell growth.  Abstract: 3-Modified D-myo-inositol imidazolyl ether lipid phosphates and a carbonate were synthesized and evaluated as inhibitors of P13-K and Akt. These data are presented along with IC50 values for the inhibition of the growth of three cancer cell lines. Compounds with activity <= 10uM or explicitly reported as active by ChEMBL are flagged as active in this PubChem assay presentation.  Journal: Bioorg Med Chem Lett Year: 2001 Volume: 11 Issue: 2 First Page: 173 Last Page: 176 DOI: 10.1016/s0960-894x(00)00640-5  Target ChEMBL ID: CHEMBL2111353 ChEMBL Target Name: Serine/threonine-protein kinase AKT ChEMBL Target Type: PROTEIN FAMILY - Target is a group of closely related proteins Relationship Type: H - Homologous protein target assigned Confidence: Multiple homologous protein targets may be assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/33378"
+        },
+        {
+          "aid": 164805,
+          "name": "Inhibition of Protein kinase B (Akt-1)",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL766866",
+          "publication_ids": [
+            15189033
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: 3-Aminopyrazole inhibitors of CDK2/cyclin A as antitumor agents. 1. Lead finding.  Abstract: Abnormal proliferation mediated by disruption of the normal cell cycle mechanisms is a hallmark of virtually all cancer cells. Compounds targeting complexes between cyclin-dependent kinases (CDK) and cyclins, such as CDK2/cyclin A and CDK2/cyclin E, and inhibiting their kinase activity are regarded as promising antitumor agents to complement the existing therapies. From a high-throughput screening effort, we identified a new class of CDK2/cyclin A/E inhibitors. The hit-to-lead expansion of this class is described. X-ray crystallographic data of early compounds in this series, as well as in vitro testing funneled for rapidly achieving in vivo efficacy, led to a nanomolar inhibitor of CDK2/cyclin A (N-(5-cyclopropyl-1H-pyrazol-3-yl)-2-(2-naphthyl)acetamide (41), PNU-292137, IC50 = 37 nM) with in vivo antitumor activity (TGI > 50%) in a mouse xenograft model at a dose devoid of toxic effects. Journal: J Med Chem Year: 2004 Volume: 47 Issue: 13 First Page: 3367 Last Page: 3380 DOI: 10.1021/jm031145u  Target ChEMBL ID: CHEMBL4282 ChEMBL Target Name: Serine/threonine-protein kinase AKT ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: H - Homologous protein target assigned Confidence: Homologous single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/164805"
+        }
+      ]
+    },
+    {
+      "target_id": "CHEMBL5145",
+      "uniprot_accession": "P15056",
+      "assays_checked": 20,
+      "ic50_candidates": [
+        {
+          "aid": 242349,
+          "name": "Inhibition of Protein kinase Raf-B binding in fluorescence polarization assay",
+          "source": "ChEMBL",
+          "source_id": "CHEMBL829087",
+          "publication_ids": [
+            15317461
+          ],
+          "result_names": [
+            "PubChem Standard Value",
+            "Standard Type",
+            "Standard Relation",
+            "Standard Value",
+            "Standard Units"
+          ],
+          "assay_context": "Title: Identification of 1,5-naphthyridine derivatives as a novel series of potent and selective TGF-beta type I receptor inhibitors.  Abstract: Optimization of the screening hit 1 led to the identification of novel 1,5-naphthyridine aminothiazole and pyrazole derivatives, which are potent and selective inhibitors of the transforming growth factor-beta type I receptor, ALK5. Compounds 15 and 19, which inhibited ALK5 autophosphorylation with IC50 = 6 and 4 nM, respectively, showed potent activities in both binding and cellular assays and exhibited selectivity over p38 mitogen-activated protein kinase. The X-ray crystal structure of 19 in complex with human ALK5 is described, confirming the binding mode proposed from docking studies. Journal: J Med Chem Year: 2004 Volume: 47 Issue: 18 First Page: 4494 Last Page: 4506 DOI: 10.1021/jm0400247  Target ChEMBL ID: CHEMBL5145 ChEMBL Target Name: Serine/threonine-protein kinase B-raf ChEMBL Target Type: SINGLE PROTEIN - Target is a single protein chain Relationship Type: D - Direct protein target assigned Confidence: Direct single protein target assigned",
+          "url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/242349"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Unique IDs requested: 3000
+Structures retrieved: 3000
+Activity rows with structures: 5255
+Unique structures checked: 3000
+Rows overlapping existing compounds: 5255
+Rows with seen scaffolds: 5255
+Rows with unseen scaffolds: 0
+
+This is a subset overlap audit, not proof of external validation.
+Check assay provenance and measurement consistency before scientific claims.

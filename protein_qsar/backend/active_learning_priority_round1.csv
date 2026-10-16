@@ -1,0 +1,4 @@
+input_smiles,canonical_smiles,predicted_pIC50,predicted_IC50_nM,uncertainty,max_tanimoto_similarity,applicability_domain,confidence,selection_score,status,error,already_in_structure_database
+CN(C)C/C=C/C(=O)Nc1ccc(-c2cncc(C#N)c2Nc2ccc(F)c(Cl)c2)cc1,CN(C)C/C=C/C(=O)Nc1ccc(-c2cncc(C#N)c2Nc2ccc(F)c(Cl)c2)cc1,6.4758,334.3245,1.6857,0.7042,IN_DOMAIN,CAUTION_HIGH_UNCERTAINTY,1.8336,SUCCESS,,False
+CCOc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CNC1CC1,CCOc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1NC(=O)/C=C/CNC1CC1,8.0385,9.1519,1.7174,0.7222,IN_DOMAIN,CAUTION_HIGH_UNCERTAINTY,1.8563,SUCCESS,,False
+C=CC(=O)Nc1cccc(-n2c(=O)cc(C)c3c(C)nc(Nc4ccc(N5CCN(C)CC5)cc4OC)nc32)c1,C=CC(=O)Nc1cccc(-n2c(=O)cc(C)c3c(C)nc(Nc4ccc(N5CCN(C)CC5)cc4OC)nc32)c1,7.9342,11.6349,1.8371,0.618,IN_DOMAIN,CAUTION_HIGH_UNCERTAINTY,2.0281,SUCCESS,,False

@@ -1,0 +1,11 @@
+{
+  "models": 21,
+  "mean_internal_scaffold_R2": 0.6265052837100618,
+  "mean_internal_scaffold_RMSE": 0.7166253770059757,
+  "all_external_gates_passed": 0,
+  "limitations": [
+    "All recomputed performance values are internal scaffold-held-out measurements.",
+    "No registered model currently has strict external validation gates passed.",
+    "JAK_FAMILY is pooled pChEMBL data with no per-row isoform or assay metadata."
+  ]
+}

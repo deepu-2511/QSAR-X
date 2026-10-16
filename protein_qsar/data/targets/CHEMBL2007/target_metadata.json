@@ -1,0 +1,950 @@
+{
+  "target_chembl_id": "CHEMBL2007",
+  "pref_name": "Platelet-derived growth factor receptor alpha",
+  "target_type": "SINGLE PROTEIN",
+  "organism": "Homo sapiens",
+  "protein_accession": "P16234",
+  "target_components": [
+    {
+      "accession": "P16234",
+      "component_description": "Platelet-derived growth factor receptor alpha",
+      "component_id": 338,
+      "component_type": "PROTEIN",
+      "relationship": "SINGLE PROTEIN",
+      "target_component_synonyms": [
+        {
+          "component_synonym": "2.7.10.1",
+          "syn_type": "EC_NUMBER"
+        },
+        {
+          "component_synonym": "Alpha platelet-derived growth factor receptor",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "Alpha-type platelet-derived growth factor receptor",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "CD140a antigen",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "CD140 antigen-like family member A",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "CD_antigen=CD140a",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "PDGFR-2",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "PDGFR2",
+          "syn_type": "GENE_SYMBOL_OTHER"
+        },
+        {
+          "component_synonym": "PDGFRA",
+          "syn_type": "GENE_SYMBOL"
+        },
+        {
+          "component_synonym": "PDGF-R-alpha",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "PDGFR-alpha",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "Platelet-derived growth factor alpha receptor",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "Platelet-derived growth factor receptor 2",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "Platelet-derived growth factor receptor alpha",
+          "syn_type": "UNIPROT"
+        },
+        {
+          "component_synonym": "RHEPDGFRA",
+          "syn_type": "GENE_SYMBOL_OTHER"
+        }
+      ],
+      "target_component_xrefs": [
+        {
+          "xref_id": "P16234",
+          "xref_name": null,
+          "xref_src_db": "AlphaFoldDB"
+        },
+        {
+          "xref_id": "P16234",
+          "xref_name": null,
+          "xref_src_db": "ExpressionAtlas"
+        },
+        {
+          "xref_id": "GO:0005634",
+          "xref_name": "nucleus",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0005654",
+          "xref_name": "nucleoplasm",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0005737",
+          "xref_name": "cytoplasm",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0005789",
+          "xref_name": "endoplasmic reticulum membrane",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0005794",
+          "xref_name": "Golgi apparatus",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0005886",
+          "xref_name": "plasma membrane",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0005902",
+          "xref_name": "microvillus",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0005929",
+          "xref_name": "cilium",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0009897",
+          "xref_name": "external side of plasma membrane",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0009986",
+          "xref_name": "cell surface",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0016020",
+          "xref_name": "membrane",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0030054",
+          "xref_name": "cell junction",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0032991",
+          "xref_name": "protein-containing complex",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0042995",
+          "xref_name": "cell projection",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0043235",
+          "xref_name": "receptor complex",
+          "xref_src_db": "GoComponent"
+        },
+        {
+          "xref_id": "GO:0004714",
+          "xref_name": "transmembrane receptor protein tyrosine kinase activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005004",
+          "xref_name": "GPI-linked ephrin receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005005",
+          "xref_name": "transmembrane-ephrin receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005006",
+          "xref_name": "epidermal growth factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005007",
+          "xref_name": "fibroblast growth factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005008",
+          "xref_name": "hepatocyte growth factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005009",
+          "xref_name": "insulin receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005010",
+          "xref_name": "insulin-like growth factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005011",
+          "xref_name": "macrophage colony-stimulating factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005018",
+          "xref_name": "platelet-derived growth factor alpha-receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005019",
+          "xref_name": "platelet-derived growth factor beta-receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005020",
+          "xref_name": "stem cell factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005021",
+          "xref_name": "vascular endothelial growth factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005161",
+          "xref_name": "platelet-derived growth factor receptor binding",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005515",
+          "xref_name": "protein binding",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0005524",
+          "xref_name": "ATP binding",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0008288",
+          "xref_name": "boss receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0036332",
+          "xref_name": "placental growth factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0038062",
+          "xref_name": "protein tyrosine kinase collagen receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0038085",
+          "xref_name": "vascular endothelial growth factor binding",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0042803",
+          "xref_name": "protein homodimerization activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0048407",
+          "xref_name": "platelet-derived growth factor binding",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0060175",
+          "xref_name": "brain-derived neurotrophic factor receptor activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0160185",
+          "xref_name": "phospholipase C activator activity",
+          "xref_src_db": "GoFunction"
+        },
+        {
+          "xref_id": "GO:0001553",
+          "xref_name": "luteinization",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0001701",
+          "xref_name": "in utero embryonic development",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0001775",
+          "xref_name": "cell activation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0002244",
+          "xref_name": "hematopoietic progenitor cell differentiation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0006935",
+          "xref_name": "chemotaxis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0007169",
+          "xref_name": "cell surface receptor protein tyrosine kinase signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0007173",
+          "xref_name": "epidermal growth factor receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0008210",
+          "xref_name": "estrogen metabolic process",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0008284",
+          "xref_name": "positive regulation of cell population proliferation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0008286",
+          "xref_name": "insulin receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0008543",
+          "xref_name": "fibroblast growth factor receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0008585",
+          "xref_name": "female gonad development",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0009653",
+          "xref_name": "anatomical structure morphogenesis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0009887",
+          "xref_name": "animal organ morphogenesis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0010544",
+          "xref_name": "negative regulation of platelet activation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0016477",
+          "xref_name": "cell migration",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0018108",
+          "xref_name": "peptidyl-tyrosine phosphorylation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0023019",
+          "xref_name": "signal transduction involved in regulation of gene expression",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0030198",
+          "xref_name": "extracellular matrix organization",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0030324",
+          "xref_name": "lung development",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0030325",
+          "xref_name": "adrenal gland development",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0030335",
+          "xref_name": "positive regulation of cell migration",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0030539",
+          "xref_name": "male genitalia development",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0031547",
+          "xref_name": "brain-derived neurotrophic factor receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0032956",
+          "xref_name": "regulation of actin cytoskeleton organization",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0033327",
+          "xref_name": "Leydig cell differentiation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0034614",
+          "xref_name": "cellular response to reactive oxygen species",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0035790",
+          "xref_name": "platelet-derived growth factor receptor-alpha signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0035791",
+          "xref_name": "platelet-derived growth factor receptor-beta signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0036323",
+          "xref_name": "vascular endothelial growth factor receptor-1 signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0038063",
+          "xref_name": "collagen-activated tyrosine kinase receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0038091",
+          "xref_name": "positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0038109",
+          "xref_name": "Kit signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0038145",
+          "xref_name": "macrophage colony-stimulating factor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0042127",
+          "xref_name": "regulation of cell population proliferation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0042475",
+          "xref_name": "odontogenesis of dentin-containing tooth",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0046777",
+          "xref_name": "protein autophosphorylation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048008",
+          "xref_name": "platelet-derived growth factor receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048009",
+          "xref_name": "insulin-like growth factor receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048012",
+          "xref_name": "hepatocyte growth factor receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048013",
+          "xref_name": "ephrin receptor signaling pathway",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048146",
+          "xref_name": "positive regulation of fibroblast proliferation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048557",
+          "xref_name": "embryonic digestive tract morphogenesis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048701",
+          "xref_name": "embryonic cranial skeleton morphogenesis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048704",
+          "xref_name": "embryonic skeletal system morphogenesis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0048705",
+          "xref_name": "skeletal system morphogenesis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0050850",
+          "xref_name": "positive regulation of calcium-mediated signaling",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0050872",
+          "xref_name": "white fat cell differentiation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0050921",
+          "xref_name": "positive regulation of chemotaxis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0051897",
+          "xref_name": "positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0055003",
+          "xref_name": "cardiac myofibril assembly",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0060021",
+          "xref_name": "roof of mouth development",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0060325",
+          "xref_name": "face morphogenesis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0060326",
+          "xref_name": "cell chemotaxis",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0061298",
+          "xref_name": "retina vasculature development in camera-type eye",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0070374",
+          "xref_name": "positive regulation of ERK1 and ERK2 cascade",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0070527",
+          "xref_name": "platelet aggregation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0071230",
+          "xref_name": "cellular response to amino acid stimulus",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:0072277",
+          "xref_name": "metanephric glomerular capillary formation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "GO:2000739",
+          "xref_name": "regulation of mesenchymal stem cell differentiation",
+          "xref_src_db": "GoProcess"
+        },
+        {
+          "xref_id": "HGNC:8803",
+          "xref_name": "PDGFRA",
+          "xref_src_db": "HGNC"
+        },
+        {
+          "xref_id": "P16234",
+          "xref_name": null,
+          "xref_src_db": "IntAct"
+        },
+        {
+          "xref_id": "IPR000719",
+          "xref_name": "Prot_kinase_dom",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR001245",
+          "xref_name": "Ser-Thr/Tyr_kinase_cat_dom",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR001824",
+          "xref_name": "Tyr_kinase_rcpt_3_CS",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR003598",
+          "xref_name": "Ig_sub2",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR003599",
+          "xref_name": "Ig_sub",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR007110",
+          "xref_name": "Ig-like_dom",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR008266",
+          "xref_name": "Tyr_kinase_AS",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR011009",
+          "xref_name": "Kinase-like_dom_sf",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR013098",
+          "xref_name": "Ig_I-set",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR013783",
+          "xref_name": "Ig-like_fold",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR017441",
+          "xref_name": "Protein_kinase_ATP_BS",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR020635",
+          "xref_name": "Tyr_kinase_cat_dom",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR027290",
+          "xref_name": "PDGFRA",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR036179",
+          "xref_name": "Ig-like_dom_sf",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "IPR050122",
+          "xref_name": "RTK",
+          "xref_src_db": "InterPro"
+        },
+        {
+          "xref_id": "PTHR24416",
+          "xref_name": "TYROSINE-PROTEIN KINASE RECEPTOR",
+          "xref_src_db": "PANTHER"
+        },
+        {
+          "xref_id": "PTHR24416:SF52",
+          "xref_name": "PLATELET-DERIVED GROWTH FACTOR RECEPTOR ALPHA",
+          "xref_src_db": "PANTHER"
+        },
+        {
+          "xref_id": "1GQ5",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "5GRN",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "5K5X",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "6A32",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "6JOI",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "6JOJ",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "6JOK",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "6JOL",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "7LBF",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "7RAM",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "8PQH",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "8PQI",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "8PQJ",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "8PQK",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "9GZH",
+          "xref_name": null,
+          "xref_src_db": "PDB"
+        },
+        {
+          "xref_id": "1GQ5",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "5GRN",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "5K5X",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "6A32",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "6JOI",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "6JOJ",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "6JOK",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "6JOL",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "8PQH",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "8PQI",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "8PQJ",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "8PQK",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "9GZH",
+          "xref_name": "A",
+          "xref_src_db": "PDBe"
+        },
+        {
+          "xref_id": "PF07679",
+          "xref_name": "I-set",
+          "xref_src_db": "Pfam"
+        },
+        {
+          "xref_id": "PF07714",
+          "xref_name": "PK_Tyr_Ser-Thr",
+          "xref_src_db": "Pfam"
+        },
+        {
+          "xref_id": "PF25305",
+          "xref_name": "Ig_PDGFR_d4",
+          "xref_src_db": "Pfam"
+        },
+        {
+          "xref_id": "PA33147",
+          "xref_name": "platelet derived growth factor receptor alpha",
+          "xref_src_db": "PharmGKB"
+        },
+        {
+          "xref_id": "P16234",
+          "xref_name": null,
+          "xref_src_db": "Pharos"
+        },
+        {
+          "xref_id": "R-HSA-1257604",
+          "xref_name": "PIP3 activates AKT signaling",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-186763",
+          "xref_name": "Downstream signal transduction",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-186797",
+          "xref_name": "Signaling by PDGF",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-2219530",
+          "xref_name": "Constitutive Signaling by Aberrant PI3K in Cancer",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-5673001",
+          "xref_name": "RAF/MAP kinase cascade",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-6811558",
+          "xref_name": "PI5P, PP2A and IER3 Regulate PI3K/AKT Signaling",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-9673767",
+          "xref_name": "Signaling by PDGFRA transmembrane, juxtamembrane and kinase domain mutants",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-9673770",
+          "xref_name": "Signaling by PDGFRA extracellular domain mutants",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-9674396",
+          "xref_name": "Imatinib-resistant PDGFR mutants",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-9674401",
+          "xref_name": "Sunitinib-resistant PDGFR mutants",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-9674403",
+          "xref_name": "Regorafenib-resistant PDGFR mutants",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-9674404",
+          "xref_name": "Sorafenib-resistant PDGFR mutants",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "R-HSA-9674428",
+          "xref_name": "PDGFR mutants bind TKIs",
+          "xref_src_db": "Reactome"
+        },
+        {
+          "xref_id": "B2RE69",
+          "xref_name": "Platelet-derived growth factor receptor alpha",
+          "xref_src_db": "UniProt"
+        },
+        {
+          "xref_id": "E9PBH0",
+          "xref_name": "Platelet-derived growth factor receptor alpha",
+          "xref_src_db": "UniProt"
+        },
+        {
+          "xref_id": "P16234",
+          "xref_name": "Platelet-derived growth factor receptor alpha",
+          "xref_src_db": "UniProt"
+        },
+        {
+          "xref_id": "Q6P4H5",
+          "xref_name": "Platelet-derived growth factor receptor alpha",
+          "xref_src_db": "UniProt"
+        },
+        {
+          "xref_id": "Q96KZ7",
+          "xref_name": "Platelet-derived growth factor receptor alpha",
+          "xref_src_db": "UniProt"
+        },
+        {
+          "xref_id": "Q9UD28",
+          "xref_name": "Platelet-derived growth factor receptor alpha",
+          "xref_src_db": "UniProt"
+        }
+      ]
+    }
+  ],
+  "source_database": "ChEMBL",
+  "source_api": "https://www.ebi.ac.uk/chembl/api/data/activity.json",
+  "endpoint": "IC50",
+  "units": "nM",
+  "relation_filter": "=",
+  "retrieved_utc": "2026-10-15T02:11:30.518609+00:00",
+  "raw_activity_file": "IC50_raw.csv",
+  "raw_activity_sha256": "dc31ce1b969ea3c922d762d1fd309ca8e371536bef88d6e2e116df4106adac71",
+  "raw_activity_rows": 750,
+  "protein_sequence_file": "protein.fasta"
+}

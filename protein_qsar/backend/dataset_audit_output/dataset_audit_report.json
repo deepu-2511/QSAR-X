@@ -1,0 +1,121 @@
+{
+  "audit_version": "1.0.0",
+  "input_file": "curation_output\\clean_dataset.csv",
+  "total_compounds": 10071,
+  "columns": [
+    "ChEMBL ID",
+    "Smiles",
+    "pChEMBL Value",
+    "endpoint",
+    "relation",
+    "units",
+    "test_case",
+    "data_source",
+    "canonical_smiles",
+    "pIC50",
+    "measurement_count",
+    "pIC50_mean",
+    "pIC50_std",
+    "pIC50_min",
+    "pIC50_max",
+    "molecular_weight",
+    "logp",
+    "tpsa",
+    "hbd",
+    "hba",
+    "rotatable_bonds",
+    "rings",
+    "curation_status",
+    "curation_message",
+    "quality_flag",
+    "salt_standardized",
+    "activity_mode",
+    "audit_smiles_valid",
+    "pIC50_numeric",
+    "audit_flags"
+  ],
+  "duplicate_canonical_smiles_rows": 0,
+  "unique_canonical_smiles": 10071,
+  "invalid_smiles_rows": 0,
+  "missing_pic50": 0,
+  "pic50_statistics": {
+    "count": 10071,
+    "mean": 7.221510277033065,
+    "median": 7.25,
+    "std": 1.2067840645366903,
+    "min": 0.5,
+    "max": 13.0,
+    "q01": 4.5969999999999995,
+    "q05": 5.27,
+    "q25": 6.35,
+    "q75": 7.96,
+    "q95": 9.29,
+    "q99": 10.26
+  },
+  "molecular_weight_statistics": {
+    "count": 10071,
+    "mean": 439.54166334293234,
+    "median": 433.49100000000016,
+    "std": 83.69897160722007,
+    "min": 16.043,
+    "max": 1518.8190000000004,
+    "q01": 258.28380000000004,
+    "q05": 313.3905000000001,
+    "q25": 384.8460000000001,
+    "q75": 487.4610000000002,
+    "q95": 588.6650000000002,
+    "q99": 650.6869999999998
+  },
+  "quality_flagged_rows": 5,
+  "repeated_measurement_summary": {
+    "compounds_with_repeats": 2442,
+    "max_measurement_count": 86,
+    "compounds_with_pic50_range_ge_2": 227
+  },
+  "measurement_count_integrity": {
+    "missing_counts": 0,
+    "counts_below_one": 0,
+    "total_measurements_represented": 14142,
+    "compounds_with_multiple_measurements": 2442,
+    "maximum_measurement_count": 86
+  },
+  "provenance": {
+    "data_source_counts": {
+      "ORIGINAL_COMPOUND_CSV": 10063,
+      "SYNTHETIC_TEST": 8
+    },
+    "synthetic_or_test_rows": 8,
+    "test_case_counts": {
+      "REAL_DATASET": 10063,
+      "NORMAL_IC50": 1,
+      "SALT_STRUCTURE": 1,
+      "MICROMOLAR_UNIT": 1,
+      "MOLAR_UNIT": 1,
+      "MISSING_UNIT": 1,
+      "EXTREME_LOW_PIC50": 1,
+      "EXTREME_HIGH_PIC50": 1,
+      "VERY_LOW_MW": 1
+    }
+  },
+  "endpoint_distribution": {
+    "endpoint": {
+      "pChEMBL": 10063,
+      "IC50": 8
+    },
+    "relation": {
+      "=": 10071
+    },
+    "units": {
+      "pChEMBL": 10063,
+      "nM": 5,
+      "uM": 1,
+      "M": 1,
+      "<MISSING>": 1
+    },
+    "activity_mode": {
+      "pCHEMBL": 10071
+    }
+  },
+  "plot_status": "Generated if data were available",
+  "important_note": "This is a screening audit. Flags do not automatically mean a record is erroneous. Review provenance and raw assay evidence before excluding compounds."
+}

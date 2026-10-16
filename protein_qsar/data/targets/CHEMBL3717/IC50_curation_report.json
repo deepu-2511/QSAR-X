@@ -1,0 +1,21 @@
+{
+  "target_chembl_id": "CHEMBL3717",
+  "endpoint": "IC50",
+  "units": "nM",
+  "raw_file": "IC50_raw.csv",
+  "raw_sha256": "65f7016ff4f537396f785f58136c355cff6a075fe32c213007519223f66e3409",
+  "curated_file": "IC50_clean.csv",
+  "curated_sha256": "3ec2db991253a8cb49777eb104df5a51602a49c697fe1c124453cf0c82dce5c1",
+  "raw_rows": 6721,
+  "eligible_rows": 6721,
+  "invalid_smiles": 2,
+  "curated_compounds": 4193,
+  "measurement_rows": 6719,
+  "repeated_measurements_collapsed": 2526,
+  "retrieved_utc": "2026-10-15T02:15:04.965513+00:00",
+  "limitations": [
+    "Only exact positive values in the requested endpoint/unit are retained.",
+    "Assay-condition harmonization beyond endpoint, relation, units and structure is not performed.",
+    "Activity records from multiple assays are summarized by median per canonical structure."
+  ]
+}

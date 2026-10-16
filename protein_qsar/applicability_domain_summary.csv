@@ -1,0 +1,2 @@
+test_R2,test_RMSE,test_MAE,mean_max_similarity,minimum_max_similarity,maximum_max_similarity,mean_prediction_std,maximum_prediction_std,in_domain,borderline,out_of_domain
+0.6283417949264558,0.831233740565255,0.6437287186863048,0.6079206938258833,0.109375,1.0,0.8929803018881682,1.7083288009194013,203,183,139

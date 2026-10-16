@@ -1,0 +1,88 @@
+{
+  "model_version": "baseline_v1",
+  "status": "research_candidate_not_approved",
+  "created_utc": "2026-10-15T01:20:10.753528+00:00",
+  "source_feature_file": "data\\common\\multi_target_features.npz",
+  "source_feature_sha256": "156edb7b0b8be32b3cf5b4dd4a71515311e35f7c74961ff0edc988ed4109366d",
+  "n_rows": 16218,
+  "target_ids": [
+    "CHEMBL203",
+    "CHEMBL5145"
+  ],
+  "scaffold_count": 5768,
+  "target_counts": {
+    "CHEMBL203": 10834,
+    "CHEMBL5145": 5384
+  },
+  "split_counts": {
+    "train": 10275,
+    "validation": 2610,
+    "scaffold_test": 3333
+  },
+  "split_method": "scaffold-grouped development CV and nested validation/test split; scaffolds held intact across all targets",
+  "feature_matrix": "Morgan fingerprints + RDKit descriptors + amino-acid and dipeptide protein sequence descriptors",
+  "model_comparison_cv": [
+    {
+      "model": "MedianBaseline",
+      "CV_R2_mean": -0.008953755266209043,
+      "CV_RMSE_mean": 1.3236021239754345,
+      "CV_MAE_mean": 1.0896273685835864
+    },
+    {
+      "model": "ExtraTrees",
+      "CV_R2_mean": 0.5975190968159795,
+      "CV_RMSE_mean": 0.834137159618341,
+      "CV_MAE_mean": 0.6298170611002393
+    },
+    {
+      "model": "RandomForest",
+      "CV_R2_mean": 0.5662268295370854,
+      "CV_RMSE_mean": 0.8663616958767052,
+      "CV_MAE_mean": 0.6600742997818695
+    }
+  ],
+  "selected_model_by_train_cv_rmse": "ExtraTrees",
+  "selected_model_parameters": {
+    "bootstrap": false,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": null,
+    "max_features": 0.08,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 2,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 60,
+    "n_jobs": 2,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "validation_metrics": {
+    "R2": 0.6028179187692935,
+    "RMSE_pIC50": 0.8573412018015163,
+    "MAE_pIC50": 0.6195219527697859,
+    "Spearman": 0.7979876756048162
+  },
+  "scaffold_test_metrics": {
+    "R2": 0.6904929354001759,
+    "RMSE_pIC50": 0.77163568160809,
+    "MAE_pIC50": 0.5727310121832384,
+    "Spearman": 0.8337443263109545
+  },
+  "candidate_model_file": "candidate_model.joblib",
+  "candidate_model_sha256": "57011c7c3a60a174f37ef93cc8dc1f0ae895ee1033aa0a0320de30666f25c32c",
+  "limitations": [
+    "Only two protein targets are present; performance on unseen targets is not established.",
+    "This multi-target candidate is not registered for predictions.",
+    "Protein descriptors are sequence-composition features and do not represent binding-site structure."
+  ],
+  "software": {
+    "scikit_learn": "1.9.1",
+    "numpy": "2.5.4"
+  }
+}

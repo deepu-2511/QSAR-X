@@ -1,0 +1,225 @@
+{
+  "model_version": "baseline_v2",
+  "status": "research_candidate_not_approved",
+  "created_utc": "2026-10-15T01:51:00.990910+00:00",
+  "source_feature_file": "data\\common\\kinase_panel_features.npz",
+  "source_feature_sha256": "b724d4d94e92df6acceca26f3c33739caf6439abb1371a7d6a843b8242e4cb36",
+  "n_rows": 17366,
+  "target_ids": [
+    "CHEMBL1824",
+    "CHEMBL1862",
+    "CHEMBL203",
+    "CHEMBL260",
+    "CHEMBL267",
+    "CHEMBL279",
+    "CHEMBL2971",
+    "CHEMBL301",
+    "CHEMBL3587",
+    "CHEMBL3717",
+    "CHEMBL4282",
+    "CHEMBL5145"
+  ],
+  "scaffold_count": 8112,
+  "target_counts": {
+    "CHEMBL1824": 1500,
+    "CHEMBL1862": 1500,
+    "CHEMBL203": 1500,
+    "CHEMBL260": 1500,
+    "CHEMBL267": 1500,
+    "CHEMBL279": 1500,
+    "CHEMBL2971": 1500,
+    "CHEMBL301": 1500,
+    "CHEMBL3587": 866,
+    "CHEMBL3717": 1500,
+    "CHEMBL4282": 1500,
+    "CHEMBL5145": 1500
+  },
+  "max_rows_per_target": 1500,
+  "split_counts": {
+    "train": 11031,
+    "validation": 2830,
+    "scaffold_test": 3505
+  },
+  "split_method": "scaffold-grouped development CV and nested validation/test split; scaffolds held intact across all targets",
+  "feature_matrix": "Morgan fingerprints + RDKit descriptors + amino-acid and dipeptide protein sequence descriptors",
+  "model_comparison_cv": [
+    {
+      "model": "MedianBaseline",
+      "CV_R2_mean": -0.010260037302506944,
+      "CV_RMSE_mean": 1.2577560844095497,
+      "CV_MAE_mean": 1.0150513904026182
+    },
+    {
+      "model": "ExtraTrees",
+      "CV_R2_mean": 0.5039407987397088,
+      "CV_RMSE_mean": 0.8809469366897463,
+      "CV_MAE_mean": 0.6768775984535614
+    },
+    {
+      "model": "RandomForest",
+      "CV_R2_mean": 0.47165320616755846,
+      "CV_RMSE_mean": 0.9090413350739093,
+      "CV_MAE_mean": 0.7066130320640646
+    }
+  ],
+  "selected_model_by_train_cv_rmse": "ExtraTrees",
+  "selected_model_parameters": {
+    "bootstrap": false,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": null,
+    "max_features": 0.08,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 2,
+    "min_samples_split": 2,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 30,
+    "n_jobs": 2,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "validation_metrics": {
+    "R2": 0.5328651594804787,
+    "RMSE_pIC50": 0.8824938494246177,
+    "MAE_pIC50": 0.6833222410795026,
+    "Spearman": 0.705040197616317
+  },
+  "scaffold_test_metrics": {
+    "R2": 0.6061306087566787,
+    "RMSE_pIC50": 0.8047348660275143,
+    "MAE_pIC50": 0.6133869325978625,
+    "Spearman": 0.7772446985916533
+  },
+  "leave_target_out_metrics": [
+    {
+      "held_out_target": "CHEMBL1824",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": 0.29642494211664017,
+      "RMSE_pIC50": 0.9789468288583367,
+      "MAE_pIC50": 0.816272349420565,
+      "Spearman": 0.5806460520741011
+    },
+    {
+      "held_out_target": "CHEMBL1862",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": -0.02031808512160138,
+      "RMSE_pIC50": 1.4898897631503365,
+      "MAE_pIC50": 1.2345115615043545,
+      "Spearman": 0.4432416788624715
+    },
+    {
+      "held_out_target": "CHEMBL203",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": 0.03934512372919163,
+      "RMSE_pIC50": 1.3334100956695414,
+      "MAE_pIC50": 1.0989814902447668,
+      "Spearman": 0.3577810531547633
+    },
+    {
+      "held_out_target": "CHEMBL260",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": -0.2824159188091484,
+      "RMSE_pIC50": 1.2244789866145644,
+      "MAE_pIC50": 0.9590623088928591,
+      "Spearman": 0.1398978338622866
+    },
+    {
+      "held_out_target": "CHEMBL267",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": 0.27444927000328145,
+      "RMSE_pIC50": 1.1575480289573714,
+      "MAE_pIC50": 0.9466004677449388,
+      "Spearman": 0.591388296609981
+    },
+    {
+      "held_out_target": "CHEMBL279",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": -0.01783838383221159,
+      "RMSE_pIC50": 1.1278181691437443,
+      "MAE_pIC50": 0.9298165472108173,
+      "Spearman": 0.1573679186861179
+    },
+    {
+      "held_out_target": "CHEMBL2971",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": -0.22387657065612254,
+      "RMSE_pIC50": 1.4041232923100786,
+      "MAE_pIC50": 1.135148933051847,
+      "Spearman": 0.07168854359871679
+    },
+    {
+      "held_out_target": "CHEMBL301",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": 0.10527917442148871,
+      "RMSE_pIC50": 1.196586978234265,
+      "MAE_pIC50": 0.9777398662146736,
+      "Spearman": 0.2806657115924032
+    },
+    {
+      "held_out_target": "CHEMBL3587",
+      "n_train": 16500,
+      "n_test": 866,
+      "R2": -0.4955752930693329,
+      "RMSE_pIC50": 1.2165616474553036,
+      "MAE_pIC50": 1.0192050910151742,
+      "Spearman": 0.18636280213551876
+    },
+    {
+      "held_out_target": "CHEMBL3717",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": -0.44079594240291886,
+      "RMSE_pIC50": 1.2837165785175921,
+      "MAE_pIC50": 1.0745657988199668,
+      "Spearman": 0.09705746856269919
+    },
+    {
+      "held_out_target": "CHEMBL4282",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": -0.06892438333194861,
+      "RMSE_pIC50": 1.2865803250892953,
+      "MAE_pIC50": 1.0594742676061497,
+      "Spearman": 0.34284810858278847
+    },
+    {
+      "held_out_target": "CHEMBL5145",
+      "n_train": 15866,
+      "n_test": 1500,
+      "R2": -0.35468176264773055,
+      "RMSE_pIC50": 1.4337593334062666,
+      "MAE_pIC50": 1.2070830347763466,
+      "Spearman": 0.29642209589823715
+    }
+  ],
+  "leave_target_out_macro_metrics": {
+    "R2": -0.09907731913336774,
+    "RMSE_pIC50": 1.2611183356172246,
+    "MAE_pIC50": 1.0382051430418715,
+    "Spearman": 0.29544729696834043
+  },
+  "candidate_model_file": "candidate_model.joblib",
+  "candidate_model_sha256": "bb04da8b7b9f992e39b6f17cfab3e407e73fc4096476cae94a9b67d784701d52",
+  "limitations": [
+    "Leave-target-out metrics are the relevant stress test for unseen proteins; they do not replace independent assay-source validation.",
+    "This multi-target candidate is not registered for predictions.",
+    "Protein descriptors are sequence-composition features and do not represent binding-site structure."
+  ],
+  "software": {
+    "scikit_learn": "1.9.1",
+    "numpy": "2.5.4"
+  }
+}

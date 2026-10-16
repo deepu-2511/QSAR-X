@@ -1,0 +1,10 @@
+EGFR CHEMBL203 SOURCE VALIDATION
+Raw rows: 4992
+Unique molecules: 3497
+Clean rows: 3497
+Comparable pChEMBL rows: 4874
+pChEMBL mismatches > 0.05: 0
+Repeated molecules: 872
+Repeated molecules with pIC50 range >= 1: 286
+Repeated molecules with pIC50 range >= 2: 95
+Clean valid SMILES: 3497/3497

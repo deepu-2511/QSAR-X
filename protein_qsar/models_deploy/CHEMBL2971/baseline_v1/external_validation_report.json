@@ -1,0 +1,43 @@
+{
+  "target_chembl_id": "CHEMBL2971",
+  "target_uniprot_accession": "O60674",
+  "model_version": "baseline_v1",
+  "model_sha256": "f1529fdf9ec74b2de266ee5b1cc636be42fc1ea4dfe7369e706622ec93416806",
+  "source_database": "PubChem BioAssay AID 1699",
+  "source_url": "https://pubchem.ncbi.nlm.nih.gov/bioassay/1699",
+  "retrieved_utc": "2026-10-15T05:08:50.311265+00:00",
+  "external_input_file": "CHEMBL2971_pubchem_independent_ic50.csv",
+  "external_input_sha256": "b74e98c3d6fe2b641fcba97215d59fa729a47664cd18d2dc7fd23bc2dae2ce96",
+  "external_predictions_file": "external_validation_predictions.csv",
+  "training_scaffold_count": 3828,
+  "exact_structure_overlaps_removed": 95,
+  "metrics_on_external_source_nonoverlap": {
+    "n_compounds": 10,
+    "R2": 0.1633876551910296,
+    "RMSE_pIC50": 0.33331857810081306,
+    "MAE_pIC50": 0.24295818808738678,
+    "Spearman": 0.6727272727272726
+  },
+  "quality_gates": {
+    "target_chembl_id_matches": true,
+    "target_accession_matches": true,
+    "endpoint_is_ic50": true,
+    "units_are_nm": true,
+    "relation_exact": true,
+    "assay_context_documented": true,
+    "publication_id_documented": true,
+    "no_compound_overlap_with_training": true,
+    "no_publication_overlap_with_training": true,
+    "minimum_30_external_compounds": false,
+    "metrics_meet_screening_floor": false,
+    "model_version_and_hash_match": true,
+    "external_source_provided": true
+  },
+  "quality_gates_passed": false,
+  "status": "external_validation_gates_failed",
+  "limitations": [
+    "External assay data must represent the same target construct and IC50 endpoint.",
+    "Passing automated gates is not proof of prospective experimental performance or publication-level independence.",
+    "A human review of assay provenance remains necessary before production promotion."
+  ]
+}

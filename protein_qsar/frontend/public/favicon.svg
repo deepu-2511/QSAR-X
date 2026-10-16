@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">QSAR-X molecular activity icon</title>
+  <desc id="desc">A hexagonal molecule and activity signal inside a blue rounded square</desc>
+  <defs>
+    <linearGradient id="bg" x1="16" y1="12" x2="116" y2="120" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#183B67"/><stop offset="1" stop-color="#0A1A31"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="35" y1="70" x2="91" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EE6FF"/><stop offset="1" stop-color="#4A91FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="30" fill="url(#bg)"/>
+  <rect x="7" y="7" width="114" height="114" rx="25" fill="none" stroke="#8CD9FF" stroke-opacity=".2" stroke-width="2"/>
+  <path d="M42 42 64 29l22 13v26L64 81 42 68Z" fill="none" stroke="#D5F4FF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="42" cy="42" r="6" fill="#5EE6FF"/><circle cx="86" cy="42" r="6" fill="#72A8FF"/><circle cx="64" cy="81" r="6" fill="#5EE6FF"/>
+  <path d="M34 93c8-4 14-4 20 0s12 4 18 0 12-4 22-11" fill="none" stroke="url(#signal)" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="92" cy="71" r="5" fill="#4A91FF"/>
+</svg>

@@ -1,0 +1,363 @@
+assay_chembl_id,description,assay_context_group,target_chembl_id,variant_id,document_chembl_id,confidence_score,relationship_type
+CHEMBL1001226,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1152233,8,H
+CHEMBL1003093,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1156625,8,H
+CHEMBL1003097,Inhibition of human EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1156626,9,D
+CHEMBL1007322,Inhibition of human EGFR expressed in SF9 cells,IN_VITRO_CONTEXT_UNCLEAR,CHEMBL203,,CHEMBL1155952,9,D
+CHEMBL1008385,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136974,8,H
+CHEMBL1009318,Inhibition of EGFR by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139297,8,H
+CHEMBL1009326,Inhibition of EGFR by scintillation proximity assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139297,8,H
+CHEMBL1016812,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1152829,8,H
+CHEMBL1022371,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153429,8,H
+CHEMBL1026506,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1154498,8,H
+CHEMBL1028056,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143293,8,H
+CHEMBL1028080,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143296,8,H
+CHEMBL1029460,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1158361,8,H
+CHEMBL1044055,Inhibition of Her1 by fluorescence polarization assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1154692,8,H
+CHEMBL1044057,Inhibition of Her1 T790M mutant by fluorescence polarization assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1154692,9,D
+CHEMBL1046364,Inhibition of EGFR-mediated poly(L-glutamic acid L-tyrosine) phosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1155367,8,H
+CHEMBL1052827,Inhibition of human recombinant HER1 expressed in Sf9 cells by liquid scintillation counting,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1154610,9,D
+CHEMBL1058612,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1151962,8,H
+CHEMBL1059198,Inhibition of EGFR autophosphorylation in human A549 cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153566,9,D
+CHEMBL1060165,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1150972,9,D
+CHEMBL1064820,Inhibition of cloned EGFR autophosphorylation expressed in baculovirus-infected Sf9 cells by solid-phase ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1157666,8,H
+CHEMBL1064829,Inhibition of cloned EGFR autophosphorylation expressed in baculovirus-infected Sf9 cells by solid-phase ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1157668,8,H
+CHEMBL1064921,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157563,8,H
+CHEMBL1065784,Inhibition of recombinant EGFR expressed in Sf9-baculovirus system by ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1157716,8,H
+CHEMBL1069630,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1156931,8,H
+CHEMBL1070746,Inhibition of EGFR after 80 mins by radiometric protein kinase assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1158526,8,H
+CHEMBL1071045,Inhibition of recombinant EGFR by ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1157709,8,H
+CHEMBL1071732,Inhibition of EGFR expressed in Sf9 cells assessed as inhibition of receptor autophosphorylation by DELFIA time resolved fluorimetry,IN_VITRO_CONTEXT_UNCLEAR,CHEMBL203,,CHEMBL1159111,8,H
+CHEMBL1072146,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157582,8,H
+CHEMBL1072157,Inhibition of human recombinant EGFR expressed in insect cells by time-resolved fluorimetry,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1157583,9,D
+CHEMBL1072676,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153138,8,H
+CHEMBL1073378,Inhibition of wild type EGF-R by microplate scintillation counting,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1152560,8,H
+CHEMBL1103281,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1154872,8,H
+CHEMBL1105216,Inhibition of wild type EGFR by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1156950,8,H
+CHEMBL1105217,Inhibition of EGFR Leu858Arg mutant by HTRF assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1156950,9,D
+CHEMBL1105218,Inhibition of EGFR Leu858Arg and Thr790Met mutant by HTRF assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1156950,9,D
+CHEMBL1105615,Inhibition of EGFR after 30 mins by chemiluminescence ELISA,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157833,8,H
+CHEMBL1105619,Noncompetitive inhibition of EGFR after 30 mins by chemiluminescence ELISA in presence of 25 uM ATP,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157833,8,H
+CHEMBL1105620,Noncompetitive inhibition of EGFR after 30 mins by chemiluminescence ELISA in presence of 50 uM ATP,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157833,8,H
+CHEMBL1108837,Inhibition of EGFR L858R mutant by time resolved fluorescence assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1156213,9,D
+CHEMBL1109425,Inhibition of EGFR after 1 hr,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153704,8,H
+CHEMBL1111024,Noncompetitive inhibition of EGFR after 30 mins by chemiluminescence ELISA in presence of 250 uM ATP,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157833,8,H
+CHEMBL1111474,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1155389,8,H
+CHEMBL1115598,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157122,8,H
+CHEMBL1116653,Inhibition of EGFR by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1154343,8,H
+CHEMBL1117422,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157919,8,H
+CHEMBL1174225,Inhibition of human EGFR autophosphorylation expressed in Sf9 cells DELFIA assay,IN_VITRO_CONTEXT_UNCLEAR,CHEMBL203,,CHEMBL1177838,9,D
+CHEMBL1176122,Inhibition of GST-tagged EGFR expressed in Escherichia coli,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1177739,8,H
+CHEMBL1176123,Inhibition of EGFR L858R/T790M double mutant,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1177739,9,D
+CHEMBL1177207,Inhibition of human recombinant His6x-tagged EGFR autophosphorylation expressed in Sf9 cells after 1 hr by ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1177684,9,D
+CHEMBL1177355,Inhibition EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1177660,8,H
+CHEMBL1177399,Inhibition of histidine-tagged recombinant EGFR autophosphorylation expressed in Sf9 cells by solid-phase ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1177661,8,H
+CHEMBL1211280,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1208672,8,H
+CHEMBL1226208,Inhibition of human recombinant EGFR expressed in baculovirus-infected Sf9 cells by radioactive phosphotransfer assay,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1221199,9,D
+CHEMBL1243977,Inhibition of recombinant EGFR by radioactive phosphotransfer assay in presence of 10 uM ATP,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1240340,8,H
+CHEMBL1244582,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1240341,8,H
+CHEMBL1244583,Inhibition of EGFR T790M mutant,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1240341,9,D
+CHEMBL1249168,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1240526,8,H
+CHEMBL1249643,Inhibition of EGFR kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1240311,8,H
+CHEMBL1261159,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1255207,8,H
+CHEMBL1273339,Inhibition of EGFR L858R/T790M double mutant,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1269003,9,D
+CHEMBL1273341,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1269003,8,H
+CHEMBL1285874,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1275379,8,H
+CHEMBL1640694,Inhibition of EGFR by flash plate based radioactive enzyme assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1629443,8,H
+CHEMBL1640839,Inhibition of EGF-induced EGFR phosphorylation in human CAL27 cells overexpressing EGFR after 16 hrs by Western blot,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1629443,9,D
+CHEMBL1646349,Inhibition of EGFR by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1641579,8,H
+CHEMBL1647391,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1641446,8,H
+CHEMBL1686143,Inhibition of EGFR by homogeneous time-resolved fluorescence assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1681756,8,H
+CHEMBL1687360,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1681781,8,H
+CHEMBL1693590,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1687927,8,H
+CHEMBL1697113,Inhibition of EGFR after 60 mins by radiometric assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1687697,8,H
+CHEMBL1762895,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1759853,8,H
+CHEMBL1763553,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1759979,8,H
+CHEMBL1763554,Inhibition of human EGFR-mediated poly(Glu4Tyr) phosphorylation after 1 hr,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1759979,9,D
+CHEMBL1764782,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1759866,8,H
+CHEMBL1785573,Inhibition of human EGFR using poly[Glu:Tyr] by Hotspot assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1781971,9,D
+CHEMBL1785574,Inhibition of human EGFR L858R mutant using poly[Glu:Tyr] by Hotspot assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1781971,9,D
+CHEMBL1798351,Inhibition autophosphorylation of EGFR in human DiFi cells after 2 hrs by ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1795334,9,D
+CHEMBL1805338,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1799927,8,H
+CHEMBL1816084,Inhibition of recombinant EGFR expressed in baculovirus infected Sf9 cells after 1 hr by DELFIA/time-resolved fluorimetry assay,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1811883,8,H
+CHEMBL1817212,Inhibition of EGFR after 1 hrs by luminescence assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1811776,8,H
+CHEMBL1820121,Inhibition of EGFR-induced AP1 activation in human HeLa cells preincubated for 1 hr prior to EGF stimulation by luciferase reporter gene assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1817613,9,D
+CHEMBL1820122,Inhibition of EGFR-induced HIF1alpha activation in human HeLa cells preincubated for 1 hr prior to EGF stimulation by luciferase reporter gene assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1817613,9,D
+CHEMBL1820123,Inhibition of EGFR-induced Beta-casein activation in human HeLa cells preincubated for 1 hr prior to EGF stimulation by luciferase reporter gene assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1817613,9,D
+CHEMBL1827038,Inhibition of recombinant (His)6-tagged EGFR cytoplasmic domain (645-1186) autophosphorylation pre-incubated for 10 mins measured after 1 hrs by DELFIA based time-resolved fluorimetry assay,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1821709,8,H
+CHEMBL1831627,Inhibition of His-tagged EGFR expressed in insect Sf9 cells after 1 hr by time-resolved fluorimetric analysis,IN_VITRO_CONTEXT_UNCLEAR,CHEMBL203,,CHEMBL1828579,8,H
+CHEMBL1831700,Inhibition of human recombinant (His)6-tagged EGFR autophosphorylation pre-incubated for 10 mins by DELFIA/Time-resolved fluorimetry,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1828525,9,D
+CHEMBL1831702,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1828525,8,H
+CHEMBL1909203,"DRUGMATRIX: Protein Tyrosine Kinase, EGF Receptor enzyme inhibition (substrate: Poly(Glu:Tyr))",BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1909046,8,H
+CHEMBL1912180,Inhibition of human EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1909587,9,D
+CHEMBL1919050,Inhibition of EGFR preincubated for 60 mins measured after 60 mins by TR-FRET Assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1914368,8,H
+CHEMBL1919051,Inhibition of EGFR after 60 mins by TR-FRET Assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1914368,8,H
+CHEMBL1919256,Inhibition of ErbB1 relative to control,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1914368,8,H
+CHEMBL1919477,Inhibition of EGFR relative to control,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1914368,8,H
+CHEMBL1920033,Inhibition of EGFR by Z-LYTE assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1914342,8,H
+CHEMBL1921573,Inhibition EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1914457,8,H
+CHEMBL1930231,Inhibition of EGFR expressed in baculovirus infected Sf9 cells assessed as inhibition of autophosphorylation preincubated for 10 mins measured after 1 hr by DELFIA/Time-Resolved Fluorometry,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1926595,8,H
+CHEMBL1930721,"Inhibition of EGFR using poly(Glu,Tyr)4:1 as substrate and [gamma33P]ATP after 60 mins by scintillation counting",BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1926681,8,H
+CHEMBL1931161,Inhibition of recombinant His6-tagged EGFR expressed in baculovirus infected insect Sf9 cells using ATP as substrate and cofactor MgCl2 after 2 hrs by DELFIA/Time-resolved fluorometric analysis,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1926674,8,H
+CHEMBL1932747,Inhibition of human EGFR preincubated 2 hrs prior addition of ATP by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1926611,9,D
+CHEMBL1932841,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1926590,8,H
+CHEMBL1935838,Inhibition of EGFR by time-resolved fluorescence assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1933060,8,H
+CHEMBL1935855,Inhibition of EGFR phosphorylation in EGF-stimulated human A431 after 2 hrs by Western blot analysis,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1933060,9,D
+CHEMBL1947770,Inhibition of wild-type EGFR expressed using baculovirus expression system by ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1944545,8,H
+CHEMBL1947771,Inhibition of EGFR T790M/L858R mutant expressed using baculovirus expression system by ELISA,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1944545,9,D
+CHEMBL1949030,Inhibition of autophosphorylation of recombinant His-tagged EGFR expressed in baculovirus infected Sf9 cells after 1 hr by DELFIA/time-resolved fluorimetry assay,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1944626,8,H
+CHEMBL1949352,Inhibition of EGFR after 50 mins by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1944591,8,H
+CHEMBL1954388,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1949673,8,H
+CHEMBL1955670,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1949521,8,H
+CHEMBL1958796,Inhibition of histidine-tagged human recombinant cytoplasmic domain of EGFR expressed in baculovirus infected insect Sf9 cells after 1 hr by DELFIA/time-resolved fluorometric analysis,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1955848,9,D
+CHEMBL1959298,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1955729,8,H
+CHEMBL1961280,"Inhibition of human recombinant EGF-R expressed in Sf9 cells using poly(E,Y)4:1 as substrate after 80 mins by scintillation counting",BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1955824,9,D
+CHEMBL2015060,"Inhibition of wild type EGFR using poly(Glu,Tyr) as substrate assessed as [33P-gamma]-ATP incorporation after 60 mins by microplate scintillation counting",BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL2010688,8,H
+CHEMBL2015061,"Inhibition of EGFR L858R mutant using poly(Glu,Tyr) as substrate assessed as [33P-gamma]-ATP incorporation after 60 mins by microplate scintillation counting",MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL2010688,9,D
+CHEMBL2033041,Inhibition of human recombinant EGFR using Ulight-CAGAGAIETDKEYYTVKD as substrate after 15 mins by time-resolved fluorimetric analysis,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL2029270,9,D
+CHEMBL2033042,Inhibition of EGFR T790M mutant autophosphorylation in human NCI-H1975 cells after 1 hr by Western blot analysis,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL2029270,9,D
+CHEMBL2033651,Inhibition of EGFR after 1.5 hr by FRET assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL2029259,8,H
+CHEMBL2033652,Inhibition of EGFR T790M mutant after 1.5 hr by FRET assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL2029259,9,D
+CHEMBL2033653,Inhibition of EGFR L858R mutant after 1.5 hr by FRET assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL2029259,9,D
+CHEMBL2033654,Inhibition of EGFR L861Q mutant after 1.5 hr by FRET assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL2029259,9,D
+CHEMBL2033655,Inhibition of EGFR L858R/T790M mutant after 1.5 hr by FRET assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL2029259,9,D
+CHEMBL2034705,Inhibition of EGFR after 50 mins by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL2029299,8,H
+CHEMBL2038916,Inhibition of wild-type EGFR preincubated for 10 mins followed by incubation for 30 mins by fluorescence polarization assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL2034880,8,H
+CHEMBL2038917,Inhibition of EGFR T790M mutant preincubated for 10 mins followed by incubation for 30 mins by fluorescence polarization assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL2034880,9,D
+CHEMBL2050649,Inhibition of N-terminus peptide-tagged human recombinant EGFR expressed using baculovirus infection system using [gamma-33P]-ATP preincubated with compound for 5 mins measured after 10 mins by scintillation counting,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL2046372,9,D
+CHEMBL672267,Inhibition of EGF receptor kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132637,8,H
+CHEMBL673450,Inhibition of the tyrosine kinase activity of the human epidermal growth factor receptor (EGFR),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1127622,8,H
+CHEMBL673924,Inhibition of tyrosine/glutamic acid copolymer phosphorylation by epidermal growth factor receptor prepared of human A431,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1131301,9,D
+CHEMBL673925,Inhibition of phosphorylation of a polyglutamic acid/tyrosine random copolymer by EGFR enzyme (from human A431 carcinoma cell vesicles),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1134843,8,H
+CHEMBL673947,Inhibition of epidermal growth factor receptor (EGFR),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136802,8,H
+CHEMBL674005,Inhibition of EGF-stimulated DNA synthesis in ER 22 (EGF-receptor expressing) cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127676,8,H
+CHEMBL674006,Inhibition of EGF-stimulated DNA synthesis in ER 22 (EGF-receptor expressing) cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127676,8,H
+CHEMBL674009,"Inhibition of EGF-stimulated DNA synthesis in ER22 cells, by measuring [3H]Me-dT incorporation into ER 22 cells",OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127676,8,H
+CHEMBL674011,Inhibition of EGF-receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1130533,8,H
+CHEMBL674012,Tested for inhibition of EGF-receptor tyrosine kinase in intact cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1133080,8,H
+CHEMBL674015,Tested in vitro for inhibition of EGF-receptor tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1133080,8,H
+CHEMBL674018,Inhibition of phosphorylation of glutamic acid/tyrosine random copolymer by isolated epidermal growth factor receptor (EGFR),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1132213,8,H
+CHEMBL674020,Inhibition of phosphorylation of a polyglutamic acid/tyrosine random copolymer by EGFR enzyme prepared from human A431 carcinoma cell vesicles by immunoaffinity chromatography,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1133162,8,H
+CHEMBL674025,Inhibition of EGFR kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132910,9,D
+CHEMBL674026,Inhibition of EGFR kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134743,8,H
+CHEMBL674103,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145828,8,H
+CHEMBL674104,Inhibition of Epidermal growth factor receptor autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132364,8,H
+CHEMBL674105,Inhibitory activity against HER1 kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136358,8,H
+CHEMBL674106,Inhibitory activity against epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1146682,8,H
+CHEMBL674107,Inhibitory activity against epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1146693,8,H
+CHEMBL674637,Inhibitory activity towards tyrosine phosphorylation for the epidermal growth factor-receptor kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134862,8,H
+CHEMBL674642,Inhibition of EGF-R Tyrosine kinase (TK),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127418,9,D
+CHEMBL674643,Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1124610,8,H
+CHEMBL674647,Inhibition of EGFR(epidermal growth factor receptor) autophosphorylation in ER22 cell membranes,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127676,8,H
+CHEMBL674648,Inhibit of phosphorylation of a tyrosine/glutamic acid copolymer by epidermal growth factor receptor prepared from human A431 carcinoma cell vesicles by immunoaffinity chromatography.,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1131301,8,H
+CHEMBL674692,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1135924,8,H
+CHEMBL674693,Inhibition of Epidermal growth factor receptor (EGF-R) tyrosine kinase activity ,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1134829,8,H
+CHEMBL674695,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136193,8,H
+CHEMBL674697,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136216,8,H
+CHEMBL674698,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134917,8,H
+CHEMBL674699,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153680,8,H
+CHEMBL674700,Inhibition of Epidermal growth factor receptor (EGFr),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1131898,8,H
+CHEMBL675238,Inhibition of EGF receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134080,8,H
+CHEMBL675242,Inhibit of epidermal growth factor receptor (EGFR),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132163,8,H
+CHEMBL675380,Inhibition of epidermal growth factor receptor (EGFr) tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1130094,8,H
+CHEMBL675381,In vitro activity against Epidermal growth factor receptor (using poly(Glu4Tyr1) as a substrate),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1131686,8,H
+CHEMBL675386,Inhibition of the epidermal growth factor receptor.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1130562,8,H
+CHEMBL675388,Inhibition of epidermal growth factor receptor (EGFR),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136058,8,H
+CHEMBL675521,Inhibition of Epidermal growth factor receptor (EGFr) tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1130094,8,H
+CHEMBL676067,Inhibitory activity against epidermal growth factor receptor (EGFR),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136802,8,H
+CHEMBL676074,Inhibition of tyrosine/glutamic acid copolymer phosphorylation by epidermal growth factor receptor prepared of human A431,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1131301,9,D
+CHEMBL676146,Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127084,8,H
+CHEMBL676151,Inhibition of tyrosine kinase Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1159186,8,H
+CHEMBL676152,In vitro inhibition of HER1 autophosphorylation.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1125266,8,H
+CHEMBL676153,Inhibition of epidermal growth factor receptor autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1125266,9,D
+CHEMBL676154,Inhibition of Epidermal growth factor receptor tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127615,9,D
+CHEMBL676158,Inhibition of Epidermal growth factor receptor from human A431 carcinoma cell membranes,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1130030,9,D
+CHEMBL676159,Concentration required to achieve 50% inhibition of tyrosine phosphorylation on human Epidermal growth factor receptor (EGF RTK).,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1131018,8,H
+CHEMBL676160,Inhibition of Epidermal growth factor receptor autophosphorylation.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129839,8,H
+CHEMBL676161,"Inhibition of Epidermal growth factor receptor autophosphorylation, 0.05-0.10",OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129839,9,D
+CHEMBL676233,Inhibition of tyrosine/glutamic acid copolymer phosphorylation by epidermal growth factor receptor prepared of human A431,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1131301,9,D
+CHEMBL676234,Cytotoxic effect on EGF-receptor overexpressing HN5 squamous carcinoma cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127530,9,D
+CHEMBL677206,Inhibition of epidermal growth factor receptor (EGFr),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129933,9,D
+CHEMBL677207,In vitro inhibition of intrinsic tyrosine protein kinase activity of the Epidermal growth factor receptor using tripeptide RR-Src,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1128699,8,H
+CHEMBL677209,In vitro inhibition of the Epidermal growth factor receptor activity in A431 membranes,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1128740,8,H
+CHEMBL677212,Inhibition of epidermal growth factor receptor (EGF-R),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136732,9,D
+CHEMBL677382,Inhibition of epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134497,9,D
+CHEMBL677383,Inhibition of epidermal growth factor receptor (EGFr) autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129933,9,D
+CHEMBL677384,Inhibition of epidermal growth factor receptor kinase autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147619,9,D
+CHEMBL677385,Inhibition of peptide substrate phosphorylation by epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147619,9,D
+CHEMBL677387,Inhibition of phosphorylation of polyglutamic acid/tyrosine random copolymer by epidermal growth factor receptor.,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1130246,8,H
+CHEMBL677388,Inhibition of epidermal growth factor receptor kinase activity at a concentration of 2 uM of ATP,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1135889,8,H
+CHEMBL677390,Inhibition of human epidermal growth factor receptor (EGFR),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127560,9,D
+CHEMBL677392,Inhibitory concentration against EGF receptor by polyGAT phosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1126897,8,H
+CHEMBL677393,Inhibitory concentration against EGF receptor by autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1126897,8,H
+CHEMBL677529,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1135526,8,H
+CHEMBL677530,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136205,8,H
+CHEMBL677830,Inhibitory activity against Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132535,8,H
+CHEMBL677831,"Inhibition of epidermal growth factor receptor (EGFR) phosphorylation of the exogenous substrate poly(Glu6, Ala3,Tyr) (polyGAT)",BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1129590,8,H
+CHEMBL677832,Inhibitory activity against epidermal growth factor receptor tyrosine kinase.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1130217,8,H
+CHEMBL677833,In vitro inhibition of Epidermal growth factor receptor tyrosine kinase isolated from A431 (human carcinoma).,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145114,8,H
+CHEMBL677878,Concentration required for inhibition of epidermal growth factor receptor (EGF-R) by tyrosine kinase enzyme activity,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134003,8,H
+CHEMBL677879,Inhibition of epidermal growth factor receptor (EGF-R),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134003,8,H
+CHEMBL677880,In vitro inhibitory activity against epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129072,8,H
+CHEMBL677882,In vitro inhibition of Epidermal growth factor receptor expressed in baculovirus,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1135689,8,H
+CHEMBL677883,"In vitro inhibition of Epidermal growth factor receptor (HER-1,ErbB) expressed in baculovirus",BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1135689,8,H
+CHEMBL677885,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1130533,8,H
+CHEMBL677887,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132606,8,H
+CHEMBL677888,Inhibition of Epidermal growth factor receptor (Her1/ErbB1),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1135763,8,H
+CHEMBL677889,Inhibition of Epidermal growth factor receptor-dependent phosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132606,8,H
+CHEMBL677890,Inhibitory activity against protein tyrosine kinase of Epidermal growth factor receptor was determined,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127758,8,H
+CHEMBL678292,Inhibition of (EGFR) epidermal growth factor receptor tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1135760,9,D
+CHEMBL678293,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1135760,9,D
+CHEMBL678922,In vitro inhibition of EGF-stimulated DNA synthesis of ER 22 cells by following the incorporation of methyl-[3H]thymidine.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1128699,8,H
+CHEMBL679549,Inhibitory activity against recombinant tyrosine kinase EGF-R (EGF-R ICD),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1127678,8,H
+CHEMBL679672,Inhibitory activity of compound against Epidermal growth factor receptor autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129590,8,H
+CHEMBL679674,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132739,8,H
+CHEMBL679676,Inhibition of phosphorylation of glutamic acid/tyrosine random copolymer by isolated epidermal growth factor receptor (EGFR),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1132213,8,H
+CHEMBL679944,Concentration needed to inhibit the phosphorylation of a 14-residue fragment of phospholipase C-gamma1 by Epidermal growth factor receptor (prepared from human A431 carcinoma cell vesicles by immunoaffinity chromatography),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1132555,8,H
+CHEMBL679946,Concentration required to inhibit phosphorylation of isolated human epidermal growth factor tyrosine kinase receptor by 50%,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1127568,8,H
+CHEMBL679947,"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles",BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1130057,8,H
+CHEMBL679949,Evaluated for inhibitory activity towards tyrosine kinase Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1133768,8,H
+CHEMBL680015,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136583,9,D
+CHEMBL680018,Inhibition of epidermal growth factor receptor using enzyme assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134561,8,H
+CHEMBL680019,Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1131066,8,H
+CHEMBL680022,Inhibitory potency against protein tyrosine kinase activity associated with EGFR was evaluated using ER 22 cell membrane,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1127676,9,D
+CHEMBL680026,Tested for ability to inhibit autophosphorylation of the Epidermal growth factor receptor in human epidermoid carcinoma cells,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1130057,8,H
+CHEMBL680027,Concentration required to inhibit autophosphorylation of cytoplasmic domain of epidermal growth factor receptor (EGFR),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1147456,8,H
+CHEMBL680028,Inhibition of autophosphorylation of cytoplasmic domain of epidermal growth factor receptor,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1145020,8,H
+CHEMBL683037,"Inhibition of human Epidermal growth factor receptor, HER-1",OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147483,9,D
+CHEMBL683038,Inhibition of human Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147484,9,D
+CHEMBL683039,Inhibition of human epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147483,9,D
+CHEMBL683041,Inhibition of Epidermal Growth Factor Receptor (EGFR) autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1135208,9,D
+CHEMBL683042,Inhibition of human epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1131506,9,D
+CHEMBL688553,Inhibition of EGF-dependent proliferation of human and guinea pig keratinocytes; range 7-15 uM,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134331,8,H
+CHEMBL689289,Inhibition of polyGAT phosphorylation by EGF receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1126897,9,D
+CHEMBL689294,Inhibition of human Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147484,9,D
+CHEMBL689298,Antiproliferative activity determined by measuring the ability to block [3H]- thymidine uptake in HER-14 cells stimulated by EGF,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129590,8,H
+CHEMBL690548,Inhibition of EGF receptor overexpressing HN5 cell proliferation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1134080,9,D
+CHEMBL691873,Inhibition of human endothelial cell growth stimulate by endothelial growth factor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1135889,9,D
+CHEMBL700784,Inhibition of HER14 (human EGFR overexpressing) cell proliferation.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1125266,9,D
+CHEMBL700785,Inhibition of HER14 (human EGFR overexpressing) cell proliferation.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1125266,9,D
+CHEMBL701406,Inhibition of HER14 (human EGFR overexpressing) cell proliferation.,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1125266,8,H
+CHEMBL705978,Inhibition of EGF-stimulated proliferation of KB cells in culture,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129210,9,D
+CHEMBL709833,Inhibition of EGF-stimulated MCF-7 human breast tumor cell proliferation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1133720,9,D
+CHEMBL763200,Inhibition of polyGAT phosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1125266,9,D
+CHEMBL814059,Cytotoxic effect on EGF-receptor overexpressing HN5 squamous carcinoma cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127530,9,D
+CHEMBL814060,Cytotoxic effect on EGF-receptor overexpressing HN5 squamous carcinoma cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1127530,9,D
+CHEMBL821544,Inhibition of c-erbB2 receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1133720,9,D
+CHEMBL828032,Inhibition of HER1 kinase in intact DHER14 cells; Range = 5-15 nM,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141151,9,D
+CHEMBL829442,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139550,8,H
+CHEMBL830273,Inhibition of human epidermal growth factor receptor (HER-1),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1144449,9,D
+CHEMBL830975,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143513,8,H
+CHEMBL831695,Inhibition of HER1 kinase in intact DHER14 cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141151,9,D
+CHEMBL832627,Inhibitory concentration against EGFR by using [gamma-33P]-ATP as radioligand in pH 7.5,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1142784,9,D
+CHEMBL832673,Inhibitory concentration against Epidermal growth factor receptor tyrosine kinase activity,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1138000,9,D
+CHEMBL832814,Inhibition of epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1142725,9,D
+CHEMBL832893,In vitro inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1138664,9,D
+CHEMBL833554,Inhibition of epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140334,8,H
+CHEMBL843057,Inhibition of epidermal growth factor receptor (EGFR),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1128884,8,H
+CHEMBL853149,Inhibition of EGFR in presence of 2 uM ATP,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147701,9,D
+CHEMBL854974,Inhibition of recombinant EGFR by ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1137334,9,D
+CHEMBL856168,Inhibition of phosphorylation of glutamic acid/tyrosine random copolymer by isolated epidermal growth factor receptor (EGFR),BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1132213,8,H
+CHEMBL856172,Antiproliferative activity determined by measuring the ability to block [3H]- thymidine uptake in HER-14 cells stimulated by EGF,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129590,8,H
+CHEMBL856356,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149481,9,D
+CHEMBL856357,Antiproliferative activity against EGF-stimulated KB cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149481,9,D
+CHEMBL856400,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147983,9,D
+CHEMBL857165,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1133428,8,H
+CHEMBL857670,Inhibitory concentration of EGFr,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141082,8,H
+CHEMBL860874,Inhibitory activity against EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149372,9,D
+CHEMBL861201,Inhibitory activity against recombinant human EGFR,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1146929,9,D
+CHEMBL861550,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147004,9,D
+CHEMBL862242,Inhibitory activity against EGFR kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149378,9,D
+CHEMBL862512,Inhibition of erbB1 fusion protein expressed in baculovirus by ELISA,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1138126,9,D
+CHEMBL863537,Inhibitory activity against HER1,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147752,9,D
+CHEMBL863780,Inhibition of EGFR kinase activity,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1146933,9,D
+CHEMBL866710,Inhibition of EGFR-mediated polyGAT phosphorylation at 10 uM,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1146012,9,D
+CHEMBL867748,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139019,9,D
+CHEMBL867749,Inhibition of EGFR autophosphorylation in DiFi cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139019,9,D
+CHEMBL868329,Inhibitory activity against EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1146052,9,D
+CHEMBL868330,Antiproliferative activity against EGF-stimulated KB cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1146052,9,D
+CHEMBL870841,Inhibition of EGFR tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1148637,9,D
+CHEMBL873338,Inhibition of human epidermal growth factor receptor (EGFR) autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1142663,9,D
+CHEMBL873587,Antagonism towards Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1129840,8,H
+CHEMBL873595,Inhibition of epidermal growth factor receptor (EGFR),OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1126211,8,H
+CHEMBL873605,Inhibition of Epidermal growth factor receptor,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1133502,8,H
+CHEMBL879468,Inhibition of EGFR overexpressing HN5 (Head and neck) tumor cell proliferation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1136583,9,D
+CHEMBL880174,Inhibitory activity against ligand-dependent EGF cell proliferation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1132535,8,H
+CHEMBL881766,In vitro inhibitory concentration EGF receptor with ATP concentration at 1/2Km,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143653,8,H
+CHEMBL881943,In vitro inhibitory concentration against EGFR cytoplasmic sequence expressed in Sf9 cells,IN_VITRO_CONTEXT_UNCLEAR,CHEMBL203,,CHEMBL1140398,9,D
+CHEMBL881949,Inhibitory concentration against EGFR kinase phosphorylation using synthetic peptide as a substrate,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141048,9,D
+CHEMBL884483,Inhibitory activity against EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140394,9,D
+CHEMBL885861,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139073,8,H
+CHEMBL887090,Inhibition of EGFR by radioactive filtration assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139197,8,H
+CHEMBL892951,Inhibition of human EGFR in presence of 1 uM ATP,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147965,9,D
+CHEMBL892954,Inhibition of human EGFR in presence of 1 mM ATP,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147965,9,D
+CHEMBL893470,Inhibition of human EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1147910,9,D
+CHEMBL902558,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139142,8,H
+CHEMBL903494,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139130,8,H
+CHEMBL903566,Inhibition of human EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139135,9,D
+CHEMBL906925,Inhibition of EGFR measured as pGAT-biotin peptide phosphorylation in presence of 2.0 uM ATP by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149491,9,D
+CHEMBL906926,Inhibition of EGFR autophosphorylation in DiFi cells by ELISA,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149491,9,D
+CHEMBL908277,Inhibition of EGFR tyrosine kinase activity,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1137325,9,D
+CHEMBL908512,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141380,9,D
+CHEMBL908988,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139689,9,D
+CHEMBL910357,Inhibition of ErbB1,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149340,9,D
+CHEMBL910453,Inhibitory activity against EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1138859,9,D
+CHEMBL912344,Inhibition of Her1,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1137331,9,D
+CHEMBL912717,Inhibition of human EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1137241,9,D
+CHEMBL914501,Inhibition of Her1 kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149291,9,D
+CHEMBL916320,Inhibition of human EGFR tyrosine kinase phosphorylation expressed in mouse BaF3 cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140296,9,D
+CHEMBL916323,Inhibition of DNA synthesis in EGF-dependent human MCF10A cells assessed as [3H]thymidine incorporation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140296,9,D
+CHEMBL919737,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1144561,9,D
+CHEMBL921076,Inhibition of EGFR autophosphorylation,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145498,8,H
+CHEMBL921277,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143953,8,H
+CHEMBL921778,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143964,8,H
+CHEMBL923201,Inhibition of human recombinant EGFR expressed in insect Sf9 cells,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1140690,9,D
+CHEMBL924156,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140495,8,H
+CHEMBL924351,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140520,8,H
+CHEMBL928913,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141539,8,H
+CHEMBL928914,Inhibition of EGF-stimulated human EGFR autophosphorylation in KB cells,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141539,9,D
+CHEMBL929426,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145598,8,H
+CHEMBL929547,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141507,8,H
+CHEMBL930778,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141561,8,H
+CHEMBL934832,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145585,8,H
+CHEMBL937170,Inhibition of ErbB1,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145498,8,H
+CHEMBL937172,Inhibition of Her1,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145498,8,H
+CHEMBL937186,Inhibition of wild type EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145498,8,H
+CHEMBL939337,Inhibition of wild type EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145498,8,H
+CHEMBL939338,Inhibition of EGFR L858R mutant,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1145498,9,D
+CHEMBL939339,Inhibition of EGFR L861Q mutant,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1145498,9,D
+CHEMBL940057,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1145498,8,H
+CHEMBL941412,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1150213,8,H
+CHEMBL944276,Inhibition of human recombinant EGFR,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1140899,9,D
+CHEMBL945670,Inhibition of human EGFR tyrosine kinase activity,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1140956,9,D
+CHEMBL946651,Inhibition of human EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140956,8,H
+CHEMBL946770,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143280,8,H
+CHEMBL947896,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143160,8,H
+CHEMBL949877,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1137681,8,H
+CHEMBL952131,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143196,8,H
+CHEMBL955786,Inhibition of HER1,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1152141,8,H
+CHEMBL957461,Inhibition of EGFR expressed in human tumor cells,IN_VITRO_CONTEXT_UNCLEAR,CHEMBL203,,CHEMBL1150356,8,H
+CHEMBL957972,Inhibition of human recombinant EGFR,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1157465,9,D
+CHEMBL959256,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153968,8,H
+CHEMBL960396,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140982,8,H
+CHEMBL962243,Inhibition of human EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1151764,9,D
+CHEMBL964130,Inhibition of EGFR L858R mutant by time resolved fluorescence assay,MUTANT_SPECIFIC_REVIEW,CHEMBL203,,CHEMBL1153290,9,D
+CHEMBL964194,Inhibition of EGFR by HTRF assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153281,8,H
+CHEMBL964195,Inhibition of EGFR by SPA assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153281,8,H
+CHEMBL964945,Inhibition of EGFR by virtual HTS assay,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153282,8,H
+CHEMBL970655,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140082,8,H
+CHEMBL970971,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157216,8,H
+CHEMBL971642,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1156722,8,H
+CHEMBL972533,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1138507,8,H
+CHEMBL974188,Inhibition of human recombinant EGFR kinase expressed in Sf9 insect cells,BIOCHEMICAL_OR_RECOMBINANT_REVIEW,CHEMBL203,,CHEMBL1142620,9,D
+CHEMBL976899,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1149823,8,H
+CHEMBL978648,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1157167,8,H
+CHEMBL980757,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1139415,8,H
+CHEMBL980904,Inhibition of GST-tagged HER1,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1140084,8,H
+CHEMBL984177,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1138470,8,H
+CHEMBL984786,Inhibition of EGF-tyrosine kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1155111,8,H
+CHEMBL986505,Inhibition of EGFR by ELISA,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1155833,8,H
+CHEMBL987693,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1153982,8,H
+CHEMBL991653,Inhibition of EGFR in presence of 100 uM ATP,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1142456,8,H
+CHEMBL995846,Inhibition of EGFR kinase,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1143444,8,H
+CHEMBL996040,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1156432,8,H
+CHEMBL998566,Inhibition of EGFR,OTHER_OR_REVIEW_REQUIRED,CHEMBL203,,CHEMBL1141712,8,H

@@ -1,0 +1,37 @@
+{
+  "created_utc": "2026-10-16T05:01:11.128540+00:00",
+  "random_seed": 42,
+  "fingerprint": {
+    "type": "Morgan",
+    "radius": 2,
+    "bits": 2048
+  },
+  "python": "3.14.2",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.5.3",
+  "pandas": "3.0.6",
+  "scikit_learn": "1.9.1",
+  "rdkit": "2026.03.6",
+  "scipy": "1.18.1",
+  "registered_models_evaluated": 21,
+  "JAK_deep_dive": {
+    "invalid_smiles_after_cleaning": 0,
+    "descriptor_rows": 10070,
+    "random_vs_scaffold": [
+      {
+        "split": "Recorded scaffold-held-out",
+        "n": 1864,
+        "R2": 0.657285442300652,
+        "RMSE_pIC50": 0.7033970669865688,
+        "MAE_pIC50": 0.5228028375064648,
+        "MedianAE_pIC50": 0.39372778862265223,
+        "ExplainedVariance": 0.6590705843496014,
+        "Pearson_r": 0.8120842332989774,
+        "Spearman_rho": 0.8038988709253957,
+        "ResidualMean_pIC50": 0.05076573363387485,
+        "ResidualSD_pIC50": 0.7017510003158144
+      }
+    ],
+    "AD_test_similarity_threshold_5th_percentile": 0.6265079365079366
+  }
+}

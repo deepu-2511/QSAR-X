@@ -1,0 +1,11 @@
+parameter,value
+Fingerprint,Morgan / ECFP4
+Fingerprint radius,2
+Fingerprint bits,2048
+Test compounds,525
+Valid compounds,525
+Invalid compounds,0
+Top SHAP bits analyzed,20
+Mapped environments,5285
+Representative molecules,60
+Generated images,60

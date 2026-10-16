@@ -1,0 +1,2 @@
+model,test_R2,test_RMSE,test_MAE,fingerprint,radius,fp_size,random_seed
+Extra Trees,0.662180694630646,0.7924895296765655,0.6105849690429263,Morgan,2,2048,42

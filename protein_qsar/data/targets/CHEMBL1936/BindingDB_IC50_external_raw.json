@@ -1,0 +1,4844 @@
+{
+  "getLindsByUniprotResponse": {
+    "bdb.hit": "804",
+    "bdb.length": "NA",
+    "bdb.uniprot_length": "976",
+    "bdb.primary": "P10721",
+    "bdb.alternative": [
+      "P10721",
+      "B5A956",
+      "D5LXN2",
+      "D5M931",
+      "F5H8F8",
+      "Q6IQ28",
+      "Q99662",
+      "Q9UM99"
+    ],
+    "bdb.affinities": [
+      {
+        "bdb.monomerid": 3084,
+        "bdb.smile": "Cn1c(=O)c(-c2c(Cl)cccc2Cl)cc2cnc(Nc3ccc(O)cc3)nc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 4552,
+        "bdb.smile": "CN1CCN(CC1)CCCOc2cc3c(cc2OC)c(c(cn3)C#N)Nc4cc(c(cc4Cl)Cl)OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6313"
+      },
+      {
+        "bdb.monomerid": 4870,
+        "bdb.smile": "C(c1ccncc1)c1nnc(Nc2ccccc2)c2ccccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 4879,
+        "bdb.smile": "FC(F)(F)c1cc(Nc2nnc(Cc3ccncc3)c3ccccc23)ccc1Cl",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2700"
+      },
+      {
+        "bdb.monomerid": 4880,
+        "bdb.smile": "FC(F)(F)c1cc(Br)cc(Nc2nnc(Cc3ccncc3)c3ccccc23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 5447,
+        "bdb.smile": "COc1cc2c(cc1OCCCN3CCOCC3)c(ncn2)Nc4ccc(c(c4)Cl)F",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 1800"
+      },
+      {
+        "bdb.monomerid": 8812,
+        "bdb.smile": "Cc1sc2ncnc(N)c2c1-c1ccc(NC(=O)Nc2ccccc2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 32"
+      },
+      {
+        "bdb.monomerid": 8832,
+        "bdb.smile": "COc1cccc(NC(=O)Nc2ccc(cc2)-c2c(C)sc3ncnc(N)c23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 19"
+      },
+      {
+        "bdb.monomerid": 8837,
+        "bdb.smile": "Cc1sc2ncnc(N)c2c1-c1ccc(NC(=O)Nc2ccccc2Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 109.65"
+      },
+      {
+        "bdb.monomerid": 8847,
+        "bdb.smile": "Cc1cccc(NC(=O)Nc2ccc(cc2)-c2c(CCC(N)=O)sc3ncnc(N)c23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 158.49"
+      },
+      {
+        "bdb.monomerid": 8857,
+        "bdb.smile": "Cc1cccc(NC(=O)Nc2ccc(cc2)-c2c(Cc3ccncc3)sc3ncnc(N)c23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 954.99"
+      },
+      {
+        "bdb.monomerid": 8863,
+        "bdb.smile": "Cc1cccc(NC(=O)Nc2ccc(-c3csc4ncnc(N)c34)c(Cl)c2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 200"
+      },
+      {
+        "bdb.monomerid": 11242,
+        "bdb.smile": "c1cc(c(cc1[N+](=O)[O-])Cl)NC(=O)c2cc(ccc2O)Cl",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 27800"
+      },
+      {
+        "bdb.monomerid": 13533,
+        "bdb.smile": "Cc1ccc(cc1)-n1nc(cc1NC(=O)Nc1ccc(OCCN2CCOCC2)c2ccccc12)C(C)(C)C",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 21074,
+        "bdb.smile": "Nc1noc2cccc(-c3ccc(NC(=O)\\C=C\\c4cccc(c4)C(F)(F)F)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">12500"
+      },
+      {
+        "bdb.monomerid": 21080,
+        "bdb.smile": "Nc1noc2cccc(-c3ccc(NC(=O)Nc4ccccc4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 18"
+      },
+      {
+        "bdb.monomerid": 21084,
+        "bdb.smile": "Cc1cccc(NC(=O)Nc2ccc(cc2)-c2cccc3onc(N)c23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 12"
+      },
+      {
+        "bdb.monomerid": 21089,
+        "bdb.smile": "Nc1noc2cccc(-c3ccc(NC(=O)Nc4cccc(Cl)c4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 10"
+      },
+      {
+        "bdb.monomerid": 21090,
+        "bdb.smile": "Cc1ccc(NC(=O)Nc2ccc(cc2)-c2cccc3onc(N)c23)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5"
+      },
+      {
+        "bdb.monomerid": 21099,
+        "bdb.smile": "Nc1noc2cccc(-c3ccc(NC(=O)Nc4ccc(F)c(Cl)c4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 36"
+      },
+      {
+        "bdb.monomerid": 21100,
+        "bdb.smile": "Nc1noc2cccc(-c3ccc(NC(=O)Nc4cc(F)cc(F)c4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 14"
+      },
+      {
+        "bdb.monomerid": 21109,
+        "bdb.smile": "Cc1ccc(F)c(NC(=O)Nc2ccc(cc2)-c2ccc(OC(F)(F)F)c3onc(N)c23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 294"
+      },
+      {
+        "bdb.monomerid": 25118,
+        "bdb.smile": "CN1CCN(c2ccc3nc(-c4c(N)c5c(F)cccc5[nH]c4=O)[nH]c3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1.000000"
+      },
+      {
+        "bdb.monomerid": 25118,
+        "bdb.smile": "CN1CCN(c2ccc3nc(-c4c(N)c5c(F)cccc5[nH]c4=O)[nH]c3c2)CC1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 1.6"
+      },
+      {
+        "bdb.monomerid": 25118,
+        "bdb.smile": "CN1CCN(c2ccc3nc(-c4c(N)c5c(F)cccc5[nH]c4=O)[nH]c3c2)CC1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 3100"
+      },
+      {
+        "bdb.monomerid": 26028,
+        "bdb.smile": "CNC(=O)c1cc(Oc2ccc3n(C)c(Nc4cccc(c4)C(C)(C)C)nc3c2)ccn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 10.0"
+      },
+      {
+        "bdb.monomerid": 26474,
+        "bdb.smile": "CN(c1ccc2c(C)n(C)nc2c1)c1ccnc(Nc2ccc(C)c(c2)S(N)(=O)=O)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 118"
+      },
+      {
+        "bdb.monomerid": 31085,
+        "bdb.smile": "CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 2.1"
+      },
+      {
+        "bdb.monomerid": 31085,
+        "bdb.smile": "CCN1CCN(Cc2ccc(NC(=O)Nc3ccc(Oc4cc(NC)ncn4)cc3)cc2C(F)(F)F)CC1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5000"
+      },
+      {
+        "bdb.monomerid": 66880,
+        "bdb.smile": "COc1ccc(COc2ccc(Cc3ccnc4cc(OC)ccc34)cc2OC)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 66982,
+        "bdb.smile": "COc1cnc2c(Cc3cnc(OCc4cc5n(n4)CCC5)c(OC)c3)ccnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 66992,
+        "bdb.smile": "COc1cnc2c(Cc3cnc(OCc4ccc([C@H]5CC5(F)F)cn4)c(OC)c3)ccnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 67026,
+        "bdb.smile": "COc1cnc2c(Cc3cnc(OCc4cc5n(n4)C[C@H](F)C5)c(OC)c3)ccnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 67036,
+        "bdb.smile": "COc1cnc2c(Cc3cnc(OCc4cc5n(n4)C[C@@H](OC)C5)c(OC)c3)ccnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 67052,
+        "bdb.smile": "COc1cnc2c(Cc3cnc(OCc4cc5n(n4)C[C@H](OC)C5)c(OC)c3)ccnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 106556,
+        "bdb.smile": "Cc1ccc(NC(=O)c2ccc(NS(=O)(=O)c3ccc(Cl)nc3)cc2)cc1Nc1nccc(n1)-c1cccnc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 173"
+      },
+      {
+        "bdb.monomerid": 120079,
+        "bdb.smile": "N#Cc1cnc(C(=O)Nc2ccc(C3CCNCC3)cc2C2=CCS(=O)(=O)CC2)[nH]1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 73"
+      },
+      {
+        "bdb.monomerid": 120085,
+        "bdb.smile": "CC1(C)CC=CC(C(COC(=O)c2ncc(C#N)[nH]2)S(C)(=O)=O)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 39"
+      },
+      {
+        "bdb.monomerid": 120397,
+        "bdb.smile": "CN(C)[C@@H]1CCN(C1)C1CCc2cc(ccc12)C(=O)Nc1ccc(C)c(Nc2nccc(n2)-c2cccnc2)c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 32"
+      },
+      {
+        "bdb.monomerid": 121390,
+        "bdb.smile": "COc1ccc(NC(=O)Nc2ccc(cc2)-c2csc3c(cnc(N)c23)-c2cnn(C[C@H](O)CO)c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 12.58"
+      },
+      {
+        "bdb.monomerid": 135798,
+        "bdb.smile": "Oc1cccc(Cc2ccc(-c3n[nH]c4c3Cc3sccc3-4)cc2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 139.1"
+      },
+      {
+        "bdb.monomerid": 174910,
+        "bdb.smile": "Cc1cccc(CNc2ncc(Cc3c[nH]c4ncc(Cl)cc34)cn2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 174919,
+        "bdb.smile": "COc1ncc(F)cc1CNc1ncc(Cc2c[nH]c3ncc(Cl)cc23)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 174925,
+        "bdb.smile": "CCS(=O)(=O)Nc1ccccc1CNc1ccc(Cc2c[nH]c3ncc(C)cc23)c(F)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 174941,
+        "bdb.smile": "COc1ccc(CNc2ncc(Cc3c[nH]c4ncc(C)cc34)cc2F)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 174951,
+        "bdb.smile": "Cc1cnc2[nH]cc(Cc3ccc(NCc4cnccc4C(F)(F)F)nc3F)c2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 174961,
+        "bdb.smile": "Cn1cc(F)cc(CNc2ncc(Cc3c[nH]c4ncc(Cl)cc34)cn2)c1=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 174966,
+        "bdb.smile": "Fc1ccc(CNc2ccc(Cc3c[nH]c4ncc(Cl)cc34)cn2)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 175221,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccnn2C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175421,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(N)nc2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175431,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](CO)c1ccccc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175441,
+        "bdb.smile": "COc1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)Nc1ccc(cc1)C#N",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175446,
+        "bdb.smile": "COc1cccc(c1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175456,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(C)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175462,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2cccc(Cl)c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175466,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175472,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(c2ncnn3cc(-c4cn[nH]c4)cc23)C1)c1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175482,
+        "bdb.smile": "COc1cc(ccn1)-c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175497,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NC1CCc2cc(Cl)ccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175513,
+        "bdb.smile": "C[C@H](NC(=O)C1(O)CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175564,
+        "bdb.smile": "CC(C)Oc1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 175568,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(cc1)C1CC1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175574,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)Nc1ccc(OC(F)(F)F)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175580,
+        "bdb.smile": "C[C@H](NC(=O)C1(C)CN(C1)c1ncnn2cc(cc12)-c1cnn2CCCc12)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175584,
+        "bdb.smile": "CNCC1(CN(C1)c1ncnn2cc(cc12)-c1cn(C)nc1N)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175590,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(N)nc1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175599,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cn(C)nc1N)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175600,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1N)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175609,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C2(O)CCC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175615,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C2(O)COC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175619,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2(C)CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C(C)(C)O)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175625,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(OC2CC2)cc1)c1ccccc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 175631,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc2OCCOc2c1)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175635,
+        "bdb.smile": "CC(C)(C)Oc1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(F)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175641,
+        "bdb.smile": "COC(=O)N1CCC(=CC1)c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)NCc1ccc(C)cc1 |c:7|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175651,
+        "bdb.smile": "CC(C)n1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)N[C@@H](C)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175666,
+        "bdb.smile": "COC1(CN(C1)c1ncnn2cc(cc12)-c1ccc2C(=O)NCc2c1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175676,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(OCC(C)(C)O)cc2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175682,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(F)c(OC(C)(C)C)c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175692,
+        "bdb.smile": "CC(C)(C)Oc1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(F)cc1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175702,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](CC(C)(C)O)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175707,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C(=O)N2CCCC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175717,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(c2ncnn3cc(C4=CCN(S(C)(=O)=O)CC4)cc23)C1)c1ccc(F)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175727,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C2(CC2)C(F)(F)F)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175733,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(CC(C)(C)N)c1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175743,
+        "bdb.smile": "CC(C)(O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)NC(=O)Cc1ccc(Cl)cc1Cl",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175758,
+        "bdb.smile": "CC[C@H](NC(=O)C1(C)CN(c2ncnn3cc(C4=CCN(C(=O)OC)CC4)cc23)C1)c1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175768,
+        "bdb.smile": "CC[C@H](NC(=O)C1(C)CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)S(C)(=O)=O)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 191640,
+        "bdb.smile": "COc1cc2c(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc4ccc(F)cc4)cc3F)ccnc2cc1OCCCC(=O)NO",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 115"
+      },
+      {
+        "bdb.monomerid": 193911,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccccn12)-c1nc(no1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 24"
+      },
+      {
+        "bdb.monomerid": 193915,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccccn12)-c1noc(n1)C1CCC(F)(F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 24"
+      },
+      {
+        "bdb.monomerid": 193921,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccccn12)-c1noc(n1)C1CC(=O)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 41"
+      },
+      {
+        "bdb.monomerid": 193931,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccccn12)-c1noc(n1)C1(CC1)NS(C)(=O)=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 56"
+      },
+      {
+        "bdb.monomerid": 193946,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccc(CO)cn12)-c1noc(n1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 60"
+      },
+      {
+        "bdb.monomerid": 193956,
+        "bdb.smile": "Cn1cc(cn1)-c1ccc2ncc(C(=O)Nc3cc(ccc3F)-c3noc(n3)C3CC(F)(F)C3)n2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 33"
+      },
+      {
+        "bdb.monomerid": 193962,
+        "bdb.smile": "CC(=O)CCc1ccc2ncc(C(=O)Nc3cc(ccc3C)-c3noc(n3)C3CC(F)(F)C3)n2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 45"
+      },
+      {
+        "bdb.monomerid": 193972,
+        "bdb.smile": "CN1CCN(CCc2ccc3ncc(C(=O)Nc4cc(ccc4C)-c4noc(n4)C4CC(F)(F)C4)n3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 82"
+      },
+      {
+        "bdb.monomerid": 193987,
+        "bdb.smile": "CCC1CC(c2nc(-c3ccc(C)c(NC(=O)c4cnc5ccccn45)c3)no2)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 10"
+      },
+      {
+        "bdb.monomerid": 193997,
+        "bdb.smile": "Cc1ccn2c(C(=O)Nc3cc(-c4noc([C@H]5C[C@](O)(C(F)(F)F)C5)n4)ccc3C)cnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 25"
+      },
+      {
+        "bdb.monomerid": 194006,
+        "bdb.smile": "COCCn6nc(c5ccc4ncc(C(=O)Nc3cc(c2noc(C1CC(F)(F)C1)n2)ccc3C)n4c5)nc6C",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 44"
+      },
+      {
+        "bdb.monomerid": 194012,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccccn12)-c1noc(CC2CC2)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 40"
+      },
+      {
+        "bdb.monomerid": 194022,
+        "bdb.smile": "COC(=O)NC1(CC(F)(F)C1)c1nc(no1)-c1ccc(C)c(NC(=O)c2cnc3cc(C)ccn23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 67"
+      },
+      {
+        "bdb.monomerid": 194032,
+        "bdb.smile": "Cc1ccc(-c2noc(C3CC(O)C3)n2)cc1NC(=O)c1cnc2ccccn12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 135"
+      },
+      {
+        "bdb.monomerid": 194037,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@H](NC(=O)OC(C)(C)C)C3)n2)cc1NC(=O)c1cnc2ccccn12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 353"
+      },
+      {
+        "bdb.monomerid": 194047,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccccn12)-c1noc(n1)C1(N)CCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 197"
+      },
+      {
+        "bdb.monomerid": 194053,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccc(CCC(=O)OC(C)(C)C)cn12)-c1noc(n1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 237"
+      },
+      {
+        "bdb.monomerid": 194057,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccc(cn12)-c1cnn(CC(O)=O)c1)-c1noc(n1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 351"
+      },
+      {
+        "bdb.monomerid": 194063,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnc2ccc(CC(C)(C)O)cn12)-c1noc(n1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 165"
+      },
+      {
+        "bdb.monomerid": 194073,
+        "bdb.smile": "Cc1cncn1-c1ccc2ncc(C(=O)Nc3cc(ccc3C)-c3noc(n3)C3CC(F)(F)C3)n2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 139"
+      },
+      {
+        "bdb.monomerid": 206104,
+        "bdb.smile": "COc1cc2ncccc2cc1NC(=O)c1csc2cncnc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">50000"
+      },
+      {
+        "bdb.monomerid": 239017,
+        "bdb.smile": "CN1CCN(c2ccc(C(=O)Nc3n[nH]c4cc(OCCOCc5ccccc5)ccc34)cc2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 113"
+      },
+      {
+        "bdb.monomerid": 239027,
+        "bdb.smile": "CN1CCN(c2ccc(C(=O)Nc3n[nH]c4cc(OCCOCc5ccncc5)ccc34)cc2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2370"
+      },
+      {
+        "bdb.monomerid": 239033,
+        "bdb.smile": "CN1CCC(Nc2ccc(C(=O)Nc3n[nH]c4cc(OCCOCc5ccccc5)ccc34)cc2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 61.0"
+      },
+      {
+        "bdb.monomerid": 239043,
+        "bdb.smile": "O=C(Nc1n[nH]c2cc(OCCOCc3ccccc3)ccc12)c1ccc(N2CCNCC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 52.0"
+      },
+      {
+        "bdb.monomerid": 331629,
+        "bdb.smile": "O=C(Cc1ccc(-c2cnc3[nH]ccc3n2)cc1)Nc1cc(C2(C(F)(F)F)CC2)on1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331635,
+        "bdb.smile": "Cn1ccc2ncc(nc12)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)cc1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331641,
+        "bdb.smile": "O=C(Cc1ccc(-c2cnc3[nH]ncc3c2)cc1)Nc1cc(C2(C(F)(F)F)CC2)on1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331648,
+        "bdb.smile": "CN(C)CCNC(=O)c1cc2cc(-c3ccc(CC(=O)Nc4cc(C(C)(C)C)on4)cc3)cnc2[nH]1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331654,
+        "bdb.smile": "OCCOc1cc2ncc(nc2cc1OCCO)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331660,
+        "bdb.smile": "COc1cc2nc(cnc2cc1OCCN1CCN(C)CC1)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331667,
+        "bdb.smile": "COc1cc2cc(cnc2cc1OCCO)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331673,
+        "bdb.smile": "COc1cc2nc(cnc2cc1OCCN1CCOCC1)-c1ccc(CC(=O)Nc2cc(nn2C)C(C)(C)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331686,
+        "bdb.smile": "CS(=O)(=O)CCNC(=O)c1cc2cc(-c3ccc(CC(=O)Nc4cc(C5(C(F)(F)F)CC5)on4)c(F)c3)cnc2[nH]1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331692,
+        "bdb.smile": "CN1CC(NC(=O)c2cc3cc(-c4ccc(CC(=O)Nc5cc(C6(C(F)(F)F)CC6)on5)c(F)c4)cnc3[nH]2)C1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331699,
+        "bdb.smile": "COCCOc1cc2ncc(nc2cc1OCCOC)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C)cc1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331705,
+        "bdb.smile": "COCCOc1cc2ncc(cc2cc1OC)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331711,
+        "bdb.smile": "CCOC(=O)c1nc2cc(OC)c(OC)cc2nc1-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": ">50"
+      },
+      {
+        "bdb.monomerid": 331718,
+        "bdb.smile": "COc1cc2ncc(nc2cc1OC)-c1ccc(CC(=O)Nc2cc(nn2C)C(C)(C)C)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331724,
+        "bdb.smile": "COc1cc2ncc(-c3ccc(CC(=O)Nc4cc(on4)C(C)(C)C(F)(F)F)c(F)c3)c(OC)c2cc1OC",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": ">50"
+      },
+      {
+        "bdb.monomerid": 331730,
+        "bdb.smile": "CC(C)(c1cc(NC(=O)Cc2ccc(cc2F)-c2cnc3c(N)cccc3c2)no1)C(F)(F)F",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331737,
+        "bdb.smile": "COc1cc2ncc(nc2cc1OCCN(C)C)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331743,
+        "bdb.smile": "COc1cc2nc(cnc2cc1O)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 12.5"
+      },
+      {
+        "bdb.monomerid": 331756,
+        "bdb.smile": "COCCOc1cc2cc(cnc2cc1OC)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331762,
+        "bdb.smile": "COc1cc2nc(cnc2cc1OCC#N)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331769,
+        "bdb.smile": "COc1cc2ncc(cc2cc1OCCN1CCOCC1)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331775,
+        "bdb.smile": "CNCCOc1cc2nc(cnc2cc1OC)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331781,
+        "bdb.smile": "COc1cc2ncc(nc2cc1OC[C@@H](C)O)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1 |r|",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331788,
+        "bdb.smile": "COc1cc2nc(cnc2cc1OCCCN1CCOCC1)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331794,
+        "bdb.smile": "COc1cc2nc(cnc2cc1OCCN1CCOCC1)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C)cc1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331800,
+        "bdb.smile": "CN(CCOc1cc2ncc(nc2cc1OCCN(C)C(C)=O)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C(F)(F)F)c(F)c1)C(C)=O",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331806,
+        "bdb.smile": "COc1cc2ncc(nc2cc1OCCCN)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331819,
+        "bdb.smile": "COc1cc2nc(cnc2cc1OCCN1CCCOCC1)-c1ccc(CC(=O)Nc2cc(on2)C2(CC2)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 331825,
+        "bdb.smile": "COc1cc2nc(cnc2cc1OCC(C)(C)O)-c1ccc(CC(=O)Nc2cc(on2)C(C)(C)C(F)(F)F)c(F)c1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<5"
+      },
+      {
+        "bdb.monomerid": 342163,
+        "bdb.smile": "Fc1ccc(-c2cc3c(N4CCC(c5nc(C6CC6)c(-c6ccccc6)[nH]5)CC4)ncnc3[nH]2)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342176,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccc(C#N)cc6)cc45)CC3)nc2C)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342182,
+        "bdb.smile": "COc1cccc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccc(C#N)cc6)cc45)CC3)nc2C)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342201,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5ccc(F)cc5)cc34)CC2)[nH]c1-c1ccc(Cl)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342226,
+        "bdb.smile": "Cc1nc(C2(C)CCN(c3ncnc4[nH]c(-c5ccc(F)cc5)cc34)CC2)[nH]c1-c1ccc(Cl)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342232,
+        "bdb.smile": "Cc1cc2c(N3CCC(C)(c4nc(C)c(-c5ccc(F)cc5)[nH]4)CC3)ncnc2[nH]1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342239,
+        "bdb.smile": "CC(=O)Nc1cccc(-c2cc3c(N4CCC(c5nc(C)c(-c6ccccc6)[nH]5)CC4)ncnc3[nH]2)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342245,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5ccnc(N6CCC(C)CC6)c5)cc34)CC2)[nH]c1-c1ccccc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342251,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5cccc(NS(C)(=O)=O)c5)cc34)CC2)[nH]c1-c1ccccc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342258,
+        "bdb.smile": "Cc1ccc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccc(C#N)cc6)cc45)CC3)nc2C)s1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342264,
+        "bdb.smile": "CCOc1cc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccnc(OC)c6)cc45)CC3)nc2C)ccc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342277,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5ccc(F)cc5)cc34)CC2)[nH]c1-c1ccc2c(c1)OC(F)(F)O2",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342283,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5cnn(C(F)F)c5)cc34)CC2)[nH]c1-c1ccc(OC(F)F)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342296,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(C)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342302,
+        "bdb.smile": "COc1cc(-c2cc3c(N4CCC(c5nc(C(F)(F)F)c(-c6ccc(C)cc6)[nH]5)CC4)ncnc3[nH]2)ccn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342309,
+        "bdb.smile": "CCC1(c2nc(C)c(-c3ccc(OC)c(C)c3)[nH]2)CCN(c2ncnc3[nH]c(C)cc23)CC1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342321,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6cnn(C(F)F)c6)cc45)CC3)nc2C)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342328,
+        "bdb.smile": "CCOc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(C#N)cc6)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342334,
+        "bdb.smile": "COc1cccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(C)cc45)CC3)nc2C)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342340,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(C#N)cc6)cc45)CC3)nc2C)cn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342347,
+        "bdb.smile": "Cc1nc(C2(C)CCN(c3ncnc4[nH]c(-c5cnn(C(F)F)c5)cc34)CC2)[nH]c1-c1ccc(C(F)(F)F)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342353,
+        "bdb.smile": "COc1ncc(-c2nc(C3(C)CCN(c4ncnc5[nH]c(C)cc45)CC3)[nH]c2C)cc1F",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342366,
+        "bdb.smile": "CCc1[nH]c(C2CCN(c3ncnc4[nH]c(-c5ccc(C#N)cc5)cc34)CC2)nc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342372,
+        "bdb.smile": "CCOc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(OC)nc6)cc45)CC3)nc2C)cc1F",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342379,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(C(N)=O)cc6)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342385,
+        "bdb.smile": "CNC(=O)c1ccc(-c2cc3c(N4CCC(C)(c5nc(C)c(-c6cccc(OC)c6)[nH]5)CC4)ncnc3[nH]2)cn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342391,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(NS(C)(=O)=O)cc6)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342398,
+        "bdb.smile": "CNC(=O)c1ccc(-c2cc3c(N4CCC(C)(c5nc(C)c(-c6ccc(C(F)F)cc6)[nH]5)CC4)ncnc3[nH]2)cn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342410,
+        "bdb.smile": "CCOc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(C(=O)NC)nc6)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 346015,
+        "bdb.smile": "Cc1cc2nc(-c3cccc(C(F)(F)F)c3)[nH]c2cc1Nc1nc(-c2cccnc2)cs1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346021,
+        "bdb.smile": "Cc1cc2nc(-c3cccc(C(F)F)c3)[nH]c2cc1Nc1nc(-c2cccnc2)cs1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346031,
+        "bdb.smile": "Cc1cc2nc(-c3ccc(C)c(C(F)(F)F)c3)[nH]c2cc1Nc1nccc(-c2cccnc2)n1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346046,
+        "bdb.smile": "Cc1cc2nc(-c3cccc(OC(F)(F)F)c3)[nH]c2cc1Nc1nc(-c2ccc(C#N)cc2)cs1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346056,
+        "bdb.smile": "Cc1cc2n(C)c(nc2cc1Nc1nc(cs1)-c1cccnc1)-c1cccc(OC(F)(F)F)c1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346062,
+        "bdb.smile": "CC(C)n1c(nc2cc(Nc3nc(cs3)-c3ccncc3)c(C)cc12)-c1cccc(c1)C(F)F",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346066,
+        "bdb.smile": "CCn1c(nc2cc(Nc3nc(cs3)-c3ccncc3)c(C)cc12)-c1cccc(C)c1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346072,
+        "bdb.smile": "CCn1c(nc2cc(Nc3nc(cs3)-c3cccnc3)c(C)cc12)-c1cccc(c1)C(F)(F)F",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346082,
+        "bdb.smile": "COc1cccc(-c2nc3cc(Nc4nc(-c5cccnc5)cs4)c(C)cc3[nH]2)c1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346097,
+        "bdb.smile": "Cc1cc2[nH]c(-c3cccc(C(C)C)c3)nc2cc1Nc1nc(-c2ccc(C#N)cc2)cs1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346107,
+        "bdb.smile": "Cc1cc2[nH]c(-c3cccc(C(C)(C)C)c3)nc2cc1Nc1nc(-c2ccncc2)cs1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 346113,
+        "bdb.smile": "Cc1cc2nc(-c3cccc(C(F)(F)F)c3)[nH]c2cc1Nc1ncc(-c2cccnc2)o1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 346123,
+        "bdb.smile": "Cc1cc2nc(-c3ccc(C(F)(F)F)cc3)[nH]c2cc1Nc1nc(-c2cccnc2)cs1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 346133,
+        "bdb.smile": "Cc1cc2nc(-c3cncc(C(F)(F)F)c3)[nH]c2cc1Nc1nccc(-c2cccnc2)n1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 346148,
+        "bdb.smile": "Cc1cccc(-c2nc3cc(C)c(Nc4nc(-c5cncnc5)cs4)cc3[nH]2)c1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 346158,
+        "bdb.smile": "Cn1c(nc2cc(Nc3nc(cs3)-c3cccnc3)ccc12)-c1cccc(OC(F)(F)F)c1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 346164,
+        "bdb.smile": "Cc1cc2nc(-c3cccc(c3)C(F)(F)F)n(C)c2cc1Nc1nc(cs1)-c1cccnc1",
+        "bdb.affinity_type": "EC50",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 350085,
+        "bdb.smile": "CNCc1ccc(cc1)-c1cc(on1)-c1nc(cnc1N)-c1ccc(cc1)S(=O)(=O)C(C)C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 39"
+      },
+      {
+        "bdb.monomerid": 392370,
+        "bdb.smile": "Cc1cccnc1C(=O)Nc1cnc2[nH]c(-c3ccccc3)cc2c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 392401,
+        "bdb.smile": "CCNS(=O)(=O)c1cccc(Nc2ncc(NC(=O)c3[nH]nc(C)c3C)cn2)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 392420,
+        "bdb.smile": "Cc1[nH]nc(C(=O)Nc2cnc3[nH]c(-c4ccnc(N5CCN(C)CC5)c4)cc3c2)c1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 392433,
+        "bdb.smile": "Cc1n[nH]c(C(=O)Nc2cnc3[nH]c(-n4cccn4)cc3c2)c1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 392478,
+        "bdb.smile": "Cc1cncc(-c2cc3cc(NC(=O)c4[nH]nc(C)c4C)cnc3[nH]2)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 392484,
+        "bdb.smile": "Cc1n[nH]c(C(=O)Nc2cnc3[nH]c(-c4ccc(F)cc4OC(F)F)cc3c2)c1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 392497,
+        "bdb.smile": "Cc1n[nH]c(C(=O)Nc2cnc3[nH]c(-c4cccc5c4OC(F)(F)O5)cc3c2)c1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 397793,
+        "bdb.smile": "COc1ccc2c(ncnc2c1)N1CCN(CC1)c1ncc(Cc2ccccc2)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397803,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Oc4ccccc4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397818,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)c(N)n3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1"
+      },
+      {
+        "bdb.monomerid": 397828,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4cccc(F)c4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397834,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccc(cc4)C#N)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397838,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(cn3)N3CCc4ccccc34)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 397844,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(NCc4cccc(C)c4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 397854,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(OCc4ccccc4C)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 397860,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Nc4ccc(F)c(F)c4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397869,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OC1CCNC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397870,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccc(cc4)C(C)(C)C)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 397879,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OCC1CN(C)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1"
+      },
+      {
+        "bdb.monomerid": 397880,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OC1CCNCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397885,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OCC1CCN(C)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1"
+      },
+      {
+        "bdb.monomerid": 397889,
+        "bdb.smile": "CN1CCC(COc2ccc3ncnc(N4CCN(c5ncc(Cc6ccccc6)c(=O)[nH]5)CC4)c3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397895,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OC[C@@H]1CNCCO1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397901,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OCC1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1"
+      },
+      {
+        "bdb.monomerid": 397905,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OCCN1CCNCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397911,
+        "bdb.smile": "CCOc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OCC1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1"
+      },
+      {
+        "bdb.monomerid": 397921,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Nc4ccc(F)cc4)cn3)c2cc1OCC1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 410053,
+        "bdb.smile": "CN1CCN(Cc2cc(NC(=O)c3ccc4CCN(Cc4c3)c3cnc4ccccc4c3)cc(c2)C(F)(F)F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 8700"
+      },
+      {
+        "bdb.monomerid": 410057,
+        "bdb.smile": "CC1CN(Cc2cc(ccc12)C(=O)Nc1cc(CN2CCN(C)CC2)c(C)c(c1)C(F)(F)F)c1cncnc1 |w:1.0|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 410063,
+        "bdb.smile": "CCc1cc(CN2CCN(C)CC2)cc(NC(=O)c2ccc3C(C)CN(Cc3c2)c2cncnc2)c1 |w:22.23|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 410073,
+        "bdb.smile": "CC1CN(c2cncnc2)Cc2cc(C(=O)Nc3cc(CN4CC[C@H](N(C)C)C4)cc(C(F)(F)F)c3)ccc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 445951,
+        "bdb.smile": "Cc1cccc(C)c1-c1ccc2nc(NC(=O)[C@@H]3C[C@@H]3F)sc2c1 |r|",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 3853"
+      },
+      {
+        "bdb.monomerid": 445964,
+        "bdb.smile": "CC(=C)c1ccc(C)c(c1)-c1ccc2nc(NC(=O)[C@@H]3C[C@@H]3F)sc2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 445964,
+        "bdb.smile": "CC(=C)c1ccc(C)c(c1)-c1ccc2nc(NC(=O)[C@@H]3C[C@@H]3F)sc2c1 |r|",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 445983,
+        "bdb.smile": "Cc1ccncc1-c1ccc2nc(NC(=O)C3CC3(F)F)sc2c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 447520,
+        "bdb.smile": "CNc1cnc2ccc(Nc3ccc(OCc4ccc(OC)cc4)c(OC)c3)cc2n1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447539,
+        "bdb.smile": "COc1cc(Nc2ccc3ncc(nc3c2C#N)N2CCOCC2)ccc1OCc1ccc2OCCc2c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447545,
+        "bdb.smile": "COc1ccc(COc2ccc(Nc3ccc4ncc(nc4c3C#N)N3CCOCC3)cn2)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 275"
+      },
+      {
+        "bdb.monomerid": 447571,
+        "bdb.smile": "COc1cc(Nc2ccc3ncc(nc3c2C#N)N2CCNCC2)ccc1OCc1ccc(C)nc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447583,
+        "bdb.smile": "COc1cc(Nc2ccc3ncc(nc3c2C#N)N2CCOCC2)ccc1OCc1ccc(nc1)C(F)(F)F",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447590,
+        "bdb.smile": "COc1ccc(COc2ccc(Nc3ccc4ncc(nc4c3C#N)N3CCCC3)cc2OC)cn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447596,
+        "bdb.smile": "COc1cc(Nc2ccc3ncc(nc3c2C#N)N2CCC(CC2)N(C)C)ccc1OCc1cccc(c1)C#N",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447609,
+        "bdb.smile": "COc1ccc(COc2ccc(Nc3ccc4ncc(nc4c3C#N)N3CCOCC3)cc2OC)cc1F",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447615,
+        "bdb.smile": "CCCc1ccc(COc2ccc(Nc3ccc4ncc(nc4c3C#N)N3CCOCC3)cc2OC)cn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447621,
+        "bdb.smile": "COc1cc(Nc2ccc3ncc(nc3c2C#N)N2CCOCC2)ccc1OCc1ccc(nc1)N(C)C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447628,
+        "bdb.smile": "COc1cc(Nc2ccc3ncc(nc3c2C#N)N2CCOCC2)ccc1OCc1ccc(nc1)C(F)F",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 275"
+      },
+      {
+        "bdb.monomerid": 447647,
+        "bdb.smile": "COc1cc(Nc2ccc3ncc(nc3c2C#N)N2CCOCC2)ccc1OCc1ccsc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 447653,
+        "bdb.smile": "COc1ccc(COc2ccc(Nc3ccc4ncc(nc4c3C#N)N3CCOCC3)cc2OC)nc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": ">500"
+      },
+      {
+        "bdb.monomerid": 447666,
+        "bdb.smile": "COc1ccc(COc2ccc(Nc3ccc4ncc(nc4c3C#N)N(C)C)cc2OC)cn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27.5"
+      },
+      {
+        "bdb.monomerid": 472779,
+        "bdb.smile": "C[C@H](CO)n1cc(cn1)-c1cc2c(N)ncnn2c1 |r|",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 472785,
+        "bdb.smile": "C[C@](N)(c1ccc(F)cc1)c1cnc(N2CCN(c3ncnn4cc(-c5cnn(C6CC(O)C6)c5)cc34)CC2)nc1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 473175,
+        "bdb.smile": "Nc1ncnc2n(C[C@@H]3SSC[C@@H]3O)nc(-c3ccc(Oc4ccccc4)cc3)c12 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 481104,
+        "bdb.smile": "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cncc(C3=NN=C(C(=O)Nc4cccnc4)C3)c2)n1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 6.80"
+      },
+      {
+        "bdb.monomerid": 481110,
+        "bdb.smile": "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cncc(C3=NN=C(C(=O)Nc4cc(C(=O)O)n[nH]4)C3)c2)n1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 32.4"
+      },
+      {
+        "bdb.monomerid": 481117,
+        "bdb.smile": "Cc1coc(NC(=O)C2=NN=C(c3cncc(-c4ccnc(Nc5cc(NC(=O)c6ccc(CN7CCN(C)CC7)cc6)ccc5C)n4)c3)C2)n1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 31.1"
+      },
+      {
+        "bdb.monomerid": 481123,
+        "bdb.smile": "Cc1cccc(NC(=O)C2=NN=C(c3cncc(-c4ccnc(Nc5cc(NC(=O)c6ccc(CN7CCN(C)CC7)cc6)ccc5C)n4)c3)C2)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 12.4"
+      },
+      {
+        "bdb.monomerid": 481136,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3sncc3C)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 13.0"
+      },
+      {
+        "bdb.monomerid": 481136,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3sncc3C)c2)CC1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 13.0"
+      },
+      {
+        "bdb.monomerid": 481142,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3nnc(C)s3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 16.0"
+      },
+      {
+        "bdb.monomerid": 481142,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3nnc(C)s3)c2)CC1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 16.0"
+      },
+      {
+        "bdb.monomerid": 595579,
+        "bdb.smile": "Cn1cc(cn1)-c1cc(Oc2ccc(NC(=O)N3CCC4(CCCCC4)C3=O)nc2)ccn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.40"
+      },
+      {
+        "bdb.monomerid": 595662,
+        "bdb.smile": "Cc1nc(NC(=O)N2CCC3(CCC3)C2=O)ccc1Oc1ccnc(c1)-c1cnn(C)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 29.0"
+      },
+      {
+        "bdb.monomerid": 603894,
+        "bdb.smile": "CC(NC(=O)c1cccc(c1)C(F)(F)F)c1ccc(C2CC2)c(c1)-c1ccc2nc(Nc3cnn(c3)C3CC3)ncc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 603904,
+        "bdb.smile": "CCC(NC(=O)c1ccc(C2CC2)c(c1)-c1ccc2nc(Nc3cnn(c3)C3CC3)ncc2c1)c1cccc(c1)C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 612739,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3cccnc3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6.80"
+      },
+      {
+        "bdb.monomerid": 612740,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3ccccn3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6.70"
+      },
+      {
+        "bdb.monomerid": 612775,
+        "bdb.smile": "Cc1ccc(NC(=O)c2ccc(CN3CCN(C)CC3)cc2)cc1Nc1nccc(-c2cncc(-c3cc(C(N)=O)n[nH]3)c2)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 32.4"
+      },
+      {
+        "bdb.monomerid": 612791,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3cc(C)no3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 12.2"
+      },
+      {
+        "bdb.monomerid": 612893,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2)C(=O)Nc2ccc(C)c(Nc3nccc(n3)-c3cncc(c3)-c3cnn(C)c3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.20"
+      },
+      {
+        "bdb.monomerid": 622505,
+        "bdb.smile": "COc1cc(Nc2ncc3ccc4ncn(C(C)C)c4c3n2)ncc1N1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 32.1"
+      },
+      {
+        "bdb.monomerid": 622511,
+        "bdb.smile": "CCOc1cc(Nc2ncc3ccc4ncn(C(C)C)c4c3n2)ncc1N1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 31.5"
+      },
+      {
+        "bdb.monomerid": 690061,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccccc12)-c1nnn(n1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.0"
+      },
+      {
+        "bdb.monomerid": 690071,
+        "bdb.smile": "Clc1ccc(cc1NC(=O)c1cnn2ccccc12)-c1nnn(CC2CC2)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4.2"
+      },
+      {
+        "bdb.monomerid": 690086,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccccc12)-c1nnn(CC23CC(F)(C2)C3)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2.7"
+      },
+      {
+        "bdb.monomerid": 690096,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccccc12)-c1nnn(C[C@H]2CCCCO2)n1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3.1"
+      },
+      {
+        "bdb.monomerid": 690102,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccc(cc12)-c1cnn(CCO)c1)-c1nnn(n1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 0.6"
+      },
+      {
+        "bdb.monomerid": 690106,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccc(cc12)C1CC1)-c1nnn(n1)C1CN(C1)S(C)(=O)=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 8.0"
+      },
+      {
+        "bdb.monomerid": 690112,
+        "bdb.smile": "Cc1ccc(-c2nnn(C[C@@H]3CC3(F)F)n2)cc1NC(=O)c1cnn2ccc(-c3cn[nH]c3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1.1"
+      },
+      {
+        "bdb.monomerid": 690122,
+        "bdb.smile": "COC(=O)N1CC(C1)n1nnc(n1)-c1ccc(C)c(NC(=O)c2cnn3ccc(cc23)N2CCN(C)CC2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 38.4"
+      },
+      {
+        "bdb.monomerid": 690137,
+        "bdb.smile": "COC(=O)N1CC(C1)c1cnn(n1)-c1ccc(C)c(NC(=O)c2cnn3ccc(cc23)N2CCN(C)CC2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 19.0"
+      },
+      {
+        "bdb.monomerid": 690147,
+        "bdb.smile": "COC(=O)N1CC(C1)n1nnc(n1)-c1ccc(C)c(NC(=O)c2cnn3ccc(cc23)N2CCO[C@@H](CO)C2)c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 50.9"
+      },
+      {
+        "bdb.monomerid": 690153,
+        "bdb.smile": "COC(=O)N1CC(C1)n1nnc(n1)-c1ccc(C)c(NC(=O)c2cnn3ccc(cc23)N2CC[C@H](C2)N(C)C)c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 111.5"
+      },
+      {
+        "bdb.monomerid": 690163,
+        "bdb.smile": "COCCNc1ccn2ncc(C(=O)Nc3cc(-c4nnn([C@H]5C[C@@H](C(F)(F)F)C5)n4)c(F)cc3C)c2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 11.6"
+      },
+      {
+        "bdb.monomerid": 690178,
+        "bdb.smile": "COCCNc1ccn2ncc(C(=O)Nc3cc(ccc3C)-c3nnn(C[C@@H]4CC4(F)F)n3)c2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3.4"
+      },
+      {
+        "bdb.monomerid": 690188,
+        "bdb.smile": "CNc1ccn2ncc(C(=O)Nc3cc(ccc3C)-c3nnn(n3)C3CN(C3)C(=O)OC)c2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 34.5"
+      },
+      {
+        "bdb.monomerid": 690198,
+        "bdb.smile": "COCCOc1ccc2c(cnn2c1)C(=O)Nc1cc(ccc1C)-c1nnn(n1)C1CN(C1)C(=O)OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 10.5"
+      },
+      {
+        "bdb.monomerid": 690204,
+        "bdb.smile": "CCOC(=O)N1CC(C1)n1nnc(n1)-c1ccc(C)c(NC(=O)c2cnn3ccc(NCCOC)cc23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 38.6"
+      },
+      {
+        "bdb.monomerid": 690208,
+        "bdb.smile": "COc1ccn2ncc(C(=O)Nc3cc(ccc3C)-c3nnn(n3)C3CN(C3)S(C)(=O)=O)c2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4.5"
+      },
+      {
+        "bdb.monomerid": 690214,
+        "bdb.smile": "COC(=O)N1CC(C1)n1nnc(n1)-c1ccc(C)c(NC(=O)c2cnn3cc(ccc23)N2CCOCC2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 20.1"
+      },
+      {
+        "bdb.monomerid": 690220,
+        "bdb.smile": "Cc1cc(C#N)c(cc1NC(=O)c1cnn2ccc(cc12)N1CCOCC1)-c1nnn(n1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 26.6"
+      },
+      {
+        "bdb.monomerid": 690229,
+        "bdb.smile": "CCCS(=O)(=O)N1CC(C1)n1nnc(n1)-c1ccc(C)c(NC(=O)c2cnn3ccccc23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 28.5"
+      },
+      {
+        "bdb.monomerid": 690230,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccccc12)-c1nnn(n1)C1CN(C1)S(=O)(=O)C1CCOC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 77.8"
+      },
+      {
+        "bdb.monomerid": 690239,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccccc12)-c1nnn(n1)C1CN(C1)S(=O)(=O)CCC(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6.2"
+      },
+      {
+        "bdb.monomerid": 690240,
+        "bdb.smile": "COCCOCCS(=O)(=O)N1CC(C1)n1nnc(n1)-c1ccc(C)c(NC(=O)c2cnn3ccccc23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 160.8"
+      },
+      {
+        "bdb.monomerid": 690249,
+        "bdb.smile": "COC(=O)N1CC(C1)c1nnn(n1)-c1ccc(Cl)c(NC(=O)c2cnn3ccccc23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 11.6"
+      },
+      {
+        "bdb.monomerid": 690255,
+        "bdb.smile": "Cc1ccc(-c2nnn([C@H]3C[C@H](CO)C3)n2)cc1NC(=O)c1cnn2ccccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 16.9"
+      },
+      {
+        "bdb.monomerid": 690265,
+        "bdb.smile": "Cn1nnc(n1)-c1ccc(Cl)c(NC(=O)c2cnn3ccc(cc23)-c2cnn(CC(C)(C)O)c2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 7.4"
+      },
+      {
+        "bdb.monomerid": 690271,
+        "bdb.smile": "CC(C)(O)Cn1cc(cn1)-c1ccn2ncc(C(=O)Nc3cc(ccc3Cl)-n3nnc(n3)C3CC3)c2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2.4"
+      },
+      {
+        "bdb.monomerid": 690281,
+        "bdb.smile": "Cc1cc(Cl)c(NC(=O)c2cnn3ccc(cc23)-c2cnn(CC(C)(C)O)c2)cc1-c1nnn(n1)C1CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1.9"
+      },
+      {
+        "bdb.monomerid": 690296,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cnn2ccc(cc12)-c1cnn(CC(C)(C)O)c1)-c1nnn(n1)C1CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 0.5"
+      },
+      {
+        "bdb.monomerid": 690306,
+        "bdb.smile": "COC[C@@H](O)Cn1cc(cn1)-c1ccn2ncc(C(=O)Nc3cc(-c4nnn(n4)C4CC4)c(C)cc3Cl)c2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3.7"
+      },
+      {
+        "bdb.monomerid": 690316,
+        "bdb.smile": "COC[C@@H](O)Cn1ncc(c1C)-c1ccn2ncc(C(=O)Nc3cc(-c4nnn(n4)C4CC4)c(C)cc3Cl)c2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1.1"
+      },
+      {
+        "bdb.monomerid": 690322,
+        "bdb.smile": "COC[C@@](C)(O)Cn1cc(cn1)-c1ccn2ncc(C(=O)Nc3cc(ccc3C)-c3nnn(n3)C3CC3)c2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1.6"
+      },
+      {
+        "bdb.monomerid": 690332,
+        "bdb.smile": "C[C@H](O)Cn1cc(c(C)n1)-c1ccn2ncc(C(=O)Nc3cc(ccc3Cl)-c3nnn(n3)C3CC3)c2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 0.3"
+      },
+      {
+        "bdb.monomerid": 695926,
+        "bdb.smile": "COc1cc2nn(cc2cc1C(=O)Nc1cccn(C)c1=O)[C@@H]1CC[C@H](C[C@@H]1C)N(C)C(C)=O |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 18300"
+      },
+      {
+        "bdb.monomerid": 695932,
+        "bdb.smile": "COc1cc2nn(cc2cc1C(=O)Nc1cccn(CC#N)c1=O)[C@H]1CC[C@@H](CC1)N(C)C(=O)[C@@H](C)O |r",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2500"
+      },
+      {
+        "bdb.monomerid": 695952,
+        "bdb.smile": "COc1cc2nn([C@H]3CC[C@H](n4cc(C(C)(C)O)nn4)CC3)cc2cc1C(=O)Nc1cccn(C)c1=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6900"
+      },
+      {
+        "bdb.monomerid": 718812,
+        "bdb.smile": "Cc1sc(-c2noc(C3CC(F)(F)C3)n2)cc1NC(=O)c1cnc2ccccn12",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 721742,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c4cnc(C)n4C",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721747,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c4cnn5CCCCc45",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721757,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1nnc2ccccn12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721767,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc2sccn12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721773,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c4cnn5CCCc45",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721783,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnc4nccn4c5",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721793,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2cc(C3CC3)ccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721798,
+        "bdb.smile": "Cc5ccc4c(C(=O)Nc3cc(c2noc([C@H]1C[C@@H]1F)n2)ccc3C)cnn4c5",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721808,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c4cnn5ccc(C=O)cc45",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721814,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc(-c2ccccc2)[nH]1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721818,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn(-c2cccc(Cl)c2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721824,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn(-c2cccc(NC(=O)OC(C)(C)C)c2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721834,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cn4ncsc4n5",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721840,
+        "bdb.smile": "C=CCC6c1ccccc1c5ncc(C(=O)Nc4cc(c3noc([C@H]2C[C@@H]2F)n3)ccc4C)n56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 721849,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6cc(c4cn(CC(F)(F)F)nn4)ccc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721850,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6cc(c4cn(C(F)(F)F)nn4)ccc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721859,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(-c3cn(CC(C)(C)O)nn3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721860,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2cc(-c3cn(C45CC(C4)C5)nn3)ccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 721865,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2cc(C#N)ccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 721869,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(-c3nnn(CC(C)(C)O)n3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721875,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(-c3cnn(CCO)c3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721881,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2cc(-c3c(C)nn(CC(C)(C)O)c3C)ccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721885,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(-c3ccc(F)cc3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 721891,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(-c3cncnc3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721901,
+        "bdb.smile": "Cc1ccc(-c2noc(C3C[C@@H]3F)n2)cc1NC(=O)c1cnn2cc(F)c(-c3c(C)nn(CC(C)(C)O)c3C)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 721916,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6ccc(N4CC(C(C)(C)O)C4)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721926,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(N3C4COCC3C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721932,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(N3CCNC[C@H]3C)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721936,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(N3C[C@H]4C[C@@H]3CO4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721942,
+        "bdb.smile": "CN[C@H]1CCN(c2ccn3ncc(C(=O)Nc4cc(-c5noc([C@H]6C[C@@H]6F)n5)ccc4C)c3c2)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721952,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6ccc(N4CCO[C@@H](C)C4)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721967,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6ccc(N4CCN(CC(F)(F)F)[C@H](C)C4)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721977,
+        "bdb.smile": "CCC7(O)CC6(CN(c5ccn4ncc(C(=O)Nc3cc(c2noc([C@H]1C[C@@H]1F)n2)ccc3C)c4c5)C6)C7",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721983,
+        "bdb.smile": "Cc3ccc(c2noc([C@@H]1C[C@@H](OC(F)(F)F)C1)n2)cc3NC(=O)c6cnn7ccc(N5CC4(COC4)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 721993,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H](OC(F)F)C1(C)C)n2)cc3NC(=O)c6cnn7ccc(N5CC4(CCN(CC(F)F)C4)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722002,
+        "bdb.smile": "O=C(Nc1cc(-c2noc([C@H]3C[C@@H](OC(F)(F)F)C3)n2)ccc1Cl)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722017,
+        "bdb.smile": "Cc4ccc(c3noc([C@H]1C[C@H]2[C@@H](C1)C2(F)F)n3)cc4NC(=O)c7cnn8ccc(N6CC5(COC5)C6)cc78",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722027,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc(-c2cccc(N3CC4(COC4)C3)c2)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722033,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc(-c2ccc3cn[nH]c3c2)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722043,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1CC(=O)c1cnc(-c2ccc3[nH]c(C(F)(F)F)cc3c2)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722053,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnc(N4CC(C(=O)OC(C)(C)C)C4)s5",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722068,
+        "bdb.smile": "Cc1ncc(-c2noc([C@H]3C[C@@H](OC(F)(F)F)C3)n2)cc1NC(=O)c1cnn2cc(-c3cn(CC(C)(C)O)nn3)ccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722078,
+        "bdb.smile": "Cc6cc(C)c(c5ccn4ncc(C(=O)Nc3cc(c2noc([C@H]1C[C@@H]1F)n2)ccc3C)c4c5)c(C)c6",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722084,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6ccc(c4c(C)nc(Cl)nc4C)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722094,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c6cnn7ccc(c5ccc(N4CCOCC4)nc5C)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722100,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c6cnn7ccc(c5cnc(N4CC(F)(F)C4)cc5C)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722104,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6ccc(c4ccc(N)nc4C)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722109,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6ccc(N4CCN(C(=O)C(F)(F)F)[C@H](C)C4)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722110,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c6cnn7ccc(N5CCN(C(=O)C4CC4)[C@H](C)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722119,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c5cnn6ccc(NCC4(C(=O)O)COC4)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722120,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c6cnn7ccc(N5CC4(CN(C(=O)C(F)(F)F)C4)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722129,
+        "bdb.smile": "Cc1ncc(-c2noc([C@H]3CN(CC(F)(F)F)[C@@H]3C)n2)cc1NC(=O)c1cnn2ccc(N3CC4(C3)CC(O)(C(F)F)C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722135,
+        "bdb.smile": "Cc1ncc(-c2noc([C@H]3CN(C(=O)C4(F)CC4)[C@@H]3C)n2)cc1NC(=O)c1cnn2ccc(N3CC4(C3)CC(O)(C(F)F)C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722145,
+        "bdb.smile": "Cc3ccc(c2noc([C@@H]1C[C@H](C(F)(F)F)C1)n2)cc3NC(=O)c6cnn7ccc(N5CC4(COC4)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722151,
+        "bdb.smile": "Cc3ccc(c2noc([C@@H]1C[C@@](O)(C(F)(F)F)C1)n2)cc3NC(=O)c6cnn7ccc(N5CC4(COC4)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722161,
+        "bdb.smile": "O=C(Nc3cc(c2noc([C@@H]1C[C@H](OC(F)F)C1)n2)ccc3Cl)c6cnn7ccc(N4CC5(C4)CC(O)(C(F)(F)F)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722171,
+        "bdb.smile": "Cc1ccc(-c2noc(C3CN(C(=O)N(C)C)C3)n2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722176,
+        "bdb.smile": "Cc1ccc(-c2noc(C3CN(C(=O)NC4CC4)C3)n2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722186,
+        "bdb.smile": "Cc1ncc(-c2noc([C@H]3C[C@H](C(F)(F)F)C3)n2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722196,
+        "bdb.smile": "CC(=O)N1CC2(CC(c3nc(-c4cnc(C)c(NC(=O)c5cnn6ccc(N7CC8(COC8)C7)cc56)c4)no3)C2)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722202,
+        "bdb.smile": "Cc3ccc(c2noc(N1CC(O)(C(F)(F)F)C1)n2)cc3NC(=O)c6cnn7ccc(N5CC4(COC4)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722212,
+        "bdb.smile": "Cc1ccc(-c2noc(C3CCN(C(=O)[C@H]4C[C@@H]4F)C3)n2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722227,
+        "bdb.smile": "Cc1ccc(-c2noc(C3CC4(C3)CN(C(=O)[C@H]3C[C@@H]3F)C4)n2)cc1NC(=O)c1cnn2ccc(N3CC4(C3)CC(O)(CC(F)F)C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722237,
+        "bdb.smile": "Cc1sc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722243,
+        "bdb.smile": "O=C(Nc3cc(c2noc(N1CC(O)(C(F)(F)F)C1)n2)ccc3Cl)c6cnn7ccc(N5CC4(COC4)C5)cc67",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722247,
+        "bdb.smile": "Cc1sc(-c2noc(C3CN(C(=O)[C@H]4C[C@@H]4F)C3)n2)cc1NC(=O)c1cnn2ccc(N3CC4(C3)CC(O)(C(F)F)C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722253,
+        "bdb.smile": "COC(=O)N8CC7(CC(c6nc(c5ccc(C)c(NC(=O)c3cnn4ccc(N2CC1(COC1)C2)cc34)c5)no6)C7)C8",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722263,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c7cnc(c6ccc5CC(=O)C4(CCNCC4)c5c6)o7",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722278,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc(-c2ccc3c(c2)OCCN3)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722288,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc(-c2cccc3[nH]c(=O)[nH]c23)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722294,
+        "bdb.smile": "Cc1nc2cc(-c3ncc(C(=O)Nc4cc(-c5noc([C@H]6C[C@@H]6F)n5)ccc4C)o3)ccc2[nH]1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722298,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc(-c2ccc(F)c3[nH]ncc23)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722304,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c7cnc(c6ccc5oc4ccccc4c5c6)o7",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722310,
+        "bdb.smile": "Cc1ccc(-c2noc([C@H]3C[C@@H]3F)n2)cc1NC(=O)c1cnc(-c2ccc3[nH]c4c(c3c2)CCN(C(=O)OC(C)(C)C)C4)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722314,
+        "bdb.smile": "Cc4ccc(c3noc(C2CN(C(=O)OCc1ccccc1)C2)n3)cc4NC(=O)c7cnc(c6ccc5CC(=O)Nc5c6)o7",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722320,
+        "bdb.smile": "Cc3ccc(c2noc([C@H]1C[C@@H]1F)n2)cc3NC(=O)c6cnc(c5ccc4nn(CC(C)(C)O)cc4c5)o6",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722329,
+        "bdb.smile": "Cc1ncc(-c2nnn(C(C)C)n2)cc1NC(=O)c1cnn2ccc(N3CC4(C3)CC(O)(C(F)F)C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722330,
+        "bdb.smile": "Cc1ncc(-c2nnn(CC3CC3)n2)cc1NC(=O)c1cnn2ccc(N3CC4(C3)CC(O)(C(F)F)C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722339,
+        "bdb.smile": "Cc1ccc(-c2nc3cc(F)ccn3n2)cc1NC(=O)c1cnn2ccc(N3CC4(C3)CC(O)(C(F)F)C4)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722345,
+        "bdb.smile": "COC(=O)N1CCn2nc(-c3ccc(C)c(NC(=O)c4cnn5ccc(N6CC7(C6)CC(O)(C(F)F)C7)cc45)c3)nc2C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722349,
+        "bdb.smile": "Cc2ncc(c1ncc(C(F)(F)F)cn1)cc2NC(=O)c5cnn6ccc(N3CC4(C3)CC(O)(CC(F)F)C4)cc56",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722355,
+        "bdb.smile": "Cc1ccc(-c2nccc(C3CC3)n2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722361,
+        "bdb.smile": "Cc1ccc(-c2cnc(C3CC3)nc2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 722365,
+        "bdb.smile": "Cc1ccc(-c2ncc(C(F)F)cn2)cc1NC(=O)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722371,
+        "bdb.smile": "O=C(Nc1cc(-c2ccc(C3CC3)cn2)ccc1Cl)c1cnn2ccc(N3CC4(COC4)C3)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 722381,
+        "bdb.smile": "Cc1ccc(-c2ncc(OC(F)(F)F)cn2)cc1NC(=O)c1cnc(-c2ccc3c(c2)CC(=O)N3)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 722396,
+        "bdb.smile": "Cc1ccc(-c2nnc([C@H]3C[C@@H]3F)o2)cc1NC(=O)c1cnc(-c2ccc3c(c2)CC(=O)C3)o1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 738446,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3ccc(CC4CC4)cn3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738452,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccc(CC(F)(F)F)cn2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738462,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3ccnc(OC(F)F)c3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738477,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3ccc(OCC(F)F)cn3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738487,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3ccc(CC(F)(F)F)cn3)c(F)cc2Cl)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738493,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3cccc(CC(F)(F)F)n3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738497,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3cnc(C(F)F)cn3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 738503,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3ccc(CC4CC4)c(C)n3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738513,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3cnc(N4CC[C@@H](O)C4)cn3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738528,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)Nc3cnc(OC(F)(F)F)cn3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738538,
+        "bdb.smile": "COC[C@@H]1CCCN1c1cnc(NC(=O)c2cc(NC(=O)c3cnc(C)s3)c(C)cc2F)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738544,
+        "bdb.smile": "Cc1cc(F)c(C(=O)NCC2(F)CC2)cc1NC(=O)c1cnc(NC(=O)N2CCC2)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738548,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccc(OC3CC3)cn2)cc1NC(=O)c1cnc(NC(=O)[C@@H]2CCOC2)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738554,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccc(C(C)(C)O)cn2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738560,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccc(C3(C#N)CC3)nn2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738564,
+        "bdb.smile": "CO[C@H]1C[C@@H](NC(=O)c2cc(NC(=O)c3cnc(N)s3)c(C)cc2F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738570,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccc(OC3CC3)cn2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738579,
+        "bdb.smile": "Cc1cc(F)c(C(=O)N[C@H]2C[C@@H]2F)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738580,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccn(C3CC(F)(F)C3)n2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738589,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccn(CC(F)F)n2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738595,
+        "bdb.smile": "COCCn1ccc(NC(=O)c2cc(NC(=O)c3cnc(N)s3)c(C)cc2F)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738599,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccn(C(C)C)n2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738605,
+        "bdb.smile": "Cc1cc(F)c(C(=O)NCCCN2CCOCC2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738611,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2nc(C3CC3)cs2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738615,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ncn(C)n2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 738621,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2cc3n(n2)CCN(C)C3)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738631,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2cc(C3CC3)ccn2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738646,
+        "bdb.smile": "Nc1ncc(C(=O)Nc2cc(C(=O)Nc3cnc(C4CC4)cn3)c(F)cc2Cl)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738656,
+        "bdb.smile": "COCc1ccc(NC(=O)c2cc(NC(=O)c3cnc(N)s3)c(F)cc2F)nc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 738662,
+        "bdb.smile": "Nc1ncc(C(=O)Nc2cc(C(=O)Nc3ccc(CC(F)(F)F)cn3)c(F)cc2F)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738666,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccc(C(F)C(F)(F)F)cn2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738672,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2ccc(Cl)cc2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738682,
+        "bdb.smile": "CNc1ncc(C(=O)Nc2cc(C(=O)Nc3ccc(OC4CC4)cn3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738687,
+        "bdb.smile": "Cc1cc(F)c(C(=O)Nc2cncc(C(F)F)c2)cc1NC(=O)c1cnc(N)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738697,
+        "bdb.smile": "CO[C@H](C)c1ccc(NC(=O)c2cc(NC(=O)c3cnc(N)s3)c(C)cc2F)nc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 738707,
+        "bdb.smile": "Cc1ncc(C(=O)Nc2cc(C(=O)NCc3ccc(F)c(F)c3)c(F)cc2C)s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<100"
+      },
+      {
+        "bdb.monomerid": 792063,
+        "bdb.smile": "C[C@H](NC(=O)c1ccc2c(c1)[nH]c(=O)n2C)c1ccc(Oc2ccc(F)cc2)nc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5800"
+      },
+      {
+        "bdb.monomerid": 792068,
+        "bdb.smile": "CC(C)N(C)c1ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 96.0"
+      },
+      {
+        "bdb.monomerid": 792078,
+        "bdb.smile": "Cn1c(=O)[nH]c2cc(C(=O)NCc3cnc4c(c3)ncn4-c3c(F)cccc3F)ccc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 660"
+      },
+      {
+        "bdb.monomerid": 792088,
+        "bdb.smile": "O=C(NCc2ccc(Oc1ccc(Cl)cc1)nc2)c4ccc3[nH]c(=O)[nH]c3c4",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 70.0"
+      },
+      {
+        "bdb.monomerid": 792094,
+        "bdb.smile": "Cn1c(=O)[nH]c2cc(C(=O)NCc3ccc(Oc4ccc(F)c(F)c4)nc3)ccc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 310"
+      },
+      {
+        "bdb.monomerid": 792104,
+        "bdb.smile": "Cn1c(=O)[nH]c2cc(C(=O)NCc3ccc(OC4CCC(F)(F)CC4)nc3)ccc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 56.0"
+      },
+      {
+        "bdb.monomerid": 792110,
+        "bdb.smile": "CC(NC(=O)c1ccc2c(c1)[nH]c(=O)n2C)c1ccc(Oc2cccc(F)c2F)nc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 79.0"
+      },
+      {
+        "bdb.monomerid": 792119,
+        "bdb.smile": "CN(c1ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn1)c1ccc(F)cc1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 170"
+      },
+      {
+        "bdb.monomerid": 792120,
+        "bdb.smile": "Cc1ccc(N(C)c2ccc(CNC(=O)c3ccc4c(c3)[nH]c(=O)n4C)cn2)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 37.0"
+      },
+      {
+        "bdb.monomerid": 792129,
+        "bdb.smile": "CN(CC1CCOCC1)c4ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn4",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 84.0"
+      },
+      {
+        "bdb.monomerid": 792130,
+        "bdb.smile": "CN(Cc1cccc(F)c1)c4ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn4",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 27.0"
+      },
+      {
+        "bdb.monomerid": 792139,
+        "bdb.smile": "CC(c1ccccc1)N(C)c4ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn4",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 75.0"
+      },
+      {
+        "bdb.monomerid": 792145,
+        "bdb.smile": "CC(N(C)c3ccc(CNC(=O)c1ccc2c(c1)[nH]c(=O)n2C)cn3)C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 15.0"
+      },
+      {
+        "bdb.monomerid": 792155,
+        "bdb.smile": "CN(c1ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn1)C1CC(F)(F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 60.0"
+      },
+      {
+        "bdb.monomerid": 792161,
+        "bdb.smile": "Cn5c(=O)[nH]c4cc(C(=O)NCc1cnc2c(c1)CCN2c3c(F)cccc3F)ccc45",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55.0"
+      },
+      {
+        "bdb.monomerid": 792171,
+        "bdb.smile": "CN(c1ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn1)[C@H]1CC[C@@H](F)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 33.0"
+      },
+      {
+        "bdb.monomerid": 792181,
+        "bdb.smile": "CN(c3ccc(CNC(=O)c1ccc2c(c1)[nH]c(=O)n2C)cn3)C5CC4(COC4)C5",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 59.0"
+      },
+      {
+        "bdb.monomerid": 792186,
+        "bdb.smile": "CN(c1ccc(CNC(=O)c2ccc3c(c2)[nH]c(=O)n3C)cn1)[C@H]1C[C@@H]1C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 47.0"
+      },
+      {
+        "bdb.monomerid": 792196,
+        "bdb.smile": "CN(c3ccc(CNC(=O)c2cc1[nH]c(=O)[nH]c1cc2F)cn3)C4CCC(F)(F)CC4",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 30.0"
+      },
+      {
+        "bdb.monomerid": 792206,
+        "bdb.smile": "COc1cc(C(=O)NCc2ccc(N(C)[C@H]3C[C@@H](C(F)(F)F)C3)nc2)cc2[nH]c(=O)[nH]c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 15.0"
+      },
+      {
+        "bdb.monomerid": 50004233,
+        "bdb.smile": "Cc1c2ccncc2c(C)c2c1[nH]c1ccccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50035526,
+        "bdb.smile": "Cc1cc(\\C=N\\NC(=O)Nc2ccc(cc2)-c2nc(N3CCOCC3)c3sccc3n2)cc(C)c1O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5600"
+      },
+      {
+        "bdb.monomerid": 50044955,
+        "bdb.smile": "COc1cc2c(Oc3ccc(NC(=O)c4nn(-c5ccc(F)cc5)c(=O)c5ccccc45)cc3F)ccnc2cc1OCCCN1CCCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2.2"
+      },
+      {
+        "bdb.monomerid": 50046565,
+        "bdb.smile": "COc1cc(=O)n(cc1C(=O)NCc1ccc(F)cc1)-c1ccc(Oc2ccnc(N)c2Cl)c(F)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">25000"
+      },
+      {
+        "bdb.monomerid": 50048365,
+        "bdb.smile": "c1cc2c(cc1Cc3nc4cc(ccc4c5n3nc(n5)N)NCCO)OCO2",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50054414,
+        "bdb.smile": "COc1ccc(-c2c[nH]c3ncc(-c4cccc(N(C)C)c4)cc23)cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 29"
+      },
+      {
+        "bdb.monomerid": 50054424,
+        "bdb.smile": "COc1ccc(-c2c[nH]c3ncc(-c4ccc5c(c4)OCO5)cc23)cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 49"
+      },
+      {
+        "bdb.monomerid": 50054449,
+        "bdb.smile": "COc1cccc(-c2c[nH]c3ncc(-c4cccc(N)c4)cc23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 670"
+      },
+      {
+        "bdb.monomerid": 50054455,
+        "bdb.smile": "COc1cc(-c2c[nH]c3ncc(-c4cccc(N)c4)cc23)cc(OC)c1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 98"
+      },
+      {
+        "bdb.monomerid": 50055047,
+        "bdb.smile": "COc1ccc(-c2c[nH]c3ncc(-c4cc(F)cc(F)c4)cc23)cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 102"
+      },
+      {
+        "bdb.monomerid": 50055053,
+        "bdb.smile": "COc1ccc(-c2c[nH]c3ncc(-c4ccccc4N)cc23)cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1330"
+      },
+      {
+        "bdb.monomerid": 50075102,
+        "bdb.smile": "Cc1cn(CCN2CCN(CC2)c2ccccc2-c2cc(cc(c2)C(=O)NCCCN2CCCC2)C#N)c2ccccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">20000"
+      },
+      {
+        "bdb.monomerid": 50095991,
+        "bdb.smile": "CCN1CCN(CC1)c1cc(Nc2ncc(s2)-c2ccc(NC(=O)Nc3cc(CC)on3)cc2)nc(C)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 97"
+      },
+      {
+        "bdb.monomerid": 50103899,
+        "bdb.smile": "COc1cc2c(Oc3ccc(NC(=O)c4[nH]c(=O)n(-c5ccccc5Cl)c4C)cc3F)ccnc2cc1OCCCN1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 38"
+      },
+      {
+        "bdb.monomerid": 50112617,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c2cnc3n2cccc3)CNC(=O)Nc4cccc(c4)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 19"
+      },
+      {
+        "bdb.monomerid": 50117311,
+        "bdb.smile": "COc1cc2c(ncnc2cc1OCCCN1CCC(C)CC1)N1CCN(CC1)C(=O)Nc1ccc(OC(C)C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 21"
+      },
+      {
+        "bdb.monomerid": 50117326,
+        "bdb.smile": "COc1cc2c(ncnc2cc1OCCCN1CCCCC1C)N1CCN(CC1)C(=O)Nc1ccc(cc1)C#N",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6"
+      },
+      {
+        "bdb.monomerid": 50129828,
+        "bdb.smile": "COc1cc2ncnc(Nc3ccc(NC(=O)Nc4cccc(Br)c4)cc3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3.0"
+      },
+      {
+        "bdb.monomerid": 50129838,
+        "bdb.smile": "Brc1cccc(NC(=O)Nc2ccc(Oc3ncnc4ccccc34)cc2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 14"
+      },
+      {
+        "bdb.monomerid": 50157628,
+        "bdb.smile": "CC(=O)N1CCN([C@H]2C[C@@H](n3cc(-c4cccc(OC[C@@H]5CCCO5)c4F)c4c(N)ncnc43)C2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50157879,
+        "bdb.smile": "Nc1ncnc2c1c(-c1cccc(OCc3ccccc3)c1)cn2[C@H]1C[C@@H](CN2CCC2)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3300"
+      },
+      {
+        "bdb.monomerid": 50157880,
+        "bdb.smile": "Nc1ncnc2c1c(-c1cccc(O)c1)cn2[C@H]1C[C@@H](CN2CCC2)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 670"
+      },
+      {
+        "bdb.monomerid": 50174409,
+        "bdb.smile": "Cc1c2ccncc2c(C)c2c1[nH]c1ccc(Br)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50184769,
+        "bdb.smile": "CN(C)C1CCN(CCn2nc(-c3ccc(C)cc3)c3c(N)ncnc23)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 50184785,
+        "bdb.smile": "CN(C)C1CCN(CCn2nc(-c3ccc(CC(=O)OC(C)(C)C)cc3)c3c(N)ncnc23)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 50184862,
+        "bdb.smile": "COc1cc2ncnc(Oc3ccc(NC(=S)NCc4ccccc4)cc3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 303"
+      },
+      {
+        "bdb.monomerid": 50187992,
+        "bdb.smile": "Nc1ncnc2snc(-c3ccc(NC(=O)Nc4cc(ccc4F)C(F)(F)F)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 28"
+      },
+      {
+        "bdb.monomerid": 50187996,
+        "bdb.smile": "Cc1ccc(F)c(NC(=O)Nc2ccc(cc2)-c2nsc3ncnc(N)c23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 7"
+      },
+      {
+        "bdb.monomerid": 50188272,
+        "bdb.smile": "c1cn(Cc2ccc3c(c2)-c2n[nH]c(-c4ccsc4)c2C3)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 103"
+      },
+      {
+        "bdb.monomerid": 50188727,
+        "bdb.smile": "CN1CCN(Cc2ccc3c(c2)Cc2c-3n[nH]c2-c2ccc(CN(C)C(=O)Nc3cccc(OC(F)(F)F)c3)s2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 56"
+      },
+      {
+        "bdb.monomerid": 50188737,
+        "bdb.smile": "Cc1cc(C)cc(NC(=O)NCc2ccc(-c3[nH]nc4c3Cc3cc(CN5CCN(C)CC5)ccc3-4)s2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 27"
+      },
+      {
+        "bdb.monomerid": 50188743,
+        "bdb.smile": "CN1CCN(Cc2ccc3c(c2)Cc2c-3n[nH]c2-c2ccc(CN(C)C(=O)Nc3ccccc3Cl)s2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">50000"
+      },
+      {
+        "bdb.monomerid": 50188753,
+        "bdb.smile": "CN1CCN(Cc2ccc3c(c2)-c2n[nH]c(-c4ccc(CN(C)C(=O)Nc5cccc(Cl)c5)s4)c2C3)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 38"
+      },
+      {
+        "bdb.monomerid": 50188768,
+        "bdb.smile": "CN1CCN(Cc2ccc3c(c2)Cc2c-3n[nH]c2-c2ccc(CNC(=O)Nc3ccccc3C(F)(F)F)s2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 23829"
+      },
+      {
+        "bdb.monomerid": 50205140,
+        "bdb.smile": "COc1cc2c(Oc3ccc(NC(=O)c4nn(-c5ccccc5F)c(=O)n4C)cc3F)ccnc2cc1OCCCN1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3.4"
+      },
+      {
+        "bdb.monomerid": 50207472,
+        "bdb.smile": "Nc1ccc(-c2cccc3[nH]nc(N)c23)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 7360"
+      },
+      {
+        "bdb.monomerid": 50207476,
+        "bdb.smile": "Cc1cccc(NC(=O)Nc2ccc(-c3ccc(CN4CCN(C)CC4)c4[nH]nc(N)c34)cc2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 290"
+      },
+      {
+        "bdb.monomerid": 50207492,
+        "bdb.smile": "Nc1n[nH]c2cccc(-c3ccc(NC(=O)NC4CCCC4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 850"
+      },
+      {
+        "bdb.monomerid": 50207507,
+        "bdb.smile": "Cc1ccc(NC(=O)Nc2ccc(-c3cccc4[nH]nc(N)c34)cc2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 17"
+      },
+      {
+        "bdb.monomerid": 50209143,
+        "bdb.smile": "COCC(=O)Nc1cccc2c1Cc1c-2n[nH]c1-c1ccsc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1580"
+      },
+      {
+        "bdb.monomerid": 50209158,
+        "bdb.smile": "CN1CCN(CC(=O)Nc2cccc3c2Cc2c-3n[nH]c2-c2csc(C#CCOc3ccccc3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 49"
+      },
+      {
+        "bdb.monomerid": 50211224,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2C(F)(F)F)C(=O)Nc2ccc(C)c(OC3CCN(CC3)C(=O)c3ccccn3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 644"
+      },
+      {
+        "bdb.monomerid": 50215761,
+        "bdb.smile": "CNC(=O)Nc1ccc(CNc2ncsc2C(=O)Nc2ccc3OC(F)(F)Oc3c2)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5"
+      },
+      {
+        "bdb.monomerid": 50215765,
+        "bdb.smile": "CCNC(=O)c1cc(CNc2ccccc2C(=O)Nc2ccc3OC(F)(F)Oc3c2)ccn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 25"
+      },
+      {
+        "bdb.monomerid": 50215771,
+        "bdb.smile": "FC1(F)Oc2ccc(NC(=O)c3ccccc3NCc3ccnc(c3)C(=O)NC3CC3)cc2O1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 16"
+      },
+      {
+        "bdb.monomerid": 50215781,
+        "bdb.smile": "FC1(F)Oc2ccc(NC(=O)c3ccccc3NCc3ccncc3)cc2OC1(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 19"
+      },
+      {
+        "bdb.monomerid": 50215796,
+        "bdb.smile": "CN(C)c1nccc(CNc2ccccc2C(=O)Nc2ccc3OC(F)(F)Oc3c2)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 50"
+      },
+      {
+        "bdb.monomerid": 50235922,
+        "bdb.smile": "Cc1[nH]c(C=C2C(=O)Nc3ccc(F)cc32)c(C)c1NC(=O)[C@H]1CCCN1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 227"
+      },
+      {
+        "bdb.monomerid": 50238273,
+        "bdb.smile": "Cc1n[nH]c2nccc(-c3ccc(NC(=O)NCC(C)C)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 320"
+      },
+      {
+        "bdb.monomerid": 50238288,
+        "bdb.smile": "Cc1n[nH]c2nccc(-c3ccc(NC(=O)Nc4ccc(N(C)C)cc4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 9.3"
+      },
+      {
+        "bdb.monomerid": 50238298,
+        "bdb.smile": "CCCCCCNC(=O)Nc1ccc(-c2ccnc3[nH]nc(C)c23)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1.4"
+      },
+      {
+        "bdb.monomerid": 50238304,
+        "bdb.smile": "CCCCNC(=O)Nc1ccc(-c2ccnc3[nH]nc(C)c23)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 20556"
+      },
+      {
+        "bdb.monomerid": 50238314,
+        "bdb.smile": "Cc1n[nH]c2nccc(-c3ccc(NC(=O)Nc4ccccc4N4CCOCC4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6438"
+      },
+      {
+        "bdb.monomerid": 50238320,
+        "bdb.smile": "Cc1n[nH]c2nccc(-c3ccc(NC(=O)Nc4cccc(Cl)c4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2402"
+      },
+      {
+        "bdb.monomerid": 50238329,
+        "bdb.smile": "Cc1n[nH]c2nccc(-c3ccc(NC(=O)NCc4ccco4)cc3)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 51"
+      },
+      {
+        "bdb.monomerid": 50240211,
+        "bdb.smile": "CN1CCN(Cc2ccc(cc2C(F)(F)F)C(=O)Nc2ccc(C)c(NC(=O)c3cccc(c3)-c3ccccn3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 15000"
+      },
+      {
+        "bdb.monomerid": 50240216,
+        "bdb.smile": "Cc1ccc(NC(=O)c2ccc(CN3CCNCC3)c(c2)C(F)(F)F)cc1NC(=O)c1cccc(c1)-c1cnn(C)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3000"
+      },
+      {
+        "bdb.monomerid": 50240780,
+        "bdb.smile": "Cc1n[nH]c2ccc(-c3cc(N[C@@H](CO)c4ccccc4)cnc3-c3cc(F)ccc3O)cc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10.0"
+      },
+      {
+        "bdb.monomerid": 50242164,
+        "bdb.smile": "CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3ccccn3)cc2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 240"
+      },
+      {
+        "bdb.monomerid": 50242170,
+        "bdb.smile": "CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3ccc(OCc4ccccc4)cn3)cc2C(F)(F)F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 121"
+      },
+      {
+        "bdb.monomerid": 50242179,
+        "bdb.smile": "CN1CCN(Cc2ccc(NC(=O)c3ccc(C)c(c3)C#Cc3ccn4ccnc4c3)cc2C(F)(F)F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1.6"
+      },
+      {
+        "bdb.monomerid": 50242180,
+        "bdb.smile": "COc1cccnc1C#Cc1cc(ccc1C)C(=O)Nc1ccc(CN2CCN(C)CC2)c(c1)C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6.7"
+      },
+      {
+        "bdb.monomerid": 50243074,
+        "bdb.smile": "Cc1ccc(cc1NC(=O)c1cncnc1)C(=O)Nc1cccc(c1)C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 108"
+      },
+      {
+        "bdb.monomerid": 50243125,
+        "bdb.smile": "CC(=O)Nc1ccc(NC(=O)c2cc(ccc2C)C(=O)Nc2cccc(c2)C(F)(F)F)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2"
+      },
+      {
+        "bdb.monomerid": 50243182,
+        "bdb.smile": "Cc1ccc(cc1C(=O)Nc2ccc(nc2)N)C(=O)NCCC3CCCC3",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 77"
+      },
+      {
+        "bdb.monomerid": 50243417,
+        "bdb.smile": "Cc1cccc(NC(=O)Nc2ccc(cc2)-c2cnc3c(ccn3c2N)-c2cnn(C)c2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 9"
+      },
+      {
+        "bdb.monomerid": 50244430,
+        "bdb.smile": "Cc1cccc(C)c1\\C=C\\n1cnc2c(Nc3ccc(cc3)P(C)(C)=O)ncnc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 414"
+      },
+      {
+        "bdb.monomerid": 50252779,
+        "bdb.smile": "C[C@H]1COCCN1c1nncc2cc(ccc12)-c1cc(ccc1C)C(=O)NC1CC1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2007"
+      },
+      {
+        "bdb.monomerid": 50260014,
+        "bdb.smile": "CC1CN(Cc2cc(ccc12)C(=O)Nc1ccc(CN2CCN(C)CC2)c(c1)C(F)(F)F)c1cncnc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50260020,
+        "bdb.smile": "CC1CN(Cc2cc(ccc12)C(=O)Nc1cc(CN2CCCCC2)cc(c1)C(F)(F)F)c1cncnc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50260024,
+        "bdb.smile": "CN1CCN(Cc2cc(NC(=O)c3ccc4CCN(Cc4c3)c3cncnc3)cc(c2)C(F)(F)F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50260029,
+        "bdb.smile": "C[C@H]1CN(Cc2c1ccc(c2)NC(=O)c3cc(cc(c3)C(F)(F)F)CN4CCN(CC4)C)c5cncnc5",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50260030,
+        "bdb.smile": "CC1CN(Cc2cc(NC(=O)Nc3cc(CN4CCN(C)CC4)cc(c3)C(F)(F)F)ccc12)c1cncnc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50260039,
+        "bdb.smile": "CC1CN(Cc2cc(ccc12)C(=O)Nc1cc(CN2CCCC2)cc(c1)C(F)(F)F)c1cncnc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50260040,
+        "bdb.smile": "CC1CN(Cc2cc(ccc12)C(=O)Nc1cc(CN2CCN(C)CC2)cc(c1)C1CCCCC1)c1cncnc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50260889,
+        "bdb.smile": "Cc1ccn(-c2ccccc2)c(=O)c1-c1ccc2nc(N)ncc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 210"
+      },
+      {
+        "bdb.monomerid": 50260890,
+        "bdb.smile": "Cc1ccn(-c2ccc(cc2)C(C)(C)C)c(=O)c1-c1ccc2nc(N)ncc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2.1"
+      },
+      {
+        "bdb.monomerid": 50260915,
+        "bdb.smile": "COc1ccc(cc1)-n1ccc(C)c(-c2ccc3nc(N)ncc3c2)c1=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 17"
+      },
+      {
+        "bdb.monomerid": 50260941,
+        "bdb.smile": "Cc1ccn(-c2ccc(Cl)c(F)c2)c(=O)c1-c1ccc2nc(N)ncc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 22"
+      },
+      {
+        "bdb.monomerid": 50260972,
+        "bdb.smile": "Cc1ccn(-c2ccc(cc2)N2CCOCC2)c(=O)c1-c1ccc2nc(N)ncc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 13"
+      },
+      {
+        "bdb.monomerid": 50264361,
+        "bdb.smile": "CC(C)(C)c1cccc(Nc2noc3c(C(=O)Nc4cncnc4)c(Cl)ccc23)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5"
+      },
+      {
+        "bdb.monomerid": 50264392,
+        "bdb.smile": "CC(=O)Nc1ccc(NC(=O)c2c(Cl)ccc3c(Nc4cccc(c4)C(F)(F)F)noc23)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1"
+      },
+      {
+        "bdb.monomerid": 50264437,
+        "bdb.smile": "Nc1ncc(NC(=O)c2c(Cl)ccc3c(Nc4cccc(c4)C(F)(F)F)noc23)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1"
+      },
+      {
+        "bdb.monomerid": 50270425,
+        "bdb.smile": "OCc1cc(Oc2ccc3c(cccc3c2)C(=O)Nc2cccc(c2)C(F)(F)F)ncn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 30"
+      },
+      {
+        "bdb.monomerid": 50277584,
+        "bdb.smile": "Cc1cc(Nc2cc(N3CCN(C)CC3)nc(C=Cc3ccccc3)n2)[nH]n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 120"
+      },
+      {
+        "bdb.monomerid": 50283690,
+        "bdb.smile": "O=C(Nc1ccc(Oc2ccnc3[nH]ccc23)cc1)c1nn(-c2ccc(Cl)c(C(F)(F)F)c2)ccc1=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2200"
+      },
+      {
+        "bdb.monomerid": 50303221,
+        "bdb.smile": "Cn1c(=O)c(-c2c(Cl)cccc2Cl)cc2cnc(Nc3ccc(I)cc3)nc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 766"
+      },
+      {
+        "bdb.monomerid": 50303225,
+        "bdb.smile": "CC(=O)Nc1ccc(Nc2ncc3cc(-c4c(Cl)cccc4Cl)c(=O)n(C)c3n2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 50303231,
+        "bdb.smile": "CCc1cccc(Nc2ncc3cc(-c4c(Cl)cccc4Cl)c(=O)n(C)c3n2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 50306677,
+        "bdb.smile": "C[C@@H](Oc1ccc2ncc(\\C=C\\C(N)=O)cc2c1)c1c(Cl)ccc(F)c1Cl |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">50000"
+      },
+      {
+        "bdb.monomerid": 50307880,
+        "bdb.smile": "CC(C)(C)c1cc(NC(=O)c2cccc(Oc3cccc4[nH]c(=O)[nH]c34)c2)n(-c2ccccc2)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 883"
+      },
+      {
+        "bdb.monomerid": 50309910,
+        "bdb.smile": "COc1c(Cl)cc2c([nH]c3cnccc32)c1NC(=O)c1cccnc1C",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50314789,
+        "bdb.smile": "Cc1ccc(cc1-c1ccc2c(nncc2c1)-c1ccccc1F)C(=O)NC1CC1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 2.4"
+      },
+      {
+        "bdb.monomerid": 50321900,
+        "bdb.smile": "COc1ccc(NC(=O)Nc2ccc3c(c2)NC(=O)/C3=C\\c2[nH]c(C)c(CCC(=O)O)c2C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4.5"
+      },
+      {
+        "bdb.monomerid": 50321909,
+        "bdb.smile": "O=C(Nc1ccc(-c2ccccc2)cc1)Nc1ccc2c(c1)NC(=O)/C2=C\\c1ccc[nH]1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 7.2"
+      },
+      {
+        "bdb.monomerid": 50331031,
+        "bdb.smile": "Cc1c(/C=C2\\C(=O)Nc3ccc(F)cc32)[nH]c2c1C(=O)N(CCN1CCOCC1)CCC2",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4"
+      },
+      {
+        "bdb.monomerid": 50336462,
+        "bdb.smile": "COc1cc(O)c2c(c1)/C=C/CCCC(=O)C[C@H](Br)C[C@H](C)OC2=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2800"
+      },
+      {
+        "bdb.monomerid": 50341521,
+        "bdb.smile": "CNc1cc(-c2c[nH]c(=O)c(NC(=O)c3ccc(N4CCCCC4)cc3)c2)ccn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 12"
+      },
+      {
+        "bdb.monomerid": 50341540,
+        "bdb.smile": "CC(C)(C)c1ccc(C(=O)Nc2cc(-c3ccncc3)c[nH]c2=O)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 27"
+      },
+      {
+        "bdb.monomerid": 50346243,
+        "bdb.smile": "Oc1ccccc1C1CC(=NN1C(=O)c1ccco1)c1cccnc1 |c:10|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50352763,
+        "bdb.smile": "CCCc1cc2c(cc1N1CCN(C3COC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">5000"
+      },
+      {
+        "bdb.monomerid": 50355467,
+        "bdb.smile": "COc1ccc(cc1Nc1nc(N)n(n1)-c1ccccn1)N1CCOCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2300"
+      },
+      {
+        "bdb.monomerid": 50355479,
+        "bdb.smile": "COc1ccccc1Nc1nc(N)n(n1)-c1cc(NCCN(C)C)ncn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 270"
+      },
+      {
+        "bdb.monomerid": 50355485,
+        "bdb.smile": "Nc1nc(Nc2ccc(cc2)C(=O)N2CCOCC2)nn1-c1ccccn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 21"
+      },
+      {
+        "bdb.monomerid": 50355504,
+        "bdb.smile": "COc1cc2c(Oc3ccc(NC(=O)C4(C(=O)NC5=CCC(F)C=C5)CC4)cc3F)ccnc2cc1OCCCN1CCOCC1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 2.1"
+      },
+      {
+        "bdb.monomerid": 50362779,
+        "bdb.smile": "Cc1cc2c(cc1N1CCC(N3CCOCC3)CC1)C(C)(C)c1[nH]c3cc(C#N)ccc3c1C2=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1057"
+      },
+      {
+        "bdb.monomerid": 50362780,
+        "bdb.smile": "CC1(C)c2cc(N3CCC(N4CCOCC4)CC3)ccc2C(=O)c2c1[nH]c1cc(C#N)ccc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 2991"
+      },
+      {
+        "bdb.monomerid": 50362980,
+        "bdb.smile": "CN(C)CCCc1ccc(Cl)c(Nc2ncc3CC(=S)Nc4cc(Cl)ccc4-c3n2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 720"
+      },
+      {
+        "bdb.monomerid": 50363167,
+        "bdb.smile": "Cn1c2c(C(C#N)C3(CCNCC3)NC2=O)c2ccc(Cl)c(Cl)c12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50363397,
+        "bdb.smile": "CNC(=O)c1cc(ccn1)Oc2ccc(c(c2)F)NC(=O)Nc3ccc(c(c3)C(F)(F)F)Cl",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6.1"
+      },
+      {
+        "bdb.monomerid": 50376359,
+        "bdb.smile": "Nc1ncnc2NCCC(=Nc12)c1ccc(NC(=O)Nc2cccc(c2)C(F)(F)F)cc1 |c:9|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6"
+      },
+      {
+        "bdb.monomerid": 50376360,
+        "bdb.smile": "Nc1nc(N)c2N=C(CCNc2n1)c1ccc(NC(=O)Nc2ccccc2)cc1 |c:6|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">13000"
+      },
+      {
+        "bdb.monomerid": 50381698,
+        "bdb.smile": "Cc1cccc(NC(=O)Nc2ccc(-c3csc4c(-c5cn[nH]c5)cnc(N)c34)cc2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4.28"
+      },
+      {
+        "bdb.monomerid": 50381719,
+        "bdb.smile": "C[C@@H](O)Cn1cc(cn1)-c1cnc(N)c2c(csc12)-c1ccc(NC(=O)Nc2cccc(F)c2)cc1 |r|",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 40"
+      },
+      {
+        "bdb.monomerid": 50382959,
+        "bdb.smile": "COc1cc2ncnc(Oc3cccc(NC(=O)Nc4cc(on4)C(C)(C)C(F)(F)F)c3)c2cc1OC",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 2"
+      },
+      {
+        "bdb.monomerid": 50383191,
+        "bdb.smile": "CC1=C(C(=O)N(N1C)c2ccccc2)C(=O)Nc3ccc(c(c3)F)Oc4ccnc5c4cc(c(c5)OC)OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 100"
+      },
+      {
+        "bdb.monomerid": 50388875,
+        "bdb.smile": "C[C@@H](O)Cn1cc(cn1)-c1cnc(N)c2c(csc12)-c1ccc(NC(=O)Nc2cccc(C)c2)cc1 |r|",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 10"
+      },
+      {
+        "bdb.monomerid": 50393541,
+        "bdb.smile": "CS(=O)(=O)CCN1CCC(c2ccc(NC(=O)c3ncc(C#N)[nH]3)c(C3=CCCCC3)c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 12"
+      },
+      {
+        "bdb.monomerid": 50399676,
+        "bdb.smile": "CN1CCN(CC1)c2ccc(cc2)Nc3ncc4c(n3)n(c(n4)Nc5ccccc5)C6CCCC6",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 540"
+      },
+      {
+        "bdb.monomerid": 50400600,
+        "bdb.smile": "CN1C(C)(C)CC(CC1(C)C)Oc1ccc(nc1)C(=O)Nc1ccc(NC(=O)Nc2cc(on2)C(C)(C)C)cc1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 1.1"
+      },
+      {
+        "bdb.monomerid": 50430841,
+        "bdb.smile": "CN1CCN(Cc2cc(NC(=O)c3ccc(Cl)c(c3)C#Cc3cnc4ccnn4c3)cc(c2)C(F)(F)F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1500"
+      },
+      {
+        "bdb.monomerid": 50430856,
+        "bdb.smile": "Cc1ccc(cc1C#Cc1cnc2ccnn2c1)C(=O)Nc1ccc(cc1)C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 50430866,
+        "bdb.smile": "Cc1ccc(cc1C#Cc1cnc2ccnn2c1)C(=O)Nc1ccccc1Cl",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 8320"
+      },
+      {
+        "bdb.monomerid": 50430872,
+        "bdb.smile": "Cc1ccc(cc1C#Cc1cnc2ccnn2c1)C(=O)NC1CCCCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 200"
+      },
+      {
+        "bdb.monomerid": 50453686,
+        "bdb.smile": "CCCNC(=O)c1cc(Oc2ccc(NC(=O)c3cc4cccnc4n(-c4ccc(F)cc4)c3=O)cc2)ccn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 529"
+      },
+      {
+        "bdb.monomerid": 50454070,
+        "bdb.smile": "Cc1cc(=O)n(nc1C(=O)Nc1ccc(Oc2ncnc3ccsc23)c(F)c1)-c1ccc(F)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3700"
+      },
+      {
+        "bdb.monomerid": 50455353,
+        "bdb.smile": "CNc1ncc2c(nn(Cc3cn(Cc4ccccc4)nn3)c2n1)-c1ccc(nc1)N1CCNCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50461386,
+        "bdb.smile": "CNC(=O)c1ccc(Sc2cccc(NC(=S)Nc3ccc(Cl)c(c3)C(F)(F)F)c2)nc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 50463463,
+        "bdb.smile": "COc1cc(Nc2nc(nc3COCc23)N2CCC(C2)NC(=O)c2ccc(cn2)C(O)=O)cc(OC)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 18600"
+      },
+      {
+        "bdb.monomerid": 50467574,
+        "bdb.smile": "COCCNCc1ccc(nc1)-c1cc2nccc(Oc3ccc(NC(=O)C4(CC4)C(=O)Nc4ccc(F)cc4)cc3F)c2s1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6.0"
+      },
+      {
+        "bdb.monomerid": 50469353,
+        "bdb.smile": "CCC[C@H](C)Nc1ncc2c(-c3ccc(CN4CCCN(C)CC4)cc3)cn([C@H]3CC[C@H](O)CC3)c2n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 50507645,
+        "bdb.smile": "CN1CCC(Nc2ccc(C(=O)Nc3cc(-c4cc(C#N)cs4)n[nH]3)cc2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 47"
+      },
+      {
+        "bdb.monomerid": 50510569,
+        "bdb.smile": "COc1cc2c(Oc3ccc(NC(=O)NS(=O)(=O)Cc4ccc(F)cc4)cc3F)ccnc2cc1OCCCN1CCCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 380"
+      },
+      {
+        "bdb.monomerid": 50511479,
+        "bdb.smile": "CCc1ccc(cc1-c1cc(F)cc(c1)-c1cnc2cnccn12)C(=O)Nc1cccc(c1)C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 6591"
+      },
+      {
+        "bdb.monomerid": 50511485,
+        "bdb.smile": "CCc1ccc(cc1-c1cc(ccc1C)-c1cnc2cnccn12)C(=O)Nc1cccc(c1)C(F)(F)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50511495,
+        "bdb.smile": "CCc1ccc(cc1-c1cccc(c1)-c1cnc2cnccn12)C(=O)Nc1ccccc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 8990"
+      },
+      {
+        "bdb.monomerid": 50519723,
+        "bdb.smile": "CCN1CCN(CC1)c1cc(Nc2ncc(s2)-c2cccnc2)nc(C)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 69"
+      },
+      {
+        "bdb.monomerid": 50519733,
+        "bdb.smile": "Cc1nc(Nc2ncc(s2)-c2ccncc2)cc(n1)N1CCN(CCF)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 47"
+      },
+      {
+        "bdb.monomerid": 50521629,
+        "bdb.smile": "CCN1CCN(CC1)c1cc(Nc2nc(C)c(s2)-c2ccc(NC(=O)Nc3cc(CC)on3)cc2)ncn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 122"
+      },
+      {
+        "bdb.monomerid": 50521635,
+        "bdb.smile": "CCN1CCN(CC1)c1cc(Nc2nc(cs2)-c2ccc(NC(=O)Nc3cc(CC)on3)cc2)nc(C)n1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 950"
+      },
+      {
+        "bdb.monomerid": 50525511,
+        "bdb.smile": "CCOC(=O)c1ccc(Nc2ccnc(SCC(=O)c3ccc(cc3)C#N)n2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5160"
+      },
+      {
+        "bdb.monomerid": 50530388,
+        "bdb.smile": "CNC(=O)c1cnc(Nc2ccc(C)nn2)cc1Nc1ccccc1S(C)(=O)=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">2000"
+      },
+      {
+        "bdb.monomerid": 50530398,
+        "bdb.smile": "CNC(=O)c1cnc(cc1Nc2ccccc2S(=O)(=O)C)Nc3ccc(cn3)F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 100"
+      },
+      {
+        "bdb.monomerid": 50538508,
+        "bdb.smile": "COC(=O)Nc1ccc(cc1)-c1c(OC2CCN(C)CC2)nc2c(cnn2c1N)-c1ccc(OC)c(OC)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 20"
+      },
+      {
+        "bdb.monomerid": 50544962,
+        "bdb.smile": "CN1CCN(CC1)c1cc(NC(=O)c2ccc(C)c(Nc3nccc(n3)-c3ccc(F)cc3)c2)cc(c1)-c1cc(C)no1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3100"
+      },
+      {
+        "bdb.monomerid": 50544977,
+        "bdb.smile": "CN1CCN(CC1)c1cc(NC(=O)c2ccc(C)c(Oc3ccccc3)c2)cc(c1)-n1cnc(C)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50555904,
+        "bdb.smile": "COc1cc2c(Oc3ccc(NC(=O)NN4C(SCC4=O)c4c(F)cccc4F)cc3)ccnc2cc1OC1CCN(CC1)C(=O)NC(C)C",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10000"
+      },
+      {
+        "bdb.monomerid": 50559897,
+        "bdb.smile": "CC(C)COC(=O)N1CCN(CC1)C(=O)C=CC(=O)Nc1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 21"
+      },
+      {
+        "bdb.monomerid": 50560789,
+        "bdb.smile": "COc1cc(OCc2ccnc(N)n2)c(Cl)c2sc(N[C@H]3CCCC[C@@H]3O)nc12 |r|",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": ">30000"
+      },
+      {
+        "bdb.monomerid": 50560795,
+        "bdb.smile": "COc1cc(OCc2ccnc(N)n2)cc2sc(N[C@@H]3CCCC[C@H]3O)nc12 |r|",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 4800"
+      },
+      {
+        "bdb.monomerid": 50560801,
+        "bdb.smile": "Nc1nccc(COc2ccc3nc(N[C@@H]4CCCC[C@H]4O)sc3c2Cl)c1Cl |r|",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 530"
+      },
+      {
+        "bdb.monomerid": 50563891,
+        "bdb.smile": "CC(C)(C)c1cc(NC(=O)Nc2ccc(Nc3ncnc4NCCCOc34)cc2)no1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 218"
+      },
+      {
+        "bdb.monomerid": 50564969,
+        "bdb.smile": "COCC\\C(Nc1ccc(Oc2ccnc3cc(OCCCN4CCOCC4)c(OC)cc23)c(F)c1)=N/S(=O)(=O)Cc1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4.3"
+      },
+      {
+        "bdb.monomerid": 50572096,
+        "bdb.smile": "COc1ccn2c(cnc2c1)-c1cc(NCc2ccc(cc2)-c2cnn(C)c2)ncn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 8.6"
+      },
+      {
+        "bdb.monomerid": 50572102,
+        "bdb.smile": "CN1CC(COc2ccn3c(cnc3c2)-c2cc(NCc3ccc(cc3)-c3cnn(C)c3)ncn2)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.1"
+      },
+      {
+        "bdb.monomerid": 50575344,
+        "bdb.smile": "CC(=O)N1CCN([C@H]2C[C@@H](n3cc(-c4cc(O)ccc4F)c4c(N)ncnc43)C2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3400"
+      },
+      {
+        "bdb.monomerid": 50584957,
+        "bdb.smile": "CN1CCN(CC1)C(=O)c1ccc(Nc2ncc(c(NCC3CCNCC3)n2)C(F)(F)F)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">10.0"
+      },
+      {
+        "bdb.monomerid": 50584967,
+        "bdb.smile": "NC(=O)c1ccc(Nc2ncc(C(F)(F)F)c(N[C@H]3CC[C@H](O)CC3)n2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 355"
+      },
+      {
+        "bdb.monomerid": 50584973,
+        "bdb.smile": "N[C@H]1CC[C@@H](Nc2nc(Nc3ccc(NC(=O)C4CC4)cc3)ncc2C(F)(F)F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3049"
+      },
+      {
+        "bdb.monomerid": 50584977,
+        "bdb.smile": "N[C@H]1CC[C@@H](Nc2nc(Nc3ccc4c(=O)n(CCO)ccc4c3)ncc2C(F)(F)F)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4118"
+      },
+      {
+        "bdb.monomerid": 50588766,
+        "bdb.smile": "CNC(=O)c1cc(F)c(F)c(c1)-c1cnc2cc(-c3cnn(C)c3)c(O[C@H]3CCOC3)nn12 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1449"
+      },
+      {
+        "bdb.monomerid": 50617916,
+        "bdb.smile": "CC(C)(O)CC(=O)N1CCc2cc(Nc3ncc(C(F)(F)F)c(N[C@H]4CC[C@@H](N)CC4)n3)ccc2C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1874"
+      },
+      {
+        "bdb.monomerid": 50617932,
+        "bdb.smile": "C[C@H](O)C(=O)N1CCc2cc(Nc3ncc(C(F)(F)F)c(N[C@H]4CC[C@@H](N)CC4)n3)ccc2C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 705"
+      },
+      {
+        "bdb.monomerid": 50617942,
+        "bdb.smile": "CC(=O)N1CCc2cc(Nc3ncc(C(F)(F)F)c(N[C@H]4CC[C@@H](N)CC4)n3)ccc21",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 4777"
+      },
+      {
+        "bdb.monomerid": 50621890,
+        "bdb.smile": "CCOc1cc(ccc1Nc1ncc2cc(-c3cccc(NC(=O)c4cccc(c4)C(F)(F)F)c3)c(=O)n(C[C@H]3CCCO3)c2n1)N1CCN(C)CC1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 1230"
+      },
+      {
+        "bdb.monomerid": 50623627,
+        "bdb.smile": "CC(C)(C)c1cc(NC(=O)Nc2ccc(-c3cc(-c4ccc(OCCN5CCOCC5)cc4)[nH]n3)cc2)no1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 22"
+      },
+      {
+        "bdb.monomerid": 50631824,
+        "bdb.smile": "CS(=O)(=O)N1CCc2cc(Nc3ncc(c(NCCCN)n3)C(F)(F)F)ccc2C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 10498"
+      },
+      {
+        "bdb.monomerid": 50632094,
+        "bdb.smile": "CN(Cc1ccc(nc1)N1CCCC1)c1cncc(c1)-c1cnc2ccccn12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 240"
+      },
+      {
+        "bdb.monomerid": 50632100,
+        "bdb.smile": "COCCOc1ccn2c(cnc2c1)-c1cncc(NCc2ccc(nc2)N2CCCC2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 12"
+      },
+      {
+        "bdb.monomerid": 50632109,
+        "bdb.smile": "Cn1cc(cn1)-c1ccc(CNc2cc(ncn2)-c2cnc3cc(OCCN4CCn5nncc5C4)ccn23)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 76"
+      },
+      {
+        "bdb.monomerid": 50632110,
+        "bdb.smile": "Cn1cc(cn1)-c1ccc(CNc2cc(ncn2)-c2cnc3cc(OCCCNC4COC4)ccn23)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 56"
+      },
+      {
+        "bdb.monomerid": 50634621,
+        "bdb.smile": "COc1cc2nn([C@H]3CC[C@H](N(C)C(=O)[C@@H](C)O)CC3)cc2cc1C(=O)Nc1cccn(CF)c1=O",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 3300"
+      },
+      {
+        "bdb.monomerid": 50666451,
+        "bdb.smile": "C=CC(=O)Nc1ccc(C(=O)Nc2ccc(C)c(C#Cc3cnc4cccnn34)c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.9"
+      },
+      {
+        "bdb.monomerid": 50666455,
+        "bdb.smile": "Cc1ccc(NC(=O)c2ccc3sc(-c4c[nH]nc4C(C)C)nc3c2)cc1C#Cc1cnc2cccnn12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 616"
+      },
+      {
+        "bdb.monomerid": 50666461,
+        "bdb.smile": "C=CC(=O)Nc1ccc(NC(=O)c2ccc(C)c(C#Cc3cnc4cccnn34)c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 7.7"
+      },
+      {
+        "bdb.monomerid": 50666471,
+        "bdb.smile": "COC(=O)c1cc(NC(=O)c2ccc(C)c(C#Cc3cnc4cccnn34)c2)ccc1NCc1ccccc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 167"
+      },
+      {
+        "bdb.monomerid": 175224,
+        "bdb.smile": "C[C@@H](NCC1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(C)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175228,
+        "bdb.smile": "Cc1csc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2cnn(C)c2)c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175234,
+        "bdb.smile": "Cc1cc(ccc1NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)C#N",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175428,
+        "bdb.smile": "CCc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2cnn(C)c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175434,
+        "bdb.smile": "Cc1ccc(s1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175438,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175444,
+        "bdb.smile": "Cn1cc(-c2cc3c(N4CC(NC(=O)Cc5c[nH]c6ccccc56)C4)ncnn3c2)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175450,
+        "bdb.smile": "COc1ccc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175454,
+        "bdb.smile": "CC(C)n1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175460,
+        "bdb.smile": "COC1(CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175469,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175470,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)NCc1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175479,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2cnn(c2)C2CCC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175485,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2cnn(c2)C(C)(C)C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175489,
+        "bdb.smile": "CC(C)n1cc(c(N)n1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175495,
+        "bdb.smile": "CC(C)n1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](C)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175521,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)Nc1ccc(Br)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175536,
+        "bdb.smile": "CC(C)(O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)Nc1ccc(cc1)C#N",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175556,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)NCc1ccc(Cl)cc1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175562,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc3OCCOc3c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175587,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(c1)C1COC1)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175597,
+        "bdb.smile": "CC(C)n1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](C)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175607,
+        "bdb.smile": "CC(C)(C)Oc1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)Nc1ccc(cc1)C#N",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175613,
+        "bdb.smile": "CN(C)C(=O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175623,
+        "bdb.smile": "CC(C(=O)NC1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(Cl)cc1Cl",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175638,
+        "bdb.smile": "COC(C)(C)Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175648,
+        "bdb.smile": "CC[C@H](O)Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](C)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175654,
+        "bdb.smile": "Cc1nn(C)cc1-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](CCO)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175658,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(CCO)c1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175664,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C(C)(O)C2CC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175670,
+        "bdb.smile": "CCC(C)(C)Oc1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175679,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)C2=CCN(CC2)C(=O)C(C)(C)C)cc1 |t:25|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175680,
+        "bdb.smile": "C[C@H](NC(=O)C1(C)CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)C(C)(C)O)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175689,
+        "bdb.smile": "CC[C@H](NC(=O)C1(C)CN(C1)c1ncnn2cc(cc12)-c1cnn2CCCc12)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175690,
+        "bdb.smile": "COC(=O)N1CCC(=CC1)c1cc2c(ncnn2c1)N1CC(C1)(OC)C(=O)NCc1ccc(C)cc1 |c:7|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175699,
+        "bdb.smile": "COC[C@H](O)Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](C)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175705,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(CC(C)(C)O)c1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175715,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)N1CCCC1=O)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175721,
+        "bdb.smile": "O=C(N[C@@H](CCO)c1ccc(Cl)cc1)C1CN(c2ncnn3cc(C4=CCC(F)(F)CC4)cc23)C1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175725,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)C(C)(C)O)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175731,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)[C@H](O)CO)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 175746,
+        "bdb.smile": "CS(=O)(=O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(Cl)cc1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175756,
+        "bdb.smile": "CCC(=O)N1CC=C(c2cc3c(N4CC(C(=O)N[C@@H](CCO)c5ccc(Cl)cc5)C4)ncnn3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175766,
+        "bdb.smile": "CCC(=O)N1CC=C(c2cc3c(N4CC(C)(C(=O)N[C@@H](CCO)c5ccc(Cl)cc5)C4)ncnn3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.00"
+      },
+      {
+        "bdb.monomerid": 175772,
+        "bdb.smile": "CC(C)(C)OC(=O)N1CC=C(c2cc3c(N4CC(C)(C(=O)N[C@@H](CCO)c5ccc(Cl)cc5)C4)ncnn3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.50"
+      },
+      {
+        "bdb.monomerid": 342208,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(F)cc6)cc45)CC3)nc2C)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342214,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5cnn(C)c5)cc34)CC2)[nH]c1-c1ccccc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342220,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6ccc(F)cc6)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342227,
+        "bdb.smile": "CCc1ccc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccnc(OC)c6)cc45)CC3)nc2C)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342233,
+        "bdb.smile": "CCOc1ccc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccc(F)cc6)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342246,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5ccnc(OC(C)C)c5)cc34)CC2)[nH]c1-c1ccccc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342252,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5ccc(F)cc5)cc34)CC2)[nH]c1-c1ccc2c(c1)OCCO2",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342259,
+        "bdb.smile": "COc1cc(-c2cc3c(N4CCC(c5nc(C)c(-c6ccc(OC(C)C)cc6)[nH]5)CC4)ncnc3[nH]2)ccn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342265,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5ccnc(C(F)(F)F)c5)cc34)CC2)[nH]c1-c1ccccc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342271,
+        "bdb.smile": "COc1cc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccc(F)cc6)cc45)CC3)nc2C)ccc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342278,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5ccc(C#N)cc5)cc34)CC2)[nH]c1-c1ccc2c(c1)OC(F)(F)O2",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342284,
+        "bdb.smile": "Cc1nc(C2CCN(c3ncnc4[nH]c(-c5cnn(C(F)F)c5)cc34)CC2)[nH]c1-c1ccc(OC(F)(F)F)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342290,
+        "bdb.smile": "Cc1nn(C)cc1-c1cc2c(N3CCC(c4nc(C)c(-c5ccc(OC(F)(F)F)cc5)[nH]4)CC3)ncnc2[nH]1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342297,
+        "bdb.smile": "COc1cc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(C)cc45)CC3)nc2C)ccc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 342303,
+        "bdb.smile": "Cc1ccc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccc(F)cc6)cc45)CC3)nc2C(F)(F)F)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342309,
+        "bdb.smile": "CCC1(c2nc(C)c(-c3ccc(OC)c(C)c3)[nH]2)CCN(c2ncnc3[nH]c(C)cc23)CC1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342322,
+        "bdb.smile": "COc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6cnn(C(F)F)c6)cc45)CC3)nc2C)cc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342341,
+        "bdb.smile": "COc1ncc(-c2[nH]c(C3CCN(c4ncnc5[nH]c(-c6ccc(C#N)cc6)cc45)CC3)nc2C)cc1F",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342354,
+        "bdb.smile": "COc1ccc(-c2nc(C3(C)CCN(c4ncnc5[nH]c(C)cc45)CC3)[nH]c2C)cn1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342360,
+        "bdb.smile": "Cc1nc(C2(C)CCN(c3ncnc4[nH]c(-c5cnn(C(F)F)c5)cc34)CC2)[nH]c1-c1cccc(OC(F)F)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342366,
+        "bdb.smile": "CCc1[nH]c(C2CCN(c3ncnc4[nH]c(-c5ccc(C#N)cc5)cc34)CC2)nc1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342373,
+        "bdb.smile": "CCOc1ccc(-c2[nH]c(C3(C)CCN(c4ncnc5[nH]c(-c6cnn(C(F)F)c6)cc45)CC3)nc2C)cc1F",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342404,
+        "bdb.smile": "Cc1nc(C2(C)CCN(c3ncnc4[nH]c(-c5ccc(OCC(=O)O)cc5)cc34)CC2)[nH]c1-c1ccc(OC(F)F)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 342417,
+        "bdb.smile": "Cc1nc(C2(C)CCN(c3ncnc4[nH]c(-c5ccc(NS(C)(=O)=O)cc5)cc34)CC2)[nH]c1-c1ccc(OC(F)F)cc1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 500"
+      },
+      {
+        "bdb.monomerid": 392364,
+        "bdb.smile": "O=C(Nc1cnc2[nH]c(-c3ccccc3)cc2c1)c1cc(C2CC2)n[nH]1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": "<1000"
+      },
+      {
+        "bdb.monomerid": 392428,
+        "bdb.smile": "COc1ccc(Cl)c(-c2cc3cc(NC(=O)c4[nH]nc(C)c4C)cnc3[nH]2)c1",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 392434,
+        "bdb.smile": "Cc1n[nH]c(C(=O)Nc2cnc3[nH]c(-c4cc(OC(F)(F)F)ccc4Cl)cc3c2)c1C",
+        "bdb.affinity_type": "Ki",
+        "bdb.affinity": " 5500"
+      },
+      {
+        "bdb.monomerid": 397791,
+        "bdb.smile": "C(c1ccccc1)c1cnc(nc1)N1CCN(CC1)c1ncnc2CNCc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 397806,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Nc4ccncc4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 397816,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(C[C@@H]3C)c3ncc(Cc4ccccc4)cn3)c2cc1OC |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 397826,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(OCc4ccccc4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397832,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(OCc4cccs4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397842,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(NCc4ccc(C)cc4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397852,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(OC(C)c4ccccc4)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397867,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(cn3)S(=O)(=O)c3ccccc3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 397873,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OCC(O)CO",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 397877,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccc(cc4)C(F)(F)F)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 397883,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(OCc4ccc(cc4)C(C)(C)C)cn3)c2cc1OC",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 397893,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OC[C@H]1CNCCO1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 397908,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(c4ncc(Cc5ccccc5)c(=O)[nH]4)CC3)c2cc1OCC1CNCCO1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1"
+      },
+      {
+        "bdb.monomerid": 397918,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OC1CCN(CCO)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 397924,
+        "bdb.smile": "CCOc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)c(N)n3)c2cc1OCC1CCN(C)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1"
+      },
+      {
+        "bdb.monomerid": 397928,
+        "bdb.smile": "COc1cc2ncnc(N3CCN(CC3)c3ncc(Cc4ccccc4)cn3)c2cc1OCC1CCN(CCO)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 469236,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ccc(cn1)C(O)c1ccccc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 469246,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@](C)(N)c1ccccc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 469252,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@@H](N)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 469256,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@@H](O)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 469262,
+        "bdb.smile": "CN(C)[C@H](c1ccccc1)c1cnc(nc1)N1CCN(CC1)c1ncnn2cc(cc12)-c1cnn(C)c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 469272,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@@](C)(O)c1ccccc1F |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.0"
+      },
+      {
+        "bdb.monomerid": 469287,
+        "bdb.smile": "C[C@](N)(c1ccc(F)cc1)c1cnc(nc1)N1CCN(CC1)c1ncnn2cc(cc12)-c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 469297,
+        "bdb.smile": "Cc1nn(C)cc1-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@@](C)(O)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.0"
+      },
+      {
+        "bdb.monomerid": 469303,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@@](C)(CO)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.0"
+      },
+      {
+        "bdb.monomerid": 469307,
+        "bdb.smile": "Cc1ccc(s1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@@](C)(O)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 469313,
+        "bdb.smile": "Cc1ncc(s1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@@](C)(O)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.0"
+      },
+      {
+        "bdb.monomerid": 469323,
+        "bdb.smile": "CN(C)C(=O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(Cc2ccccc2)cn1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.0"
+      },
+      {
+        "bdb.monomerid": 469338,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CCN(CC1)c1ncc(cn1)[C@](C)(N)c1c(F)cc(F)cc1F |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<1.0"
+      },
+      {
+        "bdb.monomerid": 469348,
+        "bdb.smile": "Fc1ccccc1Sc1cnc(nc1)N1CCN(CC1)c1ncnn2cc(cc12)-c1cnn(C[C@@H]2CNCCO2)c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 5.5"
+      },
+      {
+        "bdb.monomerid": 472775,
+        "bdb.smile": "CC(C)(O)Cn1cc(cn1)-c1cc2c(N)ncnn2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<0.30"
+      },
+      {
+        "bdb.monomerid": 472785,
+        "bdb.smile": "C[C@](N)(c1ccc(F)cc1)c1cnc(N2CCN(c3ncnn4cc(-c5cnn(C6CC(O)C6)c5)cc34)CC2)nc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<0.30"
+      },
+      {
+        "bdb.monomerid": 472786,
+        "bdb.smile": "C[C@](N)(c1ccc(F)cc1)c1cnc(nc1)N1CCN(CC1)c1ncnn2cc(cc12)-c1cnn(CC2(O)CC2)c1 |r|",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<0.3"
+      },
+      {
+        "bdb.monomerid": 472791,
+        "bdb.smile": "C[C@](N)(c1ccc(F)cc1)c1cnc(nc1)N1CCN(CC1)c1ncnn2cc(cc12)-c1cnn(c1)[C@@H]1COC[C@@H]1O |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 0.65"
+      },
+      {
+        "bdb.monomerid": 472792,
+        "bdb.smile": "C[C@](N)(c1ccc(F)cc1)c1cnc(nc1)N1CCN(CC1)c1ncnn2cc(cc12)-c1cnn(c1)[C@H]1COC[C@@H]1O |r|",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<0.3"
+      },
+      {
+        "bdb.monomerid": 792924,
+        "bdb.smile": "CC(C)(O)Cn1cc(-c2cc3c(N4CCN(c5ncc([C@@](C)(N)c6ccc(F)cc6)cn5)CC4)ncnn3c2)cn1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<0.3"
+      },
+      {
+        "bdb.monomerid": 792930,
+        "bdb.smile": "C[C@](N)(c1ccc(F)cc1)c1cnc(N2CCN(c3ncnn4cc(-c5cnn(C6COC6)c5)cc34)CC2)nc1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": "<0.3"
+      },
+      {
+        "bdb.monomerid": 50346347,
+        "bdb.smile": "C(c1ccccc1)c1cnc(nc1)N1CCN(CC1)c1ncnc2ccccc12",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">100"
+      },
+      {
+        "bdb.monomerid": 175225,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)C2=CCOCC2)cc1 |t:25|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175420,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)Nc1ccc(cc1)C#N",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175429,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2cn(C)nc2N)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175430,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2cnn(C)c2N)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175435,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175439,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)NC(=O)Cc1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175445,
+        "bdb.smile": "COc1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175451,
+        "bdb.smile": "COc1ccc(nc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175455,
+        "bdb.smile": "CCC1(CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175461,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(Cl)cc2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175471,
+        "bdb.smile": "CC(C(=O)NC1CN(C1)c1ncnn2cc(cc12)-c1cnn(C)c1)c1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175486,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2(CN(C2)c2ncnn3cc(cc23)-c2cnn(C)c2)C(N)=O)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175496,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)NC(=O)C1(CC1)c1ccc(Cl)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175563,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)C1CC1)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175578,
+        "bdb.smile": "CCC(=O)N1CCC=C(C1)c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1 |c:7|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175588,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(c1)C(C)(C)C)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175598,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C(C)(C)C#N)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175604,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(Br)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175614,
+        "bdb.smile": "Cn1cc(c(N)n1)-c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)NCc1ccc(Cl)cc1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175620,
+        "bdb.smile": "CCC(C)(O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10.00"
+      },
+      {
+        "bdb.monomerid": 175629,
+        "bdb.smile": "CS(=O)(=O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)Nc1ccc(cc1)C#N",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175630,
+        "bdb.smile": "CCC(=O)N1CCC(=CC1)c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)NCc1ccc(C)cc1 |c:7|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175639,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(CC(C)(C)O)c1)c1ccc(C)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175640,
+        "bdb.smile": "CCOC(=O)N1CCC(=CC1)c1cc2c(ncnn2c1)N1CC(C1)C(=O)NCc1ccc(C)cc1 |c:8|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10.00"
+      },
+      {
+        "bdb.monomerid": 175649,
+        "bdb.smile": "CC(O)C(C)n1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)N[C@@H](C)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175655,
+        "bdb.smile": "Cn1cc(cn1)-c1cc2c(ncnn2c1)N1CC(C)(C1)C(=O)N[C@@H](CCO)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 175665,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C2(O)CCCC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10.00"
+      },
+      {
+        "bdb.monomerid": 175675,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)C1(O)CCC1)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175681,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(OC(C)(C)C)c(F)c2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175691,
+        "bdb.smile": "CCC(=O)N1CC=C(c2cc3c(N4CC(C)(C(=O)N[C@@H](C)c5ccc(F)cc5)C4)ncnn3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175696,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(c1)C1COC1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175706,
+        "bdb.smile": "CC[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1cnn(C[C@@H](C)O)c1)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175716,
+        "bdb.smile": "C[C@H](NC(=O)C1CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)C(=O)N1CCC1)c1ccc(F)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175722,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)C2=CCN(CC2)C(=O)OC(C)(C)C)cc1 |t:25|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10.00"
+      },
+      {
+        "bdb.monomerid": 175732,
+        "bdb.smile": "CC(C)(O)c1ccc(cc1)-c1cc2c(ncnn2c1)N1CC(C1)C(=O)Nc1ccc(Br)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175742,
+        "bdb.smile": "Cc1ccc(CNC(=O)C2CN(C2)c2ncnn3cc(cc23)-c2ccc(cc2)C(C)(O)C(F)(F)F)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10.00"
+      },
+      {
+        "bdb.monomerid": 175747,
+        "bdb.smile": "COC(=O)N1CCC(=CC1)c1cc2c(ncnn2c1)N1CC(C1)NC(=O)Cc1ccc(Cl)cc1Cl |c:7|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175757,
+        "bdb.smile": "CCOC(=O)N1CC=C(c2cc3c(N4CC(C(=O)N[C@@H](CC)c5ccc(Cl)cc5)C4)ncnn3c2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175763,
+        "bdb.smile": "CC1(CN(C1)c1ncnn2cc(cc12)-c1ccc(cc1)S(C)(=O)=O)C(=O)NCc1ccc(Cl)cc1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 175767,
+        "bdb.smile": "CC[C@H](NC(=O)C1(CN(C1)c1ncnn2cc(cc12)-c1cnn(CC(C)(C)O)c1)OC)c1ccc(Cl)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 13534,
+        "bdb.smile": "Cc1cc(Nc2cc(N3CCN(C)CC3)nc(Sc3ccc(NC(=O)C4CC4)cc3)n2)[nH]n1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 600"
+      },
+      {
+        "bdb.monomerid": 13535,
+        "bdb.smile": "COc1cc2c(ncnc2cc1OCCCN1CCCCC1)N1CCN(CC1)C(=O)Nc1ccc(OC(C)C)cc1",
+        "bdb.affinity_type": "Kd",
+        "bdb.affinity": " 5"
+      },
+      {
+        "bdb.monomerid": 239012,
+        "bdb.smile": "CN1CCN(c2ccc(C(=O)Nc3n[nH]c4cc(OCCOc5ccccc5)ccc34)cc2)CC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 956"
+      },
+      {
+        "bdb.monomerid": 239037,
+        "bdb.smile": "O=C(Nc1n[nH]c2cc(OCCOCc3ccccc3)ccc12)c1ccc(NC2CCOCC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 124"
+      },
+      {
+        "bdb.monomerid": 239043,
+        "bdb.smile": "O=C(Nc1n[nH]c2cc(OCCOCc3ccccc3)ccc12)c1ccc(N2CCNCC2)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 52"
+      },
+      {
+        "bdb.monomerid": 664700,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)NCCC(C)(C)C(F)(F)F)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664719,
+        "bdb.smile": "CC(C)Oc1cc(F)c2c(Nc3ccc(NC(=O)NCCC(C)(C)F)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664725,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)NCCC(C)(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664731,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)NC4CCC(C(F)(F)F)CC4)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664735,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)NCCC4CC4)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664741,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)NC4CC(C)(C)C4)nc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 664751,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)NCCC4(CC4)C#N)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664766,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)C4(CC4)C(=O)N(C)CC(C)(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 664776,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)C(F)(F)C(=O)NCC(C)(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664782,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CN(C)C(=O)C(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664786,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC4CCC(C)(C)CC4)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664817,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)NCC(C)(C)COC)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664827,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)NC(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664833,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CNC(=O)CC(C)(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664843,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)NC4CC(C)(C)C4)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664853,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)N4CCC(C4)C(C)(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664868,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)NC(=O)CC4(COC4)C(F)(F)F)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664878,
+        "bdb.smile": "CNC(=O)COc1cc(F)c2c(Nc3ccc(NC(=O)NCCC(C)(C)F)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664884,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)N4CCC(C4)C(F)(F)F)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664888,
+        "bdb.smile": "COC[C@H](C)Oc1cc(F)c2c(Nc3ccc(NC(=O)NCCC(C)(C)F)cc3)ncnc2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664894,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)N(C(C)C)C(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 664900,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)N4CCCC4C(F)(F)F)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664904,
+        "bdb.smile": "CN1CC[C@H](C1)Oc1cc(F)c2c(Nc3ccc(NC(=O)NCCC(C)(C)F)cc3)ncnc2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": "<10"
+      },
+      {
+        "bdb.monomerid": 664909,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)N4C[C@H](C)O[C@H](C)C4)cc3)ncnc2c1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 664910,
+        "bdb.smile": "CC(C)(F)CCNC(=O)Nc1ccc(Nc2ncnc3cc(O[C@@H]4CCOC4)cc(F)c23)cc1 |r|",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": ">1000"
+      },
+      {
+        "bdb.monomerid": 664919,
+        "bdb.smile": "COCCOc1cc(F)c2c(Nc3ccc(NC(=O)CC(=O)N4CCCC4C(C)(C)C)cc3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664920,
+        "bdb.smile": "COCCCc1ccc2c(Nc3ccc(NC(=O)NCCC(C)(C)F)cc3)cnnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664929,
+        "bdb.smile": "COCCOc1ccc2ncnc(Nc3ccc(NC(=O)NCCC(C)(C)F)cc3)c2c1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 664935,
+        "bdb.smile": "COc1cc2ncnc(Nc3ccc(NC(=O)CC(=O)NCC(C)(C)C)cc3)c2cc1OCCCN1CCOCC1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 664945,
+        "bdb.smile": "COCCOc1ccc2ncnc(Nc3ccc(NC(=O)CC(=O)NCC(C)(C)C)cc3)c2c1F",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 550"
+      },
+      {
+        "bdb.monomerid": 664951,
+        "bdb.smile": "CC(C)(F)CCNC(=O)Nc1ccc(Nc2ncnc3cc(OCC(O)=O)cc(F)c23)cc1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      },
+      {
+        "bdb.monomerid": 664955,
+        "bdb.smile": "COCCOc1ccc2c(Nc3ccc(NC(=O)NCCC(C)(C)OC)cn3)ncnc2c1",
+        "bdb.affinity_type": "IC50",
+        "bdb.affinity": " 55"
+      }
+    ]
+  }
+}

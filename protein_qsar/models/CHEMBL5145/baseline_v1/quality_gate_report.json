@@ -1,0 +1,22 @@
+{
+  "target_chembl_id": "CHEMBL5145",
+  "model_version": "baseline_v1",
+  "evaluated_utc": "2026-10-15T01:19:45.000301+00:00",
+  "internal_evaluation_report": "models\\CHEMBL5145\\baseline_v1\\evaluation_report.json",
+  "external_validation_report": "models\\CHEMBL5145\\baseline_v1\\external_validation_report.json",
+  "quality_gates": {
+    "target_accession_matches_human_braf": true,
+    "endpoint_is_ic50": true,
+    "units_are_nm": true,
+    "no_compound_overlap_with_chembl_target_data": true,
+    "minimum_30_external_compounds": true,
+    "relation_and_assay_context_documented": false,
+    "metrics_meet_screening_floor": false,
+    "model_version_matches_candidate": true
+  },
+  "quality_gates_passed": false,
+  "decision": "reject_or_improve_model",
+  "production_approval": false,
+  "human_review_recorded": false,
+  "reason": "Automated gates do not replace assay-context review or prospective experimental validation."
+}

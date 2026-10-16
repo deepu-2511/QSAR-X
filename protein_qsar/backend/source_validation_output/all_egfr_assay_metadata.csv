@@ -1,0 +1,458 @@
+assay_chembl_id,description,assay_type,assay_test_type,assay_category,bao_format,bao_label,assay_organism,assay_tax_id,assay_cell_type,assay_tissue,target_chembl_id,confidence_score,relationship_type,document_chembl_id,variant_id,assay_context_group
+CHEMBL1001226,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1152233,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1003093,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1156625,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1003097,Inhibition of human EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1156626,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1005068,Displacement of [125I]-TGFalpha from human EGFR in human A431 cell membrane by SPA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1145687,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1007322,Inhibition of human EGFR expressed in SF9 cells,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1155952,,IN_VITRO_CONTEXT_UNCLEAR
+CHEMBL1008385,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136974,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1009318,Inhibition of EGFR by HTRF assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139297,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1009326,Inhibition of EGFR by scintillation proximity assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139297,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1016812,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1152829,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1022371,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153429,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1026506,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1154498,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1028056,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143293,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1028080,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143296,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1029460,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1158361,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1038898,Inhibition of EGFR in human A431 cells by phosphotyrosine ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1152608,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1044055,Inhibition of Her1 by fluorescence polarization assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1154692,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1044057,Inhibition of Her1 T790M mutant by fluorescence polarization assay,B,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1154692,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1046364,Inhibition of EGFR-mediated poly(L-glutamic acid L-tyrosine) phosphorylation,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1155367,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1052827,Inhibition of human recombinant HER1 expressed in Sf9 cells by liquid scintillation counting,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1154610,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1058612,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1151962,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1059198,Inhibition of EGFR autophosphorylation in human A549 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A549,,CHEMBL203,9,D,CHEMBL1153566,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1060165,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1150972,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1064820,Inhibition of cloned EGFR autophosphorylation expressed in baculovirus-infected Sf9 cells by solid-phase ELISA,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1157666,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1064829,Inhibition of cloned EGFR autophosphorylation expressed in baculovirus-infected Sf9 cells by solid-phase ELISA,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1157668,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1064921,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157563,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1065784,Inhibition of recombinant EGFR expressed in Sf9-baculovirus system by ELISA,B,,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1157716,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1069630,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1156931,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1070746,Inhibition of EGFR after 80 mins by radiometric protein kinase assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1158526,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1071045,Inhibition of recombinant EGFR by ELISA,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157709,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1071732,Inhibition of EGFR expressed in Sf9 cells assessed as inhibition of receptor autophosphorylation by DELFIA time resolved fluorimetry,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1159111,,IN_VITRO_CONTEXT_UNCLEAR
+CHEMBL1072146,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157582,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1072157,Inhibition of human recombinant EGFR expressed in insect cells by time-resolved fluorimetry,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1157583,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1072160,Inhibition of EGFR autophosphorylation in human A431 cells after 1 hr by Western blot,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1157583,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1072161,Inhibition of EGFR autophosphorylation in human A431 cells after 8 hrs by Western blot,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1157583,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1072676,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153138,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1073378,Inhibition of wild type EGF-R by microplate scintillation counting,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1152560,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1103281,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1154872,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1105216,Inhibition of wild type EGFR by HTRF assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1156950,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1105217,Inhibition of EGFR Leu858Arg mutant by HTRF assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1156950,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1105218,Inhibition of EGFR Leu858Arg and Thr790Met mutant by HTRF assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1156950,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1105615,Inhibition of EGFR after 30 mins by chemiluminescence ELISA,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157833,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1105619,Noncompetitive inhibition of EGFR after 30 mins by chemiluminescence ELISA in presence of 25 uM ATP,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157833,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1105620,Noncompetitive inhibition of EGFR after 30 mins by chemiluminescence ELISA in presence of 50 uM ATP,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157833,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1108835,Inhibition of EGFR intracellular phosphorylation in human A431 cells by ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1156213,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1108837,Inhibition of EGFR L858R mutant by time resolved fluorescence assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1156213,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1109425,Inhibition of EGFR after 1 hr,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153704,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1111024,Noncompetitive inhibition of EGFR after 30 mins by chemiluminescence ELISA in presence of 250 uM ATP,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157833,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1111474,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1155389,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1112818,Inhibition of EGFR phosphorylation in human A431 cells after 10 mins by FLISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1157126,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1113143,Inhibition of EGFR autophosphorylation in human A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1154388,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1115349,Inhibition of EGFR in human A431 cells by phosphotyrosine cell-based ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1156263,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1115598,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157122,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1116652,Inhibition of EGFR in human A431 cells by HTRF assay,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1154343,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1116653,Inhibition of EGFR by HTRF assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1154343,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1117422,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157919,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1174225,Inhibition of human EGFR autophosphorylation expressed in Sf9 cells DELFIA assay,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1177838,,IN_VITRO_CONTEXT_UNCLEAR
+CHEMBL1176122,Inhibition of GST-tagged EGFR expressed in Escherichia coli,B,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1177739,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1176123,Inhibition of EGFR L858R/T790M double mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1177739,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1177207,Inhibition of human recombinant His6x-tagged EGFR autophosphorylation expressed in Sf9 cells after 1 hr by ELISA,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1177684,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1177355,Inhibition EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1177660,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1177399,Inhibition of histidine-tagged recombinant EGFR autophosphorylation expressed in Sf9 cells by solid-phase ELISA,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1177661,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1211280,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1208672,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1226208,Inhibition of human recombinant EGFR expressed in baculovirus-infected Sf9 cells by radioactive phosphotransfer assay,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1221199,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1243977,Inhibition of recombinant EGFR by radioactive phosphotransfer assay in presence of 10 uM ATP,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1240340,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1244582,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1240341,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1244583,Inhibition of EGFR T790M mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1240341,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1246645,Inhibition of EGFR autophosphorylation in human A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1240526,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1249168,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1240526,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1249643,Inhibition of EGFR kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1240311,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1252156,Inhibition of EGFR expressed in human A431 cells,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1250424,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1260610,Inhibition of EGFR phosphorylation in human MIAPaCa cells by ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,MIAPaCa,,CHEMBL203,9,D,CHEMBL1255185,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1261159,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1255207,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1273339,Inhibition of EGFR L858R/T790M double mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1269003,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1273341,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1269003,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1285874,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1275379,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1640694,Inhibition of EGFR by flash plate based radioactive enzyme assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1629443,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1640839,Inhibition of EGF-induced EGFR phosphorylation in human CAL27 cells overexpressing EGFR after 16 hrs by Western blot,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,CAL-27,,CHEMBL203,9,D,CHEMBL1629443,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1646349,Inhibition of EGFR by HTRF assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1641579,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1647391,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1641446,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1686143,Inhibition of EGFR by homogeneous time-resolved fluorescence assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1681756,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1687360,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1681781,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1693590,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1687927,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1697113,Inhibition of EGFR after 60 mins by radiometric assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1687697,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1762895,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1759853,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1763553,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1759979,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1763554,Inhibition of human EGFR-mediated poly(Glu4Tyr) phosphorylation after 1 hr,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1759979,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1764782,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1759866,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1785573,Inhibition of human EGFR using poly[Glu:Tyr] by Hotspot assay,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1781971,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1785574,Inhibition of human EGFR L858R mutant using poly[Glu:Tyr] by Hotspot assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1781971,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1798351,Inhibition autophosphorylation of EGFR in human DiFi cells after 2 hrs by ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,DiFi,,CHEMBL203,9,D,CHEMBL1795334,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1805338,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1799927,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1816084,Inhibition of recombinant EGFR expressed in baculovirus infected Sf9 cells after 1 hr by DELFIA/time-resolved fluorimetry assay,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1811883,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1817212,Inhibition of EGFR after 1 hrs by luminescence assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1811776,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1820121,Inhibition of EGFR-induced AP1 activation in human HeLa cells preincubated for 1 hr prior to EGF stimulation by luciferase reporter gene assay,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HeLa,,CHEMBL203,9,D,CHEMBL1817613,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1820122,Inhibition of EGFR-induced HIF1alpha activation in human HeLa cells preincubated for 1 hr prior to EGF stimulation by luciferase reporter gene assay,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HeLa,,CHEMBL203,9,D,CHEMBL1817613,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1820123,Inhibition of EGFR-induced Beta-casein activation in human HeLa cells preincubated for 1 hr prior to EGF stimulation by luciferase reporter gene assay,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HeLa,,CHEMBL203,9,D,CHEMBL1817613,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1827038,Inhibition of recombinant (His)6-tagged EGFR cytoplasmic domain (645-1186) autophosphorylation pre-incubated for 10 mins measured after 1 hrs by DELFIA based time-resolved fluorimetry assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1821709,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1831627,Inhibition of His-tagged EGFR expressed in insect Sf9 cells after 1 hr by time-resolved fluorimetric analysis,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1828579,,IN_VITRO_CONTEXT_UNCLEAR
+CHEMBL1831700,Inhibition of human recombinant (His)6-tagged EGFR autophosphorylation pre-incubated for 10 mins by DELFIA/Time-resolved fluorimetry,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1828525,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1831702,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1828525,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1909203,"DRUGMATRIX: Protein Tyrosine Kinase, EGF Receptor enzyme inhibition (substrate: Poly(Glu:Tyr))",B,In vitro,,BAO_0000219,cell-based format,,32644.0,Insect cells,,CHEMBL203,8,H,CHEMBL1909046,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1912180,Inhibition of human EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1909587,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1919050,Inhibition of EGFR preincubated for 60 mins measured after 60 mins by TR-FRET Assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1914368,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1919051,Inhibition of EGFR after 60 mins by TR-FRET Assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1914368,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1919256,Inhibition of ErbB1 relative to control,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1914368,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1919477,Inhibition of EGFR relative to control,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1914368,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1920033,Inhibition of EGFR by Z-LYTE assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1914342,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1921573,Inhibition EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1914457,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1930231,Inhibition of EGFR expressed in baculovirus infected Sf9 cells assessed as inhibition of autophosphorylation preincubated for 10 mins measured after 1 hr by DELFIA/Time-Resolved Fluorometry,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1926595,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1930721,"Inhibition of EGFR using poly(Glu,Tyr)4:1 as substrate and [gamma33P]ATP after 60 mins by scintillation counting",B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1926681,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1931161,Inhibition of recombinant His6-tagged EGFR expressed in baculovirus infected insect Sf9 cells using ATP as substrate and cofactor MgCl2 after 2 hrs by DELFIA/Time-resolved fluorometric analysis,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1926674,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1932339,Inhibition of EGFR tyrosine kinase activity in EGF-stimulated human A431 cells after 60 mins by ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1926631,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1932379,Inhibition of EGFR autophosphorylation in EGF-stimulated human A431 cells after 1 hr by immunoblotting,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1926681,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1932747,Inhibition of human EGFR preincubated 2 hrs prior addition of ATP by HTRF assay,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1926611,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1932841,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1926590,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1935838,Inhibition of EGFR by time-resolved fluorescence assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1933060,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1935855,Inhibition of EGFR phosphorylation in EGF-stimulated human A431 after 2 hrs by Western blot analysis,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1933060,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1947770,Inhibition of wild-type EGFR expressed using baculovirus expression system by ELISA,B,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1944545,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1947771,Inhibition of EGFR T790M/L858R mutant expressed using baculovirus expression system by ELISA,B,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1944545,,MUTANT_SPECIFIC_REVIEW
+CHEMBL1949030,Inhibition of autophosphorylation of recombinant His-tagged EGFR expressed in baculovirus infected Sf9 cells after 1 hr by DELFIA/time-resolved fluorimetry assay,B,In vitro,,BAO_0000219,cell-based format,,,Sf9,,CHEMBL203,8,H,CHEMBL1944626,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1949352,Inhibition of EGFR after 50 mins by HTRF assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1944591,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1952840,Inhibition of human recombinant His-tagged intracellular domain of EGFR using biotin-EEEEYFELV as substrate by HTRF assay,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1949512,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1954388,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1949673,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1955670,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1949521,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1958796,Inhibition of histidine-tagged human recombinant cytoplasmic domain of EGFR expressed in baculovirus infected insect Sf9 cells after 1 hr by DELFIA/time-resolved fluorometric analysis,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1955848,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL1959286,Inhibition of EGF-induced EGFR autophosphorylation in human A431 cells incubated for 60 mins prior to EGF-induction measured after 10 mins by phosphotyrosine ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1955729,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL1959298,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1955729,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL1961280,"Inhibition of human recombinant EGF-R expressed in Sf9 cells using poly(E,Y)4:1 as substrate after 80 mins by scintillation counting",B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1955824,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL2015060,"Inhibition of wild type EGFR using poly(Glu,Tyr) as substrate assessed as [33P-gamma]-ATP incorporation after 60 mins by microplate scintillation counting",B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL2010688,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL2015061,"Inhibition of EGFR L858R mutant using poly(Glu,Tyr) as substrate assessed as [33P-gamma]-ATP incorporation after 60 mins by microplate scintillation counting",B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2010688,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2020642,Inhibition of human EGFR expressed in human A431 cells using poly(Glu4/Tyr) and [gamma32P]ATP as substrate after 1 hr by scintillation counting,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL2016491,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL2033041,Inhibition of human recombinant EGFR using Ulight-CAGAGAIETDKEYYTVKD as substrate after 15 mins by time-resolved fluorimetric analysis,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029270,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL2033042,Inhibition of EGFR T790M mutant autophosphorylation in human NCI-H1975 cells after 1 hr by Western blot analysis,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,NCI-H1975,,CHEMBL203,9,D,CHEMBL2029270,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033651,Inhibition of EGFR after 1.5 hr by FRET assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL2029259,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL2033652,Inhibition of EGFR T790M mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033653,Inhibition of EGFR L858R mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033654,Inhibition of EGFR L861Q mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2033655,Inhibition of EGFR L858R/T790M mutant after 1.5 hr by FRET assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2029259,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2034705,Inhibition of EGFR after 50 mins by HTRF assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL2029299,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL2038916,Inhibition of wild-type EGFR preincubated for 10 mins followed by incubation for 30 mins by fluorescence polarization assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL2034880,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL2038917,Inhibition of EGFR T790M mutant preincubated for 10 mins followed by incubation for 30 mins by fluorescence polarization assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2034880,,MUTANT_SPECIFIC_REVIEW
+CHEMBL2050143,Inhibition of EGFR in human A431 cells pretreated for 60 mins measured after 1 hr by ELISA,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL2046359,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL2050649,Inhibition of N-terminus peptide-tagged human recombinant EGFR expressed using baculovirus infection system using [gamma-33P]-ATP preincubated with compound for 5 mins measured after 10 mins by scintillation counting,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL2046372,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL2050675,Inhibition of EGFR derived from human A431 cell membrane assessed as inhibition of poly-Glu-Tyr phosphorylation after 30 mins by ELISA assay,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL2046429,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL615325,Inhibition of ligand-induced proliferation in human EGF-R Kinase expressing 3T3 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,NIH3T3,,CHEMBL203,9,D,CHEMBL1134862,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621022,Inhibition of EGF-stimulated tyrosine phosphorylation in A431 cells.,F,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1130217,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621024,Inhibition of epidermal growth factor receptor (EGF-R) autophosphorylation in A431 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1152084,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621147,Inhibition of EGF-stimulated tyrosine phosphorylation in A431 cells expressing EGF-R,F,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1129072,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621149,Inhibition of EGF-dependent autophosphorylation of EGF-R in human A431 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1127678,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621151,Inhibition of autophosphorylation of human epidermal growth factor-receptor (EGF-R) expressed in A431 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1134862,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621154,Inhibition of EGFR overexpressing A431 cell proliferation,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1136058,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621852,Inhibition of EGF-dependent autophosphorylation of EGF-R in A431 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1131301,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL621853,Inhibition of autophosphorylation of epidermal growth factor receptor in A431 cells in culture,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1131301,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL624197,Inhibition of EGF-induced Tyrosine phosphorylation in A431 cells expressing EGF-R,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1134586,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL672267,Inhibition of EGF receptor kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132637,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL673450,Inhibition of the tyrosine kinase activity of the human epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1127622,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL673451,Inhibition of epidermal growth factor receptor (EGFR) autophosphorylation in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1130246,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL673783,Inhibition of erbB-1 receptor tyrosine kinase from A431 human epidermoid carcinoma cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1130008,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL673924,Inhibition of tyrosine/glutamic acid copolymer phosphorylation by epidermal growth factor receptor prepared of human A431,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1131301,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL673925,Inhibition of phosphorylation of a polyglutamic acid/tyrosine random copolymer by EGFR enzyme (from human A431 carcinoma cell vesicles),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134843,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL673947,Inhibition of epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136802,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674005,Inhibition of EGF-stimulated DNA synthesis in ER 22 (EGF-receptor expressing) cells,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1127676,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674006,Inhibition of EGF-stimulated DNA synthesis in ER 22 (EGF-receptor expressing) cells,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1127676,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674009,"Inhibition of EGF-stimulated DNA synthesis in ER22 cells, by measuring [3H]Me-dT incorporation into ER 22 cells",F,,,BAO_0000219,cell-based format,Cricetulus griseus,10029.0,ER22,,CHEMBL203,8,H,CHEMBL1127676,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674011,Inhibition of EGF-receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1130533,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674012,Tested for inhibition of EGF-receptor tyrosine kinase in intact cells,B,,,BAO_0000219,cell-based format,,,,,CHEMBL203,8,H,CHEMBL1133080,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674015,Tested in vitro for inhibition of EGF-receptor tyrosine kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1133080,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674017,Inhibition of EGF-stimulated autophosphorylation of epidermal growth factor receptor (EGFR) in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1132213,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL674018,Inhibition of phosphorylation of glutamic acid/tyrosine random copolymer by isolated epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132213,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL674019,Inhibition of EGF-stimulated autophosphorylation of EGFR enzyme in A431 cells detected by immunoblotting,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1133162,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL674020,Inhibition of phosphorylation of a polyglutamic acid/tyrosine random copolymer by EGFR enzyme prepared from human A431 carcinoma cell vesicles by immunoaffinity chromatography,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1133162,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL674025,Inhibition of EGFR kinase,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1132910,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674026,Inhibition of EGFR kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134743,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674029,Inhibition of EGF-stimulated EGFR tyrosine kinase activity using plasma membrane vesicles shed from cultured human A431 carcinoma cells,F,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1127050,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL674103,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145828,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674104,Inhibition of Epidermal growth factor receptor autophosphorylation,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132364,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674105,Inhibitory activity against HER1 kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136358,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674106,Inhibitory activity against epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1146682,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674107,Inhibitory activity against epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1146693,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674637,Inhibitory activity towards tyrosine phosphorylation for the epidermal growth factor-receptor kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134862,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674638,Inhibition of in vitro activity of EGFr enzyme from A431 cells in presence of 5 uM ATP,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1127357,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL674640,Inhibition of the epidermal growth factor receptor expressed in A431 cell line,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1125600,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL674641,Inhibition of tyrosine phosphorylation by full length Epidermal growth factor receptor from human A431 carcinoma cells.,F,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1128730,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL674642,Inhibition of EGF-R Tyrosine kinase (TK),B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1127418,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674643,Inhibitory concentration of EGF dependent autophosphorylation of epidermal growth factor receptor kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1124610,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL674647,Inhibition of EGFR(epidermal growth factor receptor) autophosphorylation in ER22 cell membranes,F,,,BAO_0000219,cell-based format,,,ER22,,CHEMBL203,8,H,CHEMBL1127676,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674648,Inhibit of phosphorylation of a tyrosine/glutamic acid copolymer by epidermal growth factor receptor prepared from human A431 carcinoma cell vesicles by immunoaffinity chromatography.,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1131301,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL674692,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1135924,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674693,Inhibition of Epidermal growth factor receptor (EGF-R) tyrosine kinase activity ,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134829,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL674695,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136193,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674697,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136216,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674698,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134917,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674699,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153680,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL674700,Inhibition of Epidermal growth factor receptor (EGFr),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1131898,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL675238,Inhibition of EGF receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134080,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL675242,Inhibit of epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132163,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL675380,Inhibition of epidermal growth factor receptor (EGFr) tyrosine kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1130094,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL675381,In vitro activity against Epidermal growth factor receptor (using poly(Glu4Tyr1) as a substrate),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1131686,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL675386,Inhibition of the epidermal growth factor receptor.,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1130562,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL675388,Inhibition of epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136058,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL675520,Inhibition of Epidermal growth factor receptor autophosphorylation in A431 cell membranes,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1125830,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL675521,Inhibition of Epidermal growth factor receptor (EGFr) tyrosine kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1130094,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676067,Inhibitory activity against epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136802,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676074,Inhibition of tyrosine/glutamic acid copolymer phosphorylation by epidermal growth factor receptor prepared of human A431,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1131301,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676146,Inhibition of EGF-dependent DNA synthesis in ER 22 cells incubated with [3H]TdR,F,,,BAO_0000219,cell-based format,,,ER 22,,CHEMBL203,8,H,CHEMBL1127084,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676150,Inhibition of Epidermal growth factor receptor from human A431 cell membranes,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1129564,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL676151,Inhibition of tyrosine kinase Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1159186,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676152,In vitro inhibition of HER1 autophosphorylation.,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1125266,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676153,Inhibition of epidermal growth factor receptor autophosphorylation,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1125266,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676154,Inhibition of Epidermal growth factor receptor tyrosine kinase,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1127615,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676156,Inhibition of autophosphorylation of epidermal growth factor receptor prepared from human A431 carcinoma cells.,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1130030,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL676158,Inhibition of Epidermal growth factor receptor from human A431 carcinoma cell membranes,B,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1130030,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676159,Concentration required to achieve 50% inhibition of tyrosine phosphorylation on human Epidermal growth factor receptor (EGF RTK).,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1131018,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676160,Inhibition of Epidermal growth factor receptor autophosphorylation.,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1129839,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676161,"Inhibition of Epidermal growth factor receptor autophosphorylation, 0.05-0.10",B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1129839,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676233,Inhibition of tyrosine/glutamic acid copolymer phosphorylation by epidermal growth factor receptor prepared of human A431,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1131301,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL676234,Cytotoxic effect on EGF-receptor overexpressing HN5 squamous carcinoma cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HN5,,CHEMBL203,9,D,CHEMBL1127530,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677204,Evaluation of inhibitory activity against phospholipase C-gamma1 phosphorylation by Epidermal growth factor receptor enzyme isolated from A431 cells.,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1128536,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677205,Inhibition of Epidermal growth factor receptor from A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1128536,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677206,Inhibition of epidermal growth factor receptor (EGFr),B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1129933,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677207,In vitro inhibition of intrinsic tyrosine protein kinase activity of the Epidermal growth factor receptor using tripeptide RR-Src,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1128699,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL677209,In vitro inhibition of the Epidermal growth factor receptor activity in A431 membranes,B,,,BAO_0000249,cell membrane format,,,,,CHEMBL203,8,H,CHEMBL1128740,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677210,In vitro inhibitory activity against Epidermal growth factor receptor (EGFR-TK) from A431 vulval squamous carcinoma cells using TKI assay,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1134804,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677211,Displacement of [gamma-32P]-ATP from Epidermal growth factor receptor in A431 cell-free extracts,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1159167,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677212,Inhibition of epidermal growth factor receptor (EGF-R),B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1136732,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677213,Inhibition of EGF-stimulated autophosphorylation of EGFR in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1134843,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677214,Inhibition of Epidermal growth factor receptor autophosphorylation in A431 cells,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1132555,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677215,Inhibition of Epidermal growth factor receptor autophosphorylation in A431 human epidermoid carcinoma cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1129564,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677216,Inhibition of autophosphorylation of EGFR in A431 cells,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1134843,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677217,Inhibition of autophosphorylation of EGFR in A431 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1134843,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677382,Inhibition of epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1134497,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677383,Inhibition of epidermal growth factor receptor (EGFr) autophosphorylation,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1129933,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677384,Inhibition of epidermal growth factor receptor kinase autophosphorylation,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147619,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677385,Inhibition of peptide substrate phosphorylation by epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147619,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677386,Inhibition of epidermal growth factor receptor (EGFR) from human A431 carcinoma cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1130246,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677387,Inhibition of phosphorylation of polyglutamic acid/tyrosine random copolymer by epidermal growth factor receptor.,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1130246,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL677388,Inhibition of epidermal growth factor receptor kinase activity at a concentration of 2 uM of ATP,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1135889,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL677389,Inhibition of the phosphorylation of a random polyglutamic acid/tyrosine copolymer by human epidermal growth factor receptor(EGFR) prepared from human A431 carcinoma cells,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1130030,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677390,Inhibition of human epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1127560,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677391,Inhibition of tyrosine phosphorylation activity of the epidermal growth factor receptor (EGFR) tyrosine kinase from human A-431 carcinoma cell-shed membrane vesicles,B,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1127560,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677392,Inhibitory concentration against EGF receptor by polyGAT phosphorylation,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1126897,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677393,Inhibitory concentration against EGF receptor by autophosphorylation,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1126897,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677470,Inhibitory concentration compound against EFGR tyrosine kinase obtained from plasma membrane vesicles from cultured A431 cells,B,,,BAO_0000366,cell-free format,,,A-431,Plasma,CHEMBL203,8,H,CHEMBL1128344,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677529,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1135526,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677530,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1136205,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677830,Inhibitory activity against Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132535,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677831,"Inhibition of epidermal growth factor receptor (EGFR) phosphorylation of the exogenous substrate poly(Glu6, Ala3,Tyr) (polyGAT)",B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1129590,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL677832,Inhibitory activity against epidermal growth factor receptor tyrosine kinase.,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1130217,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677833,In vitro inhibition of Epidermal growth factor receptor tyrosine kinase isolated from A431 (human carcinoma).,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145114,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677878,Concentration required for inhibition of epidermal growth factor receptor (EGF-R) by tyrosine kinase enzyme activity,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134003,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677879,Inhibition of epidermal growth factor receptor (EGF-R),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134003,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677880,In vitro inhibitory activity against epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1129072,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677882,In vitro inhibition of Epidermal growth factor receptor expressed in baculovirus,B,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1135689,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL677883,"In vitro inhibition of Epidermal growth factor receptor (HER-1,ErbB) expressed in baculovirus",B,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1135689,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL677884,Inhibition of autophosphorylation of epidermal growth factor receptor (EGF-R) in a cellular assay,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1134003,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL677885,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1130533,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677887,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132606,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677888,Inhibition of Epidermal growth factor receptor (Her1/ErbB1),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1135763,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677889,Inhibition of Epidermal growth factor receptor-dependent phosphorylation,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132606,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL677890,Inhibitory activity against protein tyrosine kinase of Epidermal growth factor receptor was determined,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1127758,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL678292,Inhibition of (EGFR) epidermal growth factor receptor tyrosine kinase,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1135760,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL678293,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1135760,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL678922,In vitro inhibition of EGF-stimulated DNA synthesis of ER 22 cells by following the incorporation of methyl-[3H]thymidine.,F,,,BAO_0000219,cell-based format,,,ER 22,,CHEMBL203,8,H,CHEMBL1128699,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL679548,Inhibition of tyrosine kinase activity of Epidermal growth factor receptor from human A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1129035,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL679549,Inhibitory activity against recombinant tyrosine kinase EGF-R (EGF-R ICD),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1127678,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL679550,Inhibition of EGF-stimulated autophosphorylation of Epidermal growth factor receptor in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1132213,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL679551,Inhibition of EGF-stimulated autophosphorylation of epidermal growth factor receptor in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1132213,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL679672,Inhibitory activity of compound against Epidermal growth factor receptor autophosphorylation,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1129590,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL679674,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132739,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL679676,Inhibition of phosphorylation of glutamic acid/tyrosine random copolymer by isolated epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132213,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL679944,Concentration needed to inhibit the phosphorylation of a 14-residue fragment of phospholipase C-gamma1 by Epidermal growth factor receptor (prepared from human A431 carcinoma cell vesicles by immunoaffinity chromatography),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132555,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL679946,Concentration required to inhibit phosphorylation of isolated human epidermal growth factor tyrosine kinase receptor by 50%,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1127568,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL679947,"Inhibition of phosphorylation of phospholipase C gamma1 by Epidermal growth factor receptor, from human A431 carcinoma cell vesicles",F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1130057,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL679948,Inhibition of EGF-stimulated autophosphorylation of EGFR in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1134843,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL679949,Evaluated for inhibitory activity towards tyrosine kinase Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1133768,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL680015,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1136583,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL680017,Concentration required to inhibit the phosphorylation of a 14-residue fragment of phospholipase C gamma 1 by Epidermal growth factor receptor from A431 cell vesicles,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1129291,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL680018,Inhibition of epidermal growth factor receptor using enzyme assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1134561,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL680019,Inhibitory concentration was evaluated against epidermal growth factor receptor (EGFr) tyrosine kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1131066,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL680021,Inhibitory potency against isolated epidermal growth factor receptor (EGFR) from human A431 carcinoma cells,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1129564,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL680022,Inhibitory potency against protein tyrosine kinase activity associated with EGFR was evaluated using ER 22 cell membrane,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,ER 22,,CHEMBL203,9,D,CHEMBL1127676,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL680026,Tested for ability to inhibit autophosphorylation of the Epidermal growth factor receptor in human epidermoid carcinoma cells,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1130057,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL680027,Concentration required to inhibit autophosphorylation of cytoplasmic domain of epidermal growth factor receptor (EGFR),F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1147456,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL680028,Inhibition of autophosphorylation of cytoplasmic domain of epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145020,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL680029,Tested for inhibition of Epidermal growth factor receptor from A431 vulval squamous carcinoma cells,B,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1129210,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL680030,Tested for inhibition of PLC gamma-derived substrate in Epidermal growth factor receptor stimulated A431 cells,F,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1130057,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL680031,Tested for inhibition of autophosphorylation in Epidermal growth factor receptor stimulated A431 cells,F,,,BAO_0000219,cell-based format,,,A-431,,CHEMBL203,8,H,CHEMBL1130057,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL683037,"Inhibition of human Epidermal growth factor receptor, HER-1",B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147483,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL683038,Inhibition of human Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147484,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL683039,Inhibition of human epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147483,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL683040,Inhibition of tyrosine kinase activity of Epidermal growth factor receptor from human A431 carcinoma cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1129035,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL683041,Inhibition of Epidermal Growth Factor Receptor (EGFR) autophosphorylation,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1135208,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL683042,Inhibition of human epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1131506,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL688553,Inhibition of EGF-dependent proliferation of human and guinea pig keratinocytes; range 7-15 uM,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1134331,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL689289,Inhibition of polyGAT phosphorylation by EGF receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1126897,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL689290,Inhibition of HER-14 (human EGFR overexpressing NIH3T3) cell proliferation,F,,,BAO_0000219,cell-based format,,,NIH3T3,,CHEMBL203,8,H,CHEMBL1126897,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL689291,Inhibition of HER-14 (human EGFR overexpressing NIH3T3) cell proliferation,F,,,BAO_0000219,cell-based format,,,NIH3T3,,CHEMBL203,8,H,CHEMBL1126897,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL689294,Inhibition of human Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147484,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL689298,Antiproliferative activity determined by measuring the ability to block [3H]- thymidine uptake in HER-14 cells stimulated by EGF,F,,,BAO_0000219,cell-based format,,,HER-14,,CHEMBL203,8,H,CHEMBL1129590,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL690547,Inhibition of EGFR overexpressing HN5 (head/neck carcinoma) cell line proliferation,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HN5,,CHEMBL203,9,D,CHEMBL1146682,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL690548,Inhibition of EGF receptor overexpressing HN5 cell proliferation,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HN5,,CHEMBL203,9,D,CHEMBL1134080,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL691873,Inhibition of human endothelial cell growth stimulate by endothelial growth factor,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Endothelial cell,,CHEMBL203,9,D,CHEMBL1135889,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL700784,Inhibition of HER14 (human EGFR overexpressing) cell proliferation.,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1125266,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL700785,Inhibition of HER14 (human EGFR overexpressing) cell proliferation.,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1125266,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL701406,Inhibition of HER14 (human EGFR overexpressing) cell proliferation.,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1125266,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL705978,Inhibition of EGF-stimulated proliferation of KB cells in culture,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,KB,,CHEMBL203,9,D,CHEMBL1129210,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL709833,Inhibition of EGF-stimulated MCF-7 human breast tumor cell proliferation,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1133720,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL763200,Inhibition of polyGAT phosphorylation,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1125266,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL814059,Cytotoxic effect on EGF-receptor overexpressing HN5 squamous carcinoma cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HN5,,CHEMBL203,9,D,CHEMBL1127530,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL814060,Cytotoxic effect on EGF-receptor overexpressing HN5 squamous carcinoma cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,HN5,,CHEMBL203,9,D,CHEMBL1127530,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL821544,Inhibition of c-erbB2 receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1133720,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL827826,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 10000-50000 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL827827,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 3-5 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL828032,Inhibition of HER1 kinase in intact DHER14 cells; Range = 5-15 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,DHER14,,CHEMBL203,9,D,CHEMBL1141151,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL828089,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 1-10 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL828300,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 1-10 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL828301,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 4-10 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL828302,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 5-25 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL828723,Inhibition of poly(L-glutamic acid-L-tyrosine) phosphorylation by EGFR tyrosine kinase of A431 carcinoma cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141895,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL829088,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 10-50 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL829089,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 25-50 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL829442,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139550,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL829536,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 6.7-20 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL829928,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 1000-5000 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL830273,Inhibition of human epidermal growth factor receptor (HER-1),B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1144449,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL830975,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143513,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL831153,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL831695,Inhibition of HER1 kinase in intact DHER14 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,DHER14,,CHEMBL203,9,D,CHEMBL1141151,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL832627,Inhibitory concentration against EGFR by using [gamma-33P]-ATP as radioligand in pH 7.5,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1142784,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL832673,Inhibitory concentration against Epidermal growth factor receptor tyrosine kinase activity,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1138000,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL832761,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL832814,Inhibition of epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1142725,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL832893,In vitro inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1138664,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL832921,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 50-250 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL832922,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 6.7-20 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL832979,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate; Range = 1000-10000 nM,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL833025,Inhibition of EGF Receptor autophosphorylation in A431 cell lysate,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1141151,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL833554,Inhibition of epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1140334,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL843057,Inhibition of epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1128884,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL853149,Inhibition of EGFR in presence of 2 uM ATP,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147701,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL853150,Antiproliferative activity against EGF-stimulated human KB cell line,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,KB,,CHEMBL203,9,D,CHEMBL1147701,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL854974,Inhibition of recombinant EGFR by ELISA,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1137334,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL856168,Inhibition of phosphorylation of glutamic acid/tyrosine random copolymer by isolated epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1132213,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL856172,Antiproliferative activity determined by measuring the ability to block [3H]- thymidine uptake in HER-14 cells stimulated by EGF,F,,,BAO_0000219,cell-based format,,,HER-14,,CHEMBL203,8,H,CHEMBL1129590,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL856356,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1149481,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL856357,Antiproliferative activity against EGF-stimulated KB cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,KB,,CHEMBL203,9,D,CHEMBL1149481,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL856400,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147983,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL857165,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1133428,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL857670,Inhibitory concentration of EGFr,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1141082,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL860874,Inhibitory activity against EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1149372,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL861201,Inhibitory activity against recombinant human EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1146929,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL861550,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147004,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL862242,Inhibitory activity against EGFR kinase,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1149378,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL862512,Inhibition of erbB1 fusion protein expressed in baculovirus by ELISA,B,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1138126,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL862515,Inhibition of EGF stimulated human erbB1 autophosphorylation in NIH3T3 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,NIH3T3,,CHEMBL203,9,D,CHEMBL1138126,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL863537,Inhibitory activity against HER1,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147752,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL863780,Inhibition of EGFR kinase activity,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1146933,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL866710,Inhibition of EGFR-mediated polyGAT phosphorylation at 10 uM,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1146012,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL866711,Antiproliferative activity against human A431 cell line overexpressing EGFR at 20 uM,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1146012,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL867748,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1139019,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL867749,Inhibition of EGFR autophosphorylation in DiFi cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,DiFi,,CHEMBL203,9,D,CHEMBL1139019,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL868329,Inhibitory activity against EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1146052,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL868330,Antiproliferative activity against EGF-stimulated KB cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,KB,,CHEMBL203,9,D,CHEMBL1146052,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL870841,Inhibition of EGFR tyrosine kinase,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1148637,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL873338,Inhibition of human epidermal growth factor receptor (EGFR) autophosphorylation,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1142663,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL873587,Antagonism towards Epidermal growth factor receptor,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1129840,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL873595,Inhibition of epidermal growth factor receptor (EGFR),B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1126211,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL873605,Inhibition of Epidermal growth factor receptor,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1133502,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL879468,Inhibition of EGFR overexpressing HN5 (Head and neck) tumor cell proliferation,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1136583,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL880174,Inhibitory activity against ligand-dependent EGF cell proliferation,F,,,BAO_0000019,assay format,,,,,CHEMBL203,8,H,CHEMBL1132535,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL881766,In vitro inhibitory concentration EGF receptor with ATP concentration at 1/2Km,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143653,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL881943,In vitro inhibitory concentration against EGFR cytoplasmic sequence expressed in Sf9 cells,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1140398,,IN_VITRO_CONTEXT_UNCLEAR
+CHEMBL881949,Inhibitory concentration against EGFR kinase phosphorylation using synthetic peptide as a substrate,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1141048,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL884002,Inhibition of EGF-induced Tyrosine phosphorylation in A431 cells expressing EGF-R,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1134586,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL884483,Inhibitory activity against EGFR,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1140394,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL885861,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139073,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL887090,Inhibition of EGFR by radioactive filtration assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139197,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL892951,Inhibition of human EGFR in presence of 1 uM ATP,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147965,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL892954,Inhibition of human EGFR in presence of 1 mM ATP,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147965,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL893470,Inhibition of human EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1147910,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL896194,Inhibition of P-EGFR expressed in A431 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1148782,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL898017,Inhibition of EGFR kinase autophosphorylation in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1149691,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL902558,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139142,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL903494,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139130,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL903566,Inhibition of human EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1139135,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL904734,Inhibition of EGFR tyrosine kinase expressed in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1143067,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL906925,Inhibition of EGFR measured as pGAT-biotin peptide phosphorylation in presence of 2.0 uM ATP by HTRF assay,F,,,BAO_0000019,assay format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1149491,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL906926,Inhibition of EGFR autophosphorylation in DiFi cells by ELISA,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,DiFi,,CHEMBL203,9,D,CHEMBL1149491,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL908277,Inhibition of EGFR tyrosine kinase activity,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1137325,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL908512,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1141380,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL908988,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1139689,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL910357,Inhibition of ErbB1,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1149340,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL910453,Inhibitory activity against EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1138859,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL912344,Inhibition of Her1,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1137331,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL912717,Inhibition of human EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1137241,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL914501,Inhibition of Her1 kinase,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1149291,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL916319,"Displacement of [125I]4-(3-iodoanilino)-6,7-dimethoxyquinazoline from EGFR tyrosine kinase in human A431 cell membranes",B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1140296,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL916320,Inhibition of human EGFR tyrosine kinase phosphorylation expressed in mouse BaF3 cells,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,BaF3,,CHEMBL203,9,D,CHEMBL1140296,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL916323,Inhibition of DNA synthesis in EGF-dependent human MCF10A cells assessed as [3H]thymidine incorporation,F,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,MCF-10A,,CHEMBL203,9,D,CHEMBL1140296,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL919737,Inhibition of EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1144561,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL921076,Inhibition of EGFR autophosphorylation,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145498,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL921277,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143953,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL921778,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143964,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL923201,Inhibition of human recombinant EGFR expressed in insect Sf9 cells,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1140690,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL923922,Inhibition of human EGFR autophosphorylation in A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1140464,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL924156,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1140495,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL924351,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1140520,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL925198,Inhibition of partially purified EGFR tyrosine kinase from human A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1140492,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL928913,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1141539,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL928914,Inhibition of EGF-stimulated human EGFR autophosphorylation in KB cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,KB,,CHEMBL203,9,D,CHEMBL1141539,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL929426,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145598,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL929547,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1141507,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL930778,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1141561,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL934832,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145585,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL937170,Inhibition of ErbB1,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145498,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL937172,Inhibition of Her1,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145498,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL937186,Inhibition of wild type EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145498,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL939337,Inhibition of wild type EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145498,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL939338,Inhibition of EGFR L858R mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1145498,,MUTANT_SPECIFIC_REVIEW
+CHEMBL939339,Inhibition of EGFR L861Q mutant,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1145498,,MUTANT_SPECIFIC_REVIEW
+CHEMBL940057,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1145498,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL941404,Inhibition of EGFR in human A431 cells,B,,,BAO_0000219,cell-based format,Homo sapiens,9606.0,A-431,,CHEMBL203,9,D,CHEMBL1150213,,CELL_BASED_OR_CELL_ASSOCIATED
+CHEMBL941412,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1150213,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL944276,Inhibition of human recombinant EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1140899,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL945670,Inhibition of human EGFR tyrosine kinase activity,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1140956,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL946651,Inhibition of human EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1140956,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL946770,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143280,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL947896,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143160,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL949877,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1137681,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL952131,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143196,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL955786,Inhibition of HER1,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1152141,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL957461,Inhibition of EGFR expressed in human tumor cells,B,In vitro,,BAO_0000219,cell-based format,,,,,CHEMBL203,8,H,CHEMBL1150356,,IN_VITRO_CONTEXT_UNCLEAR
+CHEMBL957972,Inhibition of human recombinant EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1157465,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL959256,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153968,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL960396,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1140982,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL962243,Inhibition of human EGFR,B,,,BAO_0000357,single protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1151764,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL964130,Inhibition of EGFR L858R mutant by time resolved fluorescence assay,B,,,BAO_0000224,protein format,Homo sapiens,9606.0,,,CHEMBL203,9,D,CHEMBL1153290,,MUTANT_SPECIFIC_REVIEW
+CHEMBL964194,Inhibition of EGFR by HTRF assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153281,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL964195,Inhibition of EGFR by SPA assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153281,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL964945,Inhibition of EGFR by virtual HTS assay,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153282,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL970655,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1140082,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL970971,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157216,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL971642,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1156722,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL972533,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1138507,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL974188,Inhibition of human recombinant EGFR kinase expressed in Sf9 insect cells,B,In vitro,,BAO_0000219,cell-based format,Homo sapiens,9606.0,Sf9,,CHEMBL203,9,D,CHEMBL1142620,,BIOCHEMICAL_OR_RECOMBINANT_REVIEW
+CHEMBL976899,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1149823,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL978648,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1157167,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL980757,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1139415,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL980904,Inhibition of GST-tagged HER1,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1140084,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL984177,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1138470,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL984786,Inhibition of EGF-tyrosine kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1155111,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL986505,Inhibition of EGFR by ELISA,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1155833,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL987693,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1153982,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL991653,Inhibition of EGFR in presence of 100 uM ATP,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1142456,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL995846,Inhibition of EGFR kinase,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1143444,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL996040,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1156432,,OTHER_OR_REVIEW_REQUIRED
+CHEMBL998566,Inhibition of EGFR,B,,,BAO_0000357,single protein format,,,,,CHEMBL203,8,H,CHEMBL1141712,,OTHER_OR_REVIEW_REQUIRED

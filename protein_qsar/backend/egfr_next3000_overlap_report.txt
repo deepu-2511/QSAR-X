@@ -1,0 +1,22 @@
+EGFR NEXT 3,000 MOLECULE OVERLAP AUDIT
+==================================================
+Source activity file: verified_egfr_ic50.csv
+Existing QSAR dataset: CHEMBL203_IC50_clean.csv
+Unique IDs in source: 10851
+Selected ID range: 3001–6000
+Unique IDs selected: 3000
+Unique molecule IDs with structures: 2992
+Unique canonical structures retrieved: 2992
+Unique compounds overlapping existing dataset: 497
+Unique compounds not overlapping existing dataset: 2495
+Unique compounds with an existing Murcko scaffold: 1065
+Unique compounds with unseen Murcko scaffolds: 1927
+Activity rows in selected subset: 5647
+Output CSV: egfr_next3000_overlap.csv
+Progress CSV: egfr_next3000_progress.csv
+
+IMPORTANT:
+This is a compound/scaffold overlap audit, not independent
+external validation. Molecules can have multiple activity rows.
+Shared scaffolds do not necessarily mean identical compounds.
+The production QSAR model was not changed by this script.
