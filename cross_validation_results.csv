@@ -1,0 +1,2 @@
+model,folds,CV_R2,CV_RMSE,CV_MAE,fingerprint,radius,fp_size,random_seed
+Extra Trees,5,0.764457438156337,0.6969637753817468,0.5070404070597371,Morgan,2,2048,42
