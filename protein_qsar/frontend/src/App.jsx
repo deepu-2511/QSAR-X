@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import "./App.css";
 
-const API_URL = import.meta.env.VITE_API_URL || "";
+const API_URL = import.meta.env.VITE_API_URL || "https://qsar-x.onrender.com";
 const HISTORY_KEY = "qsar_x_prediction_history";
 const exampleSmiles = "CCOc1ccc2nc(S(N)(=O)=O)sc2c1";
 
